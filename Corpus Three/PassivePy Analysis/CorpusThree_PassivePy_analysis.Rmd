@@ -1,0 +1,342 @@
+---
+title: "CorpusThree_PassivePy_analysis"
+author: "Chloe Zehr"
+date: "2024-10-02"
+output: html_document
+---
+
+CORPUS THREE DATA OVERVIEW
+
+Collection: Manually collected via keyword searches - based on extensive close readings and secondary research - from History Commons digital archive (https://history-commons.net/). This corpus contains articles from between 1732 and 1775 published in the South Carolina Gazette and the Virginia Gazette(s) that reference resistance in the form of insurrections, conspiracies, plots, and rebellions that are not related to enslaved Africans and people of African descent. It contains 320 articles. This corpus is meant for content analysis, thus it is randomly sampled via keyword searches and contains at most 10 articles from every year (I tried to balance it by having 5 articles from the SCG and 5 from the VG for every year, however, there are a lot of years where only one paper has references to insurrections, rebellions, and conspiracies), thus it remains somewhat unbalanced.
+
+Metadata & variables: (NOTE: this corpus differs from Corpus One and Corpus Two due to labor and time constraints)
+1. newspaper name
+2. newspaper_ID_histCommons - only relevant for the Virginia Gazette(s) since there are multiple papers named the same thing, the number references the paper
+3. printer - name of the printer
+4. print_location - location of the printer
+5. date - in the format YYYY_MM_DD
+6. written_date - shows the date in "Month Day, Year" (this corpus contains another column with this info due to corrections)
+7. year
+8. text - contains the full text data of each article 
+9. notes - general research notes
+10. resistance_tag - lets me analyze all three corpora together and to mark which ones are related to enslaved Africans and people of African descent
+
+Loading/installing necessary packages:
+```{r}
+
+library(extrafont)
+library(udpipe)
+library(dplyr)
+library(tm)
+library(stringr)
+library(ggplot2)
+library(NLP)
+library(tokenizers)
+library(stringi)
+library(readxl)
+library(svglite)
+library(readxl)
+library(stringr)
+
+```
+
+loading data:
+```{r}
+
+file.choose()
+CorpusThree <- read.csv("C:\\Users\\chloe\\OneDrive - UCB-O365\\Masters Thesis 2024\\Computational Text Mining\\Corpora_final\\Corpus_Three.csv")
+
+```
+
+Loading/cleaning/prepping data for PassivePy (a tool that can detect passive voice, see GitHub repo: https://github.com/mitramir55/PassivePy?tab=readme-ov-file)
+```{r}
+# Specify the column names
+text_column <- "text"  # column name
+date_column <- "date"  # column name
+
+# Create a directory to save the text files
+dir.create("CorpusThree_text_files", showWarnings = FALSE)
+
+# Iterate over rows and write each text entry to a separate file
+for (i in 1:nrow(CorpusThree)) { 
+  # Construct the file name with the date and row number to ensure uniqueness - due to duplicate dates
+  file_name <- paste0("CorpusThree_text_files/text_", CorpusThree[[date_column]][i], "_row_", i, ".txt") #extracts row number to avoid overwriting dates that occur multiple times
+  
+  # Extract the text for this row and ensure it's a character type, removing line breaks from History Commons formatting
+  text <- as.character(CorpusThree[[text_column]][i])
+  text <- str_replace_all(text, "\\r?\\n", " ")  # Remove line breaks 
+  
+  # Write the cleaned text to a file
+  writeLines(text, file_name) 
+}
+
+# List files in the directory to verify
+created_files <- list.files("CorpusThree_text_files")
+print(created_files)
+print(paste("Number of files created:", length(created_files))) #shows me that the right number was created (should be 320)
+
+```
+
+
+Creating a Corpus with "tm": not necessary for passivPy but can be useful
+```{r}
+#Loading and sorting Corpus One so that it retains chronological order
+# Step 1: List the files and ensure they are sorted by the numeric part of their filenames
+file_paths <- list.files("C:/Users/chloe/OneDrive - UCB-O365/Masters Thesis 2024/Computational Text Mining/Corpora_final/CorpusThree_text_files", 
+                         pattern = "^text_\\d{4}_\\d{2}_\\d{2}_row_\\d+\\.txt$", 
+                         full.names = TRUE)
+print(file_paths)
+
+# Step 2: Sort the files based on the numeric portion of the filename
+sorted_file_paths <- file_paths[order(as.numeric(gsub("\\D", "", basename(file_paths))))] # I had to add this step because R was incorrectly reordering the text-files based on character so they were no longer chronological 
+
+# Step 3: Create the corpus using the sorted file paths
+Corpus3 <- Corpus(VectorSource(lapply(sorted_file_paths, readLines))) #could be used of other analyses
+
+```
+
+
+Preparing functions:
+```{r}
+
+# Function to extract the date from the filename to retain for diachronic analysis
+extract_date_from_filename <- function(file_name) {
+  # Regex to extract the date part (YYYY_MM_DD)
+  date <- str_extract(file_name, "\\d{4}_\\d{2}_\\d{2}") # may have to adjust depending on file naming pattern
+  return(date)
+}
+
+# Function for tokenizing that iterates over sentences
+tokenize_file_sentences <- function(file_path) {
+  # Read the file content
+  text <- paste(readLines(file_path), collapse = " ")
+  
+  # Regex pattern to split sentences
+  pattern <- "(?<=[^A-Z].[.?;])(?<!\\b(Mr|Ms|Capt|Col|Sir|Maj|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Viz)\\.)\\s+"
+  # regex pattern that identifies the punctuation to that should be used to tokenize as well as the patterns were the code should ignore the punctuation, such as honorifics and date abbreviations.
+  
+  # Tokenize the text into sentences
+  sentences <- stri_split_regex(text, pattern) # uses regex pattern to split the text files into sentences
+  
+  # Return the tokenized sentences as a vector
+  return(unlist(sentences))
+}
+
+# Custom function to clean sentences by removing integers/numbers and underscores - for these particular sources this was a necessary step to take
+clean_sentences <- function(sentence) {
+  # Remove all integers and underscores
+  cleaned_sentence <- gsub("[0-9]", "", sentence)   # Removes all numbers
+  cleaned_sentence <- gsub("_", "", cleaned_sentence) # Removes all underscores
+  cleaned_sentence <- gsub("-", "", cleaned_sentence) # Removes hyphens
+  
+  # Return the cleaned sentence
+  return(cleaned_sentence)
+}
+
+```
+
+Create data frame that stores tokenized sentences to pass through PassivePy's streamlit tool
+```{r}
+# List all text files in the directory
+file_list <- list.files(path = "C:/Users/chloe/OneDrive - UCB-O365/Masters Thesis 2024/Computational Text Mining/Corpora_final/CorpusThree_text_files", pattern = "*.txt", full.names = TRUE) # gets text files from Corpus Two folder (VG resistance corpus)
+
+# Initialize a list to store the tokenized sentences
+all_tokenized_sentences <- list()
+
+# Iterate over each file and tokenize the sentences
+for (file in file_list) {
+  # Tokenize sentences for the current file
+  tokenized_sentences <- tokenize_file_sentences(file) # function made above
+  
+  # Store the result in the list
+  all_tokenized_sentences[[file]] <- tokenized_sentences
+}
+
+# Creating a dataframe that contains all tokenized sentences and adds a doc_id and date to maintain context/identification
+CorpusThree_sentences_df <- bind_rows(lapply(names(all_tokenized_sentences), function(file_name) {
+  # Get tokenized sentences for the current file
+  sentences <- all_tokenized_sentences[[file_name]]
+  
+  # Extract the date from the file name
+  file_date <- extract_date_from_filename(file_name)
+  
+  # Create a dataframe with sentences, the corresponding file name, and extracted date from filename
+  data.frame(
+    file_name = file_name,
+    sentence = sentences,
+    date = file_date,  # Add the extracted date
+    stringsAsFactors = FALSE
+  )
+}), .id = "doc_id")
+
+# Further cleaning needed for compatibility with PassivePy/Spacy
+# Clean the 'sentence' column to remove integers and underscores
+CorpusThree_sentences_df$sentence <- sapply(CorpusThree_sentences_df$sentence, clean_sentences)
+
+### Step to ensure the 'sentence' column is valid and has no non-string data ###
+# Convert the 'sentence' column to character to ensure compatibility with PassivePy streamlit tool
+CorpusThree_sentences_df$sentence <- as.character(CorpusThree_sentences_df$sentence)
+
+# Replace any NA or NULL values in the sentence column with empty strings - this can occur with errors in tokenization
+CorpusThree_sentences_df$sentence[is.na(CorpusThree_sentences_df$sentence)] <- ""
+
+# Additional step: Remove any non-character or empty entries, ensuring every row is valid
+CorpusThree_sentences_df <- CorpusThree_sentences_df %>%
+  filter(sentence != "" & !is.na(sentence))
+
+# Verifying the CSV encoding: 
+# Save CSV with UTF-8 encoding (just to make sure it works with PassivePy)
+write.csv(CorpusThree_sentences_df, "CorpusThree_tokenized_sentences_cleaned.csv", row.names = FALSE, fileEncoding = "UTF-8")
+
+
+```
+
+Documentation for PassivePy results from https://passivepy.streamlit.app/. 
+# corpus level (one dataframe)
+document : Records in the input data frame
+binary : Whether a passive was detected in that document (0 or 1, 1 meaning passive voice was detected)
+passive_match(es) : Parts of the document detected as passive
+raw_passive_count : Number of passive voices detected in the sentence
+raw_passive_sents_count : Number of sentences with passive voice
+raw_sentence_count : Number of sentences detected in the document
+passive_sents_percentage : Proportion of passive sentences to total number of sentences
+date: YYYY_MM_DD, added by me (Zehr, Chloe)
+
+# Sentence level (one dataframe)
+docId : Initial index of the record in the input file
+sentenceId : The ith sentence in one specific record
+sentence : The detected sentence
+binary : Whether a passive was detected in that sentence (0 or 1, 1 meaning passive voice was detected)
+passive_match(es) : The part of the record detected as passive voice
+raw_passive_count : Number of passive forms detected in the sentence
+date: YYYY_MM_DD, added by me (Zehr, Chloe)
+
+
+Analyzing/Visualizing passivePy results from streamlit PassivePy tool (https://passivepy.streamlit.app/)
+```{r}
+
+#loading the dataset: 
+#file.choose()
+CorpusThree_sentenceLevel_PassPy <- read.csv("C:\\Users\\chloe\\OneDrive - UCB-O365\\Masters Thesis 2024\\Computational Text Mining\\Corpora_final\\CorpusThree_SentenceLevel_PassivePy.csv") 
+
+#Percentage of sentences with Passive Voice in the Corpus Three (content analysis corp)
+# the 'binary' column contains 1 for passive, 0 for active sentences
+# Calculate the percentage of passive sentences
+passive_percentage <- sum(CorpusThree_sentenceLevel_PassPy$binary == 1) / nrow(CorpusThree_sentenceLevel_PassPy) * 100
+
+# Calculate the relative frequency of active v. passive voice
+relative_freq <- CorpusThree_sentenceLevel_PassPy %>%
+  group_by(binary) %>%
+  summarise(count = n()) %>%
+  mutate(relative_frequency = count / sum(count)*100)  # Calculate relative frequency
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+fonts() #verify the font wanted is present
+
+#VISUALIZATION
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package - look at your console for prompt
+loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+# Create geom_col()
+ggplot(relative_freq, aes(x = factor(binary), y = relative_frequency, fill = factor(binary))) +
+  geom_col() +
+  scale_fill_manual(values = c("0" = "gray", "1" = "black"), labels = c("Active", "Passive")) +
+  labs(x = "Sentence Type", y = "Percent", fill = "Type") + 
+  theme_minimal() +
+  theme(text = element_text(family = "Times New Roman")) +
+  theme(
+    text = element_text(family = "Times New Roman", size = 14),
+    axis.title = element_text(size = 14),        # Axis titles font size
+    axis.text = element_text(size = 14),          # Axis text font size
+    legend.text = element_text(size = 14),        # Legend text font size
+    legend.title = element_text(size = 14)        # Legend title font size
+  )
+
+#exporting graph as SVG: 
+# Export ggplot as an SVG, SVG is the best for adding into a paper so that you can resize the image without losing quality
+ggsave("CorpusThree_relativeFrq_passive_plot.svg", plot = last_plot(), width = 6, height = 4)
+
+
+```
+
+
+Isolating passive voice constructions by context (consequences of resistance)
+```{r}
+# Load necessary libraries
+library(tidyverse)
+
+# Extract the year from the date column (assuming the column 'date' exists and is formatted as 'YYYY_MM_DD')
+CorpusThree_sentenceLevel_PassPy$year <- as.numeric(str_extract(CorpusThree_sentenceLevel_PassPy$date, "\\d{4}"))
+
+# Filter for sentences with passive constructions
+passive_df <- CorpusThree_sentenceLevel_PassPy %>% filter(all_passives_count > 0)
+
+# Defining (non-exhaustive) the flexible keywords related to the consequences faced
+flexible_keywords <- c(
+  "executed", "punished", "hanged", "whipped", "burned", "branded", 
+  "severely dealt", "imprisoned", "sentenced", "condemned", "death", 
+  "trial", "tried", "punishment", "penalty", "lashes", "discovered", 
+  "apprehended", "suppressed", "were brought", "were cut", "were burnt", 
+  "were hung", "was taken", "be tried", "destroyed", "been hung", "was hung", 
+  "half burnt", "was thrown", "was drove", "are exposed", "have been threatened", 
+  "were discovered", "were found", "are killed", "were left", "were kept", 
+  "were immediately told", "be punished", "were disposed", "been misled", 
+  "are detained", "has been laid", "was discovered", "were entirely suppressed", 
+  "having been tried", "is supposed", "was not passed", "found guilty", 
+  "being taken", "was thus saved", "has been discovered", "was found", 
+  "was luckily discovered", "being first stranged", "are fixed", "had been cut", 
+  "subdued", "have been obliged", "were killed", "was lost", "were expended", 
+  "were alarmed", "are suspected", "is hoped", "be subdued", "are now supposed", 
+  "has been lately discovered", "have been detected", "be divided", "was found", 
+  "have been committed", "were committed", "being deposed", "was found", "was become"
+)
+
+# Create a regex pattern from the keywords - just separating with "OR"
+pattern <- paste(flexible_keywords, collapse = "|")
+
+#filtering sentences
+consequences_df <- passive_df %>% 
+  filter(str_detect(sentences, regex(pattern, ignore_case = TRUE)))
+
+#Calculate the total passive counts
+total_passive_count <- sum(passive_df$all_passives_count, na.rm = TRUE)
+consequences_passive_count <- sum(consequences_df$all_passives_count, na.rm = TRUE)
+other_passive_count <- total_passive_count - consequences_passive_count
+
+#percent of passive voice that was used in the context of consequences
+percentage_consequences <- (consequences_passive_count / total_passive_count) * 100
+percentage_other <- 100 - percentage_consequences
+
+#summary
+summary_CorpusThree <- list(
+  Total_Passive_Count = total_passive_count,
+  Consequence_Passive_Count = consequences_passive_count,
+  Other_Passive_Count = other_passive_count,
+  Percentage_Consequence = percentage_consequences,
+  Percentage_Other = percentage_other
+)
+
+# Analyzing consequence-related passive constructions over time
+consequences_over_time <- consequences_df %>%
+  group_by(year) %>%
+  summarise(Consequence_Passive_Count = sum(all_passives_count, na.rm = TRUE))
+
+total_passives_over_time <- passive_df %>%
+  group_by(year) %>%
+  summarise(Total_Passive_Count = sum(all_passives_count, na.rm = TRUE))
+
+CorpusThree_passivesCon_overtime <- merge(consequences_over_time, total_passives_over_time, by = "year", all = TRUE) %>%
+  mutate(Percentage_Consequence_Passives = (Consequence_Passive_Count / Total_Passive_Count) * 100)
+
+#filtering out NA: 
+CorpusThree_passivesCon_overtime <- CorpusThree_passivesCon_overtime %>% filter(Consequence_Passive_Count != "NA")
+
+# View the result
+print(Corpus_passivesCon_overtime)
+
+
+```
