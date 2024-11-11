@@ -10,7 +10,7 @@ In doing so, this project employs digital methods to re-examine the well-trod ar
 
 To locate and isolate lexical descriptions of armed or violent black unrest, I define the rhetoric of collective enslaved resistance—a phrase I employ interchangeably with the historian Kellie Carter Jackson’s notion of black “political violence,”—as the language white authors used to describe, lament, and imagine acts of open enslaved insurrection, conspiracy scares, plots, and uprisings.  Therefore, the language in which the colonial press presented other methods of individual, or what historians have often described as everyday enslaved resistance, such as escape, work slowdowns, and sabotage is generally excluded from textual data examined in this project. However, methods of black political violence and enslaved resistance in the eighteenth century were never mutually exclusive.
 
-As a case study, this project engages with contemporary discussions at the forefront of interdisciplinary scholarship at the intersections between studies of early modern slavery, enslaved resistance, colonialism, race, and capitalism and digital history, digital humanities, and data science. 
+As a case study, this project engages with contemporary discussions at the forefront of interdisciplinary scholarship at the intersections between studies of early modern slavery, enslaved resistance, colonialism, race, and capitalism and digital history, digital humanities (particularly critical black DH), and data science. 
 
 ## Why Computational Text Analysis
 
