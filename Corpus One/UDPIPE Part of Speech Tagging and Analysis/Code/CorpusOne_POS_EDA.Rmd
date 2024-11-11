@@ -1,0 +1,766 @@
+---
+title: "UDPIPE_POS_tagged_SCG_1732_1775"
+author: "Chloe Zehr"
+date: "2024-09-21"
+output: html_document
+---
+
+CORPUS ONE DATA OVERVIEW
+
+Collection: Manually collected via keyword searches - based on extensive close readings and secondary research - from History Commons digital archive (https://history-commons.net/). Between 1732, the year of the first Virginia Gazette's founding, and 1775 there are at least 43 articles published in the South Carolina Gazette that reference collective enslaved/black unrest. 
+
+Metadata & variables: 
+1. newspaper name
+2. newspaper_ID_histCommons - only relevant for the Virginia Gazette(s) since there are multiple papers named the same thing, the number references the paper
+3. printer - name of the printer
+4. print_location - location of the printer
+5. date - in the format YYYY_MM_DD
+6. written_date - shows the date in "Month Day, Year"
+7. year
+8. reference_type - this indicates the kind of reference to enslaved resistance in the article can can be one of the following: legislation, declaration, intended insurrection, occurred insurrections, rebels, shipboard resistance, stirring up
+9. reference_location - the location referenced in the article regarding enslaved resistance
+10. author_informant_gender - if known, records the gender of the identified author or informant of the report 
+11. text - contains the full text data of each article 
+12. notes - general research notes
+
+Loading necessary libraries:
+```{r}
+
+library(udpipe) #part of speech tagging
+library(tidyverse) #general utility and tokenization
+library(dplyr) #general utility
+library(tm) #text mining
+library(stringr) #manipulating strings
+library(ggplot2) #basic visualizations
+library(NLP) #natural language processing tools
+library(ggraph) # for graphing cooccurrence
+library(igraph) # for graphing cooccurrence
+library(readxl) #for reading excel sheets
+library(extrafont) #for fonts
+library(gganimate) #animating data
+library(widyr) #for pairwise
+library(ggrepel) #for graphing aesthetics with word
+library(quanteda) #works with text data and has a built in concordance feature
+library(textstem) #lemmatizing for concordance
+library(tidytext) #text mining package
+
+```
+
+
+loading data:
+```{r}
+
+#file.choose()
+
+#Loading csv dataset into environment
+CorpusOne <- read.csv("C:\\Users\\chloe\\OneDrive\\Desktop\\OneDrive - UCB-O365\\Masters Thesis 2024\\GitHub Repo\\Corpus One\\Data\\Corpus_One.csv")
+
+
+```
+
+
+General exploratory data analysis (EDA) of reference types
+```{r}
+
+#reference type categories in reports that make mention of enslaved resistance
+refence_type_count <- CorpusOne %>% 
+  select(reference_type) %>% 
+  group_by(reference_type) %>%
+  count(reference_type) %>%
+  arrange(desc(n))
+
+```
+
+
+Basic concordance analysis with lemmas 
+```{r}
+CorpusOne$text <- iconv(CorpusOne$text, from = "UTF-8", to = "UTF-8", sub = "byte") #sets encoding to UTF-8, there can be some compatibility issues depending on the format of the data
+CorpusOne$text_lemma <- lemmatize_strings(CorpusOne$text) #turning all tokens into lemmas (the base forms of words) - this is optional depending on goals
+corpus_lemma <- corpus(CorpusOne, text_field = "text_lemma") #creates a corpus 
+tokens_lemma <- quanteda::tokens(corpus_lemma, remove_punct = TRUE) #removes punctuation
+
+#exploring target words:
+#insurrection
+insurrections_con <- kwic(concordance_tokens, pattern = "insurrections", window = 6) # the kwic() function finds keywords in context - you can specify the window
+ 
+#we
+we_con <- kwic(concordance_tokens, pattern = "we", window = 6) 
+
+#our
+our_con <- kwic(concordance_tokens, pattern = "our", window = 6) 
+
+#suppress
+suppress_con <- kwic(concordance_tokens, pattern = "suppress", window = 6) 
+
+#subdue
+subdue_con <- kwic(tokens_lemma, pattern = "subdue", window = 6) 
+
+#prevent
+prevent_con <- kwic(tokens_lemma, pattern = "prevent", window = 6) 
+
+#black
+black_con <- kwic(tokens_lemma, pattern = "black", window = 6) 
+
+#african
+african_con <- kwic(tokens_lemma, pattern = "africa", window = 6) 
+
+#rebellious
+rebel_con <- kwic(tokens_lemma, pattern = "rebellious", window = 6) 
+
+#their
+their_con <- kwic(tokens_lemma, pattern = "their", window = 6)
+
+#wicked
+wicked_con <- kwic(tokens_lemma, pattern = "wicked", window = 6)
+
+
+```
+
+
+Word co-occurence over time (POS tagging with UDPIPE)
+1. loading data and model:
+```{r}
+
+#selecting data
+text_time <- CorpusOne %>% #subsetting the data to the text and year columns
+  select(text, year)
+
+#load UDPIPE language model if needed: 
+model <- udpipe_download_model(language = "english", overwrite = FALSE)
+ud_model <- udpipe_load_model(model$file_model)
+
+```
+
+
+2. Annotating the corpus while maintaining year information:
+```{r}
+# Annotate with UDPIPE for text data and add year information
+pos_annotate_year <- function(text, year, model) { #new function for adding the year variable to the annotated dataframe which UDPIPE does not usually keep
+  annotated <- as.data.frame(udpipe_annotate(model, x = text))
+  annotated$year <- year  # Add the year column
+  return(annotated)
+}
+
+#in case there is an encoding issue
+text_time$text <- iconv(text_time$text, from = "UTF-8", to = "UTF-8", sub = "byte")
+
+# Applies annotation to each text and maintain year information; iterates over each text (or each row/observation in the dataset)
+text_time$annotation_df <- mapply(pos_annotate_year, text_time$text, text_time$year, MoreArgs = list(model = ud_model), SIMPLIFY = FALSE)
+
+```
+
+
+3. Removing any invalid annotations - debugging
+```{r}
+
+# Check for invalid annotations
+invalid_annotations <- sapply(text_time$annotation_df, function(x) is.null(x) || nrow(x) == 0) #creates object that stores invalid annotations
+
+# Filter the data frame based on valid annotations
+valid_indices <- which(!invalid_annotations) #removes any invalid annotations from the original dataframe
+text_time <- text_time[valid_indices, ]
+
+# prints nessage to highlight the areas with any invalid annotations 
+if (any(invalid_annotations)) {
+  print("Texts with invalid annotations:")
+  print(text_time$text[invalid_annotations])
+}
+
+```
+
+
+4. Combining all the annotated data for each row (or text) into one df that maintains year information
+```{r}
+
+# Use bind_rows to combine the list of dataframes - this can bypass issues with memory management and relatively large dataframes like those of UDPIPE and retains the "year" variable
+annotated_data <- bind_rows(text_time$annotation_df)
+
+# view the first few rows of the new dataframe
+head(annotated_data)
+
+#making all lemmas lowercase - helps to prevent seeing duplicate words
+annotated_data$lemma <- tolower(annotated_data$lemma) 
+
+
+write.csv(annotated_data, "C:/Users/chloe/OneDrive/Desktop/OneDrive - UCB-O365/Masters Thesis 2024/GitHub Repo/Corpus One/UDPIPE Part of Speech Tagging and Analysis/Data/CorpusOne_Annotated_Data.csv")
+
+```
+
+
+5. Visualize in 10-year intervals: (NOTE: there are no articles in the SCG published that refer to collective enslaved resistance in 1774 and 1775 - in addition, there are years and decades with very few articles, sometimes zero or only 1, making noun and adjective co-occurence not a very useful measurement). 
+
+1732-1742       
+```{r}
+annotated_1732_1742 <- annotated_data %>% filter(year >= 1732 & year <= 1742) #subsetting data by year
+
+#NOUNS AND ADJECTIVES
+# Filter for POS tags and nouns/adjectives that follow one another
+noun_adj_cooc_1732_1742 <- cooccurrence(annotated_1732_1742$lemma, relevant = annotated_1732_1742$upos %in% c("NOUN", "ADJ"), skipgram = 20) #skipgram model; shallow neural network algorithm; looks for word co-occurrence in a 20 word window. You could also use skip-gram of 1, and then manually set window size
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(noun_adj_cooc_1732_1742, 100)
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_NOUN_ADJ_cooc_1732_1734.svg", plot = last_plot(), width = 6, height = 4)
+
+
+#PRONOUNS, VERBS, ADVERBS (switch to token in order to account for lemmas of pronouns like "we" and "our")
+pron_verb_cooc_1732_1742 <- cooccurrence(annotated_1732_1742$token, relevant = annotated_1732_1742$upos %in% c("PRON", "VERB"), skipgram = 15) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+wordnetwork <- head(pron_verb_cooc_1732_1742, 100)
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_PRON_VERB_cooc_1732_1742.svg", plot = last_plot(), width = 7, height = 5)
+
+
+
+#pronouns and nouns
+pron_noun_cooc_1732_1742 <- cooccurrence(annotated_1732_1742$token, relevant = annotated_1732_1742$upos %in% c("PRON", "NOUN"), skipgram = 20) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+wordnetwork <- head(pron_noun_cooc_1732_1742, 100)
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+ggsave("CorpusOne_PRON_NOUN_cooc_1732_1742.svg", plot = last_plot(), width = 7, height = 5)
+
+```
+
+
+1743-1753
+```{r}
+annotated_1743_1753 <- annotated_data %>% filter(year >= 1743 & year <= 1753)
+
+#NOUNS AND ADJECTIVES
+# Filter for POS tags and nouns/adjectives that follow one another
+noun_adj_cooc_1743_1753 <- cooccurrence(annotated_1743_1753$lemma, relevant = annotated_1743_1753$upos %in% c("NOUN", "ADJ"), skipgram = 10) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(noun_adj_cooc_1743_1753, 30)
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_noun_adj_cooc_1743_1753.svg", plot = last_plot(), width = 6, height = 4)
+
+
+#PRONOUNS, VERBS, ADVERBS (switch to token in order to account for lemmas of pronouns like "we" and "our")
+pron_verb_cooc_1743_1753 <- cooccurrence(annotated_1743_1753$token, relevant = annotated_1743_1753$upos %in% c("PRON", "VERB"), skipgram = 20) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(pron_verb_cooc_1743_1753, 30) #isolates 30 most frequent co-occurrences
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_pron_verb_cooc_1743_1753.svg", plot = last_plot(), width = 6, height = 4)
+
+```
+
+
+1754-1764
+```{r}
+annotated_1754_1764 <- annotated_data %>% filter(year >= 1754 & year <= 1764)
+
+#NOUNS AND ADJECTIVES
+# Filter for POS tags and nouns/adjectives that follow one another
+noun_adj_cooc_1754_1764 <- cooccurrence(annotated_1754_1764$lemma, relevant = annotated_1754_1764$upos %in% c("NOUN", "ADJ"), skipgram = 15) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(noun_adj_cooc_1754_1764, 30)
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_noun_adj_cooc_1754_1764.svg", plot = last_plot(), width = 7, height = 5)
+
+
+#PRONOUNS, VERBS, ADVERBS (switch to token in order to account for lemmas of pronouns like "we" and "our")
+pron_verb_cooc_1754_1764 <- cooccurrence(annotated_1754_1764$token, relevant = annotated_1754_1764$upos %in% c("PRON", "VERB", "ADV"), skipgram = 10) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(pron_verb_cooc_1754_1764, 30) #isolates 30 most frequent co-occurrences
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_pron_verb_cooc_1754_1764.svg", plot = last_plot(), width = 6, height = 4)
+
+
+#pronouns and nouns
+pron_noun_cooc_1754_1764 <- cooccurrence(annotated_1754_1764$token, relevant = annotated_1754_1764$upos %in% c("PRON", "NOUN"), skipgram = 20) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+wordnetwork <- head(pron_noun_cooc_1754_1764, 100)
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+ggsave("CorpusOne_PRON_NOUN_cooc_1754_1764.svg", plot = last_plot(), width = 7, height = 5)
+```
+
+
+1765-1775
+```{r}
+
+annotated_1765_1775 <- annotated_data %>% filter(year >= 1765 & year <= 1775)
+
+#NOUNS AND ADJECTIVES
+# Filter for POS tags and nouns/adjectives that follow one another
+noun_adj_cooc_1765_1775 <- cooccurrence(annotated_1765_1775$lemma, relevant = annotated_1765_1775$upos %in% c("NOUN", "ADJ"), skipgram = 30) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window (or just use skip-gram)
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(noun_adj_cooc_1765_1775, 50) #because all bigrams only occur once I expanded to include insurrection reference; not a very useful visualization
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_noun_adj_cooc_1765_1775.svg", plot = last_plot(), width = 6, height = 4)
+
+
+#PRONOUNS, VERBS, ADVERBS (switch to token in order to account for lemmas of pronouns like "we" and "our")
+pron_verb_cooc_1765_1775 <- cooccurrence(annotated_1765_1775$token, relevant = annotated_1765_1775$upos %in% c("PRON", "VERB"), skipgram = 20) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(pron_verb_cooc_1765_1775, 75) #isolates 30 most frequent co-occurrences
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_pron_verb_cooc_1765_1775.svg", plot = last_plot(), width = 7, height = 5)
+
+
+
+#pronouns and nouns
+pron_noun_cooc_1765_1775 <- cooccurrence(annotated_1765_1775$token, relevant = annotated_1765_1775$upos %in% c("PRON", "NOUN"), skipgram = 20) #skipgram model; shallow neural network algorithm
+
+# Create co-occurrence pairs within a 5-word window
+#window_size <- 5
+
+# for changing font: 
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+wordnetwork <- head(pron_noun_cooc_1765_1775, 50) #isolates 30 most frequent co-occurrences
+wordnetwork <- graph_from_data_frame(wordnetwork)
+ggraph(wordnetwork, layout = "fr") +
+  geom_edge_link(aes(width = cooc, edge_alpha = cooc), edge_colour = "#ed9de9") +
+  geom_node_text(aes(label = name), col = "black", size = 4, family = "Times New Roman") +
+  theme_void() +  # This will remove the axes and grid
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11)       # Legend title font size
+  )
+
+#saves the most recent graph as a .svg which can be resized without using quality in Word
+ggsave("CorpusOne_pron_noun_cooc_1765_1775.svg", plot = last_plot(), width = 7, height = 5)
+
+
+```
+
+
+The use of pronouns:
+```{r}
+#WE
+# Filter for "we" lemma and make all tokens lowercase
+annotated_we <- annotated_data %>%
+  filter(str_to_lower(lemma) == "we") %>%   # Convert lemma to lowercase during filtering
+  mutate(token = str_to_lower(token),       # Convert token to lowercase
+         lemma = str_to_lower(lemma))       # Ensure lemma is lowercase as well
+
+# Splitting into 10-year intervals
+annotated_we <- annotated_we %>%
+  mutate(interval = cut(year, 
+                        breaks = c(1732, 1742, 1752, 1762, 1772, 1775),  # Define custom breaks for 10-year intervals
+                        include.lowest = TRUE, 
+                        labels = c("1732-1741", "1742-1751", "1752-1761", "1762-1771", "1772-1775")))
+
+#graph over time
+ggplot(annotated_we) + 
+  geom_bar(mapping = aes(token)) + 
+  facet_wrap(~interval, scales = "free_x") +   # Free x-scales to display x-axis on every facet rather than just at the bottom 
+  labs(x = "Token", y = "Count") + 
+  theme_minimal() +
+  theme(text = element_text(family = "Times New Roman")) +
+  theme(
+    text = element_text(family = "Times New Roman", size = 11, color = "black"),
+    axis.title = element_text(size = 11),        # Axis titles font size
+    axis.text = element_text(size = 11),         # Axis text font size
+    legend.text = element_text(size = 11),       # Legend text font size
+    legend.title = element_text(size = 11),      # Legend title font size
+    panel.spacing = unit(1.5, "lines"),          # Adjust space between facets (increase as needed)
+    strip.text = element_text(size = 12),        # Facet labels font size
+    axis.text.x = element_text(angle = 45, hjust = 1)  # Rotate x-axis text if needed
+  )
+
+ggsave("CorpusOne_We_intervals.svg", plot = last_plot(), width = 6, height = 4)
+
+
+#general pronouns (pronouns, indefinite pronouns, demonstrative pronouns)
+annotated_pron <- annotated_data %>% filter(upos == "PRON")
+annotated_pron <- annotated_pron %>% mutate(token = str_to_lower(token))
+annotated_pron_count <- annotated_pron %>% 
+  group_by(token) %>%
+  count(token) %>%
+  arrange(desc(n))
+
+pron_top30 <- head(annotated_pron_count, 30)
+
+#most frequent pronouns in the corpus: 
+ggplot(pron_top30) + 
+  geom_col(mapping = aes(x = n, y = fct_reorder(token, n))) + 
+  labs(x = "Count", y = "Pronoun") + 
+  theme_minimal() +
+  theme(text = element_text(family = "Times New Roman")) +
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    axis.title = element_text(size = 11),        # Axis titles font size
+    axis.text = element_text(size = 11),          # Axis text font size
+    legend.text = element_text(size = 11),        # Legend text font size
+    legend.title = element_text(size = 11)        # Legend title font size
+  )
+
+ggsave("CorpusOne_gen_pronouns.svg", plot = last_plot(), width = 6, height = 4)
+
+
+```
+
+
+The types of articles that contain "we": 
+```{r}
+
+we_filtered <- CorpusOne %>% 
+  filter(str_detect(str_to_lower(text), "\\b(we|us|our)\\b")) #makes lowercase and uses regex to find rows that contain forms of "we" 
+
+we_count <- we_filtered %>% 
+  group_by(reference_type) %>%
+  count(reference_type) %>% 
+  arrange(desc(n))
+
+```
+
+
+Examining sentences that contain target words: Syntactic Dependency Relationships
+```{r}
+
+#creating set of target lemmas related to enslaved resistance
+target_lemmas <- c("insurrection", "insurrections", "plott", "slave", "slaves", "negro", "negroes", "rebellious", "intended", "massacre", "conspiracy", "conspiracies", "rebel", "attempts", "rising", "plot", "uprising", "wicked", "ringleader", "king", "leader", "whites", "discovered", "suppress")
+
+#filtering dataset for observations that contain target words
+filtered_dat <- annotated_data %>%
+  filter(lemma %in% target_lemmas)
+
+#frequency of dependency relationships
+dep_rel_count <- filtered_dat %>%
+  count(lemma, dep_rel) %>%
+  arrange(desc(n))
+
+#dependency relationships by year (not the most useful information since it decontextualizes sentences)
+dep_rel_year <- filtered_dat %>%
+  group_by(year, lemma, dep_rel) %>%
+  summarise(count = n(), .groups = "drop") %>% 
+  arrange(year, desc(count))
+
+#looking at relationships between two words in a sentence
+si_target_lemmas <- c("slave", "insurrection")
+
+#finding sentence_ID's with both words present
+sentences_si <- annotated_data %>%
+  group_by(sentence_id) %>%
+  filter(any(lemma == "slave") & any(lemma == "insurrection"))
+
+#getting dependency relationships for "slave" and "insurrection" when they are used in a sentence together
+dep_rel_si <- sentences_si %>%
+  filter(lemma %in% si_target_lemmas) %>%
+  select(sentence_id, year, lemma, dep_rel)
+
+#analyzing their relationships overtime
+time_dep_rel_si <- dep_rel_si %>%
+  group_by(year, sentence_id, lemma) %>%
+  summarise(dep_rel_count = n(), .groups = 'drop') %>%
+  arrange(year, desc(dep_rel_count))
+
+#visualizing trends in the dep_rel between the lemmas "slave" and "insurrection"
+ggplot(dep_rel_si) + 
+  geom_bar(mapping = aes(x = dep_rel, fill = lemma))
+
+
+###### how dependency relations changed over time between the lemmas insurrection, rebel, rebellious, negro, slave
+target_lemmas2 <- c("insurrection", "slave", "rebel", "rebellious", "negroes", "negro") #note that slave is the lemma for "slaves" 
+
+filtered_dat2 <- annotated_data %>%
+  filter(lemma %in% target_lemmas2)
+
+dep_trends <- filtered_dat2 %>%
+  group_by(year, lemma, dep_rel) %>%
+  summarise(count = n(), .groups = "drop")
+
+dep_freq <- dep_trends %>%
+  mutate(perc = count/sum(count)*100)
+
+dep_freq_select <- dep_freq %>% filter(year <= 1749)
+dep_freq_select <- dep_freq_select %>% filter(dep_rel != "flat" & dep_rel != "root")
+
+#load necessary fonts
+#font_import() #getting fonts from "extrafont" package
+#loadfonts(device = "win")  # needed for Windows
+#fonts() #verify the font wanted is present
+
+# Plot dependency relationships over time for target words
+ggplot(dep_freq_select, aes(x = year, y = perc, fill = dep_rel)) +
+  geom_col() +
+  facet_wrap(~ lemma, scales = "fixed") +
+  theme_minimal() + 
+  labs(x = "Year", y = "% frequency") +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1), #adding 45 degree angle to x-axis
+    axis.ticks.x = element_line(size = 0.5), #x-axis ticks
+    panel.spacing = unit(1, "lines"), #adding more space between each facet
+    text = element_text(family = "Times New Roman", size = 11),
+    axis.title = element_text(size = 11),        # Axis titles font size
+    axis.text = element_text(size = 11),          # Axis text font size
+    legend.text = element_text(size = 11),        # Legend text font size
+    legend.title = element_text(size = 11)        # Legend title font size
+  )
+
+
+ggsave("CorpusOne_dep_rel_CountsNEW.svg", plot = last_plot(), width = 7, height = 5)
+
+
+
+
+```
+
+
+Pronoun Usage Overtime in Corpus One and Corpus Two
+Notes: 
+```{r}
+#file.choose() to load any necessary data 
+
+
+# Define a list of pronouns to analyze
+pronouns <- c("we", "us", "our", "they", "them", "their")
+
+# Creating a function to calculate frequency of each pronoun per 10,000 words - normalizes the count to generate a more accurate representation of word frequency over time that accounts for variable article lengths
+calculate_pronoun_frequencies <- function(data, text_column) {
+  
+  # Calculate total word count per row in the dataset
+  data <- data %>%
+    mutate(total_word_count = str_count(!!sym(text_column), "\\S+"))
+  
+  # Count occurrences of each pronoun in the text column only
+  for (pronoun in pronouns) {
+    data <- data %>%
+      mutate(!!paste0(pronoun, " ") := str_count(!!sym(text_column), 
+                                                      regex(paste0("\\b", pronoun, "\\b"), ignore_case = TRUE)))
+  }
+  
+  # Aggregate counts and word counts by year
+  data %>%
+    group_by(year) %>%
+    summarize(across(ends_with(" "), sum, na.rm = TRUE),
+              total_word_count = sum(total_word_count, na.rm = TRUE)) %>%
+    
+    # Normalize each pronoun count to per 10,000 words
+    mutate(across(ends_with(" "), ~ (.x / total_word_count) * 10000, .names = "{.col}_per_10k_words"))
+}
+
+# Apply the function to Corpus One and Corpus Two
+pronoun_freq_sc <- calculate_pronoun_frequencies(Corpus_One, "text")
+pronoun_freq_vg <- calculate_pronoun_frequencies(Corpus_Two, "text")
+
+# Inspect first few rows of the results
+head(pronoun_freq_sc)
+head(pronoun_freq_vg)
+
+
+# Create a new column that adds corpus identifier for visualization (for the fill or line_type arguments in ggplot)
+pronoun_freq_sc <- pronoun_freq_sc %>% mutate(source = "Corpus One")
+pronoun_freq_vg <- pronoun_freq_vg %>% mutate(source = "Corpus Two")
+
+# Combine pronoun frequency data from Corpus One (sc) and Corpus Two (vg)
+combined_data <- bind_rows(pronoun_freq_sc, pronoun_freq_vg)
+
+# Pivot to long format, specifying pronoun columns manually
+# Replace 'Year' with your year column name if different
+long_data <- combined_data %>%
+  pivot_longer(cols = c("We", "Us", "Our", "They", "Them", "Their"),
+               names_to = "pronoun",
+               values_to = "frequency") %>%
+  rename(year = Year)
+
+# Filter out any unwanted rows (if applicable)
+long_data_sel2 <- long_data %>% filter(pronoun != "total_word_count") #this is generated in the function "calculate_pronoun_frequencies()"
+
+# Check the structure of the long data to confirm transformation
+head(long_data_sel2)
+
+#visulaize facet wrapped data of pronouns from Corpus One and Corpus Two over time
+ggplot(long_data_sel2, aes(x = year, y = frequency, color = source, linetype = source)) +
+  geom_line(size = 1) +
+  facet_wrap(~ pronoun) +  # Separate plots for each pronoun
+  labs(
+    x = "Year",
+    y = "Frequency per 10,000 words"
+  ) +
+  theme_minimal() +
+  theme(
+    text = element_text(family = "Times New Roman", size = 11),
+    axis.title = element_text(size = 11),        # Axis titles font size
+    axis.text = element_text(size = 11),          # Axis text font size
+    legend.text = element_text(size = 11),        # Legend text font size
+    legend.position = "bottom",
+    axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1), # 45-degree angle for x-axis text
+    legend.title = element_blank()                # Removes the "source" label from the legend
+  ) +
+  scale_color_manual(
+    values = c("Corpus One" = "#1f77b4", "Corpus Two" = "#ff7f0e") # Blue & Orange colors
+  )
+
+
+ggsave("Combined_pronoun_counts.svg", plot = last_plot(), width = 6, height = 8)
+
+
+```
+
