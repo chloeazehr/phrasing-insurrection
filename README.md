@@ -10,13 +10,12 @@ To locate and isolate lexical descriptions of armed or violent black unrest, I d
 
 As a case study, this project engages with contemporary discussions at the forefront of interdisciplinary scholarship at the intersections between studies of early modern slavery, enslaved resistance, colonialism, race, and capitalism and digital history, digital humanities (particularly critical black DH), and data science. 
 
-## Why Computational Text Analysis
+## Why Computational Text Analysis?
 
 
 
-## Computational Tools & Techniques 
-
-### Why R and Rstudio?
+## Computational Tools, Techniques, and Resources
+### R and Rstudio
 The code for this project was written in [R](https://www.r-project.org/), an open-source programming lagnuage designed for data analysis and statstical computing, and compiled in [Rstudio](https://posit.co/download/rstudio-desktop/), an open-source integrated development environment that (IDE) that allows for better interfacing with R. Like popular programming languages like Python, R has great utility for computational text mining—as it has numerous libraries that faciliate text data exploration, experimentation, and visualization. While R is not as general purpose as other programming languages (Python, Java, C++, etc.), it has a lower barrier to entry for interdisciplinary scholars and novice coders like myself. For historians and digital humanists alike looking to learn data science techniques in R or Python, the free online resource [Coding the Past](https://www.codingthepast.com/) offers numerous intructory, intermediate, and advanced tutorials based in historical methods and data. In addition, resources such as the [Programming Historian](https://programminghistorian.org/en/lessons/) offer more advanced programming lessons that explore topics such as distant reading techniques, mapping, and network analysis. 
 
 ### Necessary R Packages, Libraries, and External Tools
