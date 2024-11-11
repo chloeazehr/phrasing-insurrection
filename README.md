@@ -19,7 +19,7 @@ As a case study, this project engages with contemporary discussions at the foref
 ## Necessary R Packages, Libraries, and External Tools
 
 ### External Tools
-- PassivePy: a python and spacy based transparent tool developed by Amir Sepehri, Mitra Sadat Mirshafiee, and David M. Markowitz to automatically detect passive voice. [PassivePy] (https://github.com/mitramir55/PassivePy), which also has a [streamlit application] (https://passivepy.streamlit.app/), enables researches to automatically detect passive voice constructions in both large and small text data, making it a versatile and flexible tool for examining English language text data (inclduing historical).
+- PassivePy: a python and spacy based transparent tool developed by Amir Sepehri, Mitra Sadat Mirshafiee, and David M. Markowitz to automatically detect passive voice. [PassivePy](https://github.com/mitramir55/PassivePy), which also has a [streamlit application] (https://passivepy.streamlit.app/), enables researches to automatically detect passive voice constructions in both large and small text data, making it a versatile and flexible tool for examining English language text data (inclduing historical).
 - Sketch Engine: [Sketch Engine] (https://www.sketchengine.eu/) is an online computational corpus linguistics platform that supports a wide variety of tools for examining language. The primary draw back of this platform is that it is subscription based.
   
 ### Basic Utility
