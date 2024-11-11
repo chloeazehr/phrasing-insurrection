@@ -1,0 +1,391 @@
+year,source,pronoun,frequency,,pronoun_prop
+1732,The South Carolina Gazette,we,23.31002331002331,,We
+1733,The South Carolina Gazette,we,43.40748779164406,,We
+1734,The South Carolina Gazette,we,7.127583749109053,,We
+1735,The South Carolina Gazette,we,30.816640986132512,,We
+1736,The South Carolina Gazette,we,11.481056257175661,,We
+1736,The Virginia Gazette,we,59.45303210463734,,We
+1737,The South Carolina Gazette,we,6.345177664974619,,We
+1737,The Virginia Gazette,we,40.26845637583893,,We
+1738,The South Carolina Gazette,we,43.84042086804033,,We
+1738,The Virginia Gazette,we,30.81232492997199,,We
+1739,The South Carolina Gazette,we,253.1645569620253,,We
+1739,The Virginia Gazette,we,0,,We
+1740,The South Carolina Gazette,we,54.44646098003629,,We
+1741,The South Carolina Gazette,we,47.961630695443645,,We
+1742,The South Carolina Gazette,we,28.59866539561487,,We
+1743,The South Carolina Gazette,we,32.85420944558521,,We
+1744,The South Carolina Gazette,we,21.116138763197586,,We
+1745,The South Carolina Gazette,we,22.624434389140273,,We
+1745,The Virginia Gazette,we,26.223776223776223,,We
+1746,The South Carolina Gazette,we,105.72139303482588,,We
+1746,The Virginia Gazette,we,46.751968503937015,,We
+1747,The South Carolina Gazette,we,35.94967046,,We
+1748,The South Carolina Gazette,we,21.451555237754736,,We
+1749,The South Carolina Gazette,we,19.43634596695821,,We
+1750,The South Carolina Gazette,we,67.87330316742081,,We
+1751,The South Carolina Gazette,we,0,,We
+1751,The Virginia Gazette,we,17.513134851138354,,We
+1752,The South Carolina Gazette,we,108.69565217391305,,We
+1752,The Virginia Gazette,we,19.53125,,We
+1753,The South Carolina Gazette,we,31.25,,We
+1754,The South Carolina Gazette,we,0,,We
+1754,The Virginia Gazette,we,83.33333333333333,,We
+1755,The South Carolina Gazette,we,50.81300813,,We
+1755,The Virginia Gazette,we,16.10305958132045,,We
+1756,The South Carolina Gazette,we,44.69273743,,We
+1756,The Virginia Gazette,we,42.55319149,,We
+1757,The South Carolina Gazette,we,60.120240480961925,,We
+1759,The South Carolina Gazette,we,58.72931126534971,,We
+1760,The South Carolina Gazette,we,29.182879377431906,,We
+1761,The South Carolina Gazette,we,67.56756756756756,,We
+1761,The Virginia Gazette,we,72.46376811594203,,We
+1762,The South Carolina Gazette,we,21.413276231263385,,We
+1763,The South Carolina Gazette,we,55.749128919860624,,We
+1764,The South Carolina Gazette,we,45.537340619307834,,We
+1765,The South Carolina Gazette,we,66.22516556,,We
+1766,The South Carolina Gazette,we,57.92522380200106,,We
+1766,The Virginia Gazette,we,43.561121698883746,,We
+1767,The South Carolina Gazette,we,104.16666666666666,,We
+1767,The Virginia Gazette,we,0,,We
+1768,The South Carolina Gazette,we,0,,We
+1768,The Virginia Gazette,we,24.928774928774928,,We
+1769,The South Carolina Gazette,we,29.49852507374631,,We
+1769,The Virginia Gazette,we,36.496350364963504,,We
+1770,The South Carolina Gazette,we,56.074766355140184,,We
+1770,The Virginia Gazette,we,133.33333333333334,,We
+1771,The South Carolina Gazette,we,169.33207902163687,,We
+1771,The Virginia Gazette,we,8.066684592632429,,We
+1772,The South Carolina Gazette,we,0,,We
+1772,The Virginia Gazette,we,0,,We
+1773,The South Carolina Gazette,we,0,,We
+1773,The Virginia Gazette,we,41.87604690117253,,We
+1774,The South Carolina Gazette,we,26.472534745201852,,We
+1774,The Virginia Gazette,we,51.679586563307495,,We
+1775,The South Carolina Gazette,we,0,,We
+1775,The Virginia Gazette,we,32.40440699935191,,We
+1732,The South Carolina Gazette,us,0,,Us
+1733,The South Carolina Gazette,us,5.425935973955507,,Us
+1734,The South Carolina Gazette,us,0,,Us
+1735,The South Carolina Gazette,us,7.704160246533128,,Us
+1736,The South Carolina Gazette,us,0,,Us
+1736,The Virginia Gazette,us,11.890606420927467,,Us
+1737,The South Carolina Gazette,us,6.345177664974619,,Us
+1737,The Virginia Gazette,us,8.948545861,,Us
+1738,The South Carolina Gazette,us,8.768084173608067,,Us
+1738,The Virginia Gazette,us,5.602240896358543,,Us
+1739,The South Carolina Gazette,us,0,,Us
+1739,The Virginia Gazette,us,0,,Us
+1740,The South Carolina Gazette,us,54.44646098003629,,Us
+1741,The South Carolina Gazette,us,0,,Us
+1742,The South Carolina Gazette,us,19.065776930409914,,Us
+1743,The South Carolina Gazette,us,4.1067761806981515,,Us
+1744,The South Carolina Gazette,us,9.049773755656108,,Us
+1745,The South Carolina Gazette,us,0,,Us
+1745,The Virginia Gazette,us,17.482517482517483,,Us
+1746,The South Carolina Gazette,us,12.43781094527363,,Us
+1746,The Virginia Gazette,us,17.224409448818896,,Us
+1747,The South Carolina Gazette,us,20.97064110245656,,Us
+1748,The South Carolina Gazette,us,10.725777618877368,,Us
+1749,The South Carolina Gazette,us,0,,Us
+1750,The South Carolina Gazette,us,22.624434389140273,,Us
+1751,The South Carolina Gazette,us,0,,Us
+1751,The Virginia Gazette,us,0,,Us
+1752,The South Carolina Gazette,us,0,,Us
+1752,The Virginia Gazette,us,6.510416666666666,,Us
+1753,The South Carolina Gazette,us,0,,Us
+1754,The South Carolina Gazette,us,0,,Us
+1754,The Virginia Gazette,us,0,,Us
+1755,The South Carolina Gazette,us,30.48780487804878,,Us
+1755,The Virginia Gazette,us,9.661835749,,Us
+1756,The South Carolina Gazette,us,11.17318436,,Us
+1756,The Virginia Gazette,us,0,,Us
+1757,The South Carolina Gazette,us,40.080160320641276,,Us
+1759,The South Carolina Gazette,us,32.03416978109984,,Us
+1760,The South Carolina Gazette,us,6.485084306095979,,Us
+1761,The South Carolina Gazette,us,0,,Us
+1761,The Virginia Gazette,us,0,,Us
+1762,The South Carolina Gazette,us,10.706638115631693,,Us
+1763,The South Carolina Gazette,us,13.937282229965156,,Us
+1764,The South Carolina Gazette,us,31.876138433515486,,Us
+1765,The South Carolina Gazette,us,0,,Us
+1766,The South Carolina Gazette,us,10.53185887,,Us
+1766,The Virginia Gazette,us,13.61285053090117,,Us
+1767,The South Carolina Gazette,us,0,,Us
+1767,The Virginia Gazette,us,0,,Us
+1768,The South Carolina Gazette,us,0,,Us
+1768,The Virginia Gazette,us,17.806267806267808,,Us
+1769,The South Carolina Gazette,us,0,,Us
+1769,The Virginia Gazette,us,0,,Us
+1770,The South Carolina Gazette,us,0,,Us
+1770,The Virginia Gazette,us,40,,Us
+1771,The South Carolina Gazette,us,112.88805268109125,,Us
+1771,The Virginia Gazette,us,5.377789728421619,,Us
+1772,The South Carolina Gazette,us,0,,Us
+1772,The Virginia Gazette,us,28.81844380403458,,Us
+1773,The South Carolina Gazette,us,0,,Us
+1773,The Virginia Gazette,us,25.12562814070352,,Us
+1774,The South Carolina Gazette,us,19.854401058901388,,Us
+1774,The Virginia Gazette,us,45.21963824289406,,Us
+1775,The South Carolina Gazette,us,0,,Us
+1775,The Virginia Gazette,us,19.44264419961115,,Us
+1732,The South Carolina Gazette,our,23.31002331002331,,Our
+1733,The South Carolina Gazette,our,70.53716766,,Our
+1734,The South Carolina Gazette,our,0,,Our
+1735,The South Carolina Gazette,our,7.704160246533128,,Our
+1736,The South Carolina Gazette,our,11.481056257175661,,Our
+1736,The Virginia Gazette,our,47.56242568370987,,Our
+1737,The South Carolina Gazette,our,12.690355329949238,,Our
+1737,The Virginia Gazette,our,4.474272931,,Our
+1738,The South Carolina Gazette,our,4.384042086804033,,Our
+1738,The Virginia Gazette,our,2.8011204481792715,,Our
+1739,The South Carolina Gazette,our,126.58227848101265,,Our
+1739,The Virginia Gazette,our,13.271400132714001,,Our
+1740,The South Carolina Gazette,our,63.52087114337568,,Our
+1741,The South Carolina Gazette,our,0,,Our
+1742,The South Carolina Gazette,our,38.13155386081983,,Our
+1743,The South Carolina Gazette,our,4.1067761806981515,,Our
+1744,The South Carolina Gazette,our,30.16591252,,Our
+1745,The South Carolina Gazette,our,22.624434389140273,,Our
+1745,The Virginia Gazette,our,34.96503496503497,,Our
+1746,The South Carolina Gazette,our,55.97014925373134,,Our
+1746,The Virginia Gazette,our,34.44881889763779,,Our
+1747,The South Carolina Gazette,our,26.962252846015577,,Our
+1748,The South Carolina Gazette,our,28.602073650339648,,Our
+1749,The South Carolina Gazette,our,0,,Our
+1750,The South Carolina Gazette,our,90.49773755656109,,Our
+1751,The South Carolina Gazette,our,0,,Our
+1751,The Virginia Gazette,our,0,,Our
+1752,The South Carolina Gazette,our,0,,Our
+1752,The Virginia Gazette,our,13.020833333333332,,Our
+1753,The South Carolina Gazette,our,31.25,,Our
+1754,The South Carolina Gazette,our,0,,Our
+1754,The Virginia Gazette,our,0,,Our
+1755,The South Carolina Gazette,our,121.95121951219512,,Our
+1755,The Virginia Gazette,our,32.20611916,,Our
+1756,The South Carolina Gazette,our,11.17318436,,Our
+1756,The Virginia Gazette,our,0,,Our
+1757,The South Carolina Gazette,our,40.080160320641276,,Our
+1759,The South Carolina Gazette,our,16.01708489054992,,Our
+1760,The South Carolina Gazette,our,38.91050583657588,,Our
+1761,The South Carolina Gazette,our,0,,Our
+1761,The Virginia Gazette,our,0,,Our
+1762,The South Carolina Gazette,our,37.473233404710925,,Our
+1763,The South Carolina Gazette,our,55.749128919860624,,Our
+1764,The South Carolina Gazette,our,72.85974499089254,,Our
+1765,The South Carolina Gazette,our,11.037527593818984,,Our
+1766,The South Carolina Gazette,our,21.06371775,,Our
+1766,The Virginia Gazette,our,46.28369180506398,,Our
+1767,The South Carolina Gazette,our,52.08333333333333,,Our
+1767,The Virginia Gazette,our,26.857654431512984,,Our
+1768,The South Carolina Gazette,our,0,,Our
+1768,The Virginia Gazette,our,24.928774928774928,,Our
+1769,The South Carolina Gazette,our,9.832841691248772,,Our
+1769,The Virginia Gazette,our,0,,Our
+1770,The South Carolina Gazette,our,0,,Our
+1770,The Virginia Gazette,our,120,,Our
+1771,The South Carolina Gazette,our,84.66603951081844,,Our
+1771,The Virginia Gazette,our,5.377789728421619,,Our
+1772,The South Carolina Gazette,our,0,,Our
+1772,The Virginia Gazette,our,0,,Our
+1773,The South Carolina Gazette,our,0,,Our
+1773,The Virginia Gazette,our,100.50251256281408,,Our
+1774,The South Carolina Gazette,our,19.854401058901388,,Our
+1774,The Virginia Gazette,our,90.43927648578811,,Our
+1775,The South Carolina Gazette,our,0,,Our
+1775,The Virginia Gazette,our,25.92352559948153,,Our
+1732,The South Carolina Gazette,they,23.31002331002331,,They
+1733,The South Carolina Gazette,they,59.68529571351058,,They
+1734,The South Carolina Gazette,they,220.95509622238063,,They
+1735,The South Carolina Gazette,they,61.633281972265024,,They
+1736,The South Carolina Gazette,they,45.924225028702644,,They
+1736,The Virginia Gazette,they,17.83590963,,They
+1737,The South Carolina Gazette,they,38.07106598984772,,They
+1737,The Virginia Gazette,they,26.845637583892614,,They
+1738,The South Carolina Gazette,they,43.84042086804033,,They
+1738,The Virginia Gazette,they,61.62464985994398,,They
+1739,The South Carolina Gazette,they,0,,They
+1739,The Virginia Gazette,they,139.3497014,,They
+1740,The South Carolina Gazette,they,77.13248638838476,,They
+1741,The South Carolina Gazette,they,47.961630695443645,,They
+1742,The South Carolina Gazette,they,23.832221163012395,,They
+1743,The South Carolina Gazette,they,57.49486652977412,,They
+1744,The South Carolina Gazette,they,54.29864253393665,,They
+1745,The South Carolina Gazette,they,22.624434389140273,,They
+1745,The Virginia Gazette,they,148.6013986013986,,They
+1746,The South Carolina Gazette,they,43.53233830845771,,They
+1746,The Virginia Gazette,they,142.71653543307087,,They
+1747,The South Carolina Gazette,they,86.87837028160575,,They
+1748,The South Carolina Gazette,they,60.77940650697175,,They
+1749,The South Carolina Gazette,they,87.46355685131195,,They
+1750,The South Carolina Gazette,they,113.12217194570135,,They
+1751,The South Carolina Gazette,they,0,,They
+1751,The Virginia Gazette,they,43.78283712784589,,They
+1752,The South Carolina Gazette,they,163.04347826086956,,They
+1752,The Virginia Gazette,they,84.63541666666666,,They
+1753,The South Carolina Gazette,they,62.5,,They
+1754,The South Carolina Gazette,they,0,,They
+1754,The Virginia Gazette,they,250,,They
+1755,The South Carolina Gazette,they,172.76422764227644,,They
+1755,The Virginia Gazette,they,45.088566827697264,,They
+1756,The South Carolina Gazette,they,44.69273743,,They
+1756,The Virginia Gazette,they,0,,They
+1757,The South Carolina Gazette,they,0,,They
+1759,The South Carolina Gazette,they,90.76348104644954,,They
+1760,The South Carolina Gazette,they,132.94422827496757,,They
+1761,The South Carolina Gazette,they,33.78378378378378,,They
+1761,The Virginia Gazette,they,0,,They
+1762,The South Carolina Gazette,they,139.1862955,,They
+1763,The South Carolina Gazette,they,55.749128919860624,,They
+1764,The South Carolina Gazette,they,68.30601092896174,,They
+1765,The South Carolina Gazette,they,66.22516556,,They
+1766,The South Carolina Gazette,they,279.09426013691416,,They
+1766,The Virginia Gazette,they,40.83855159270351,,They
+1767,The South Carolina Gazette,they,0,,They
+1767,The Virginia Gazette,they,53.71530886302597,,They
+1768,The South Carolina Gazette,they,0,,They
+1768,The Virginia Gazette,they,131.76638176638178,,They
+1769,The South Carolina Gazette,they,78.66273352999018,,They
+1769,The Virginia Gazette,they,109.48905109489051,,They
+1770,The South Carolina Gazette,they,37.38317757009346,,They
+1770,The Virginia Gazette,they,93.33333333333334,,They
+1771,The South Carolina Gazette,they,235.18344308560677,,They
+1771,The Virginia Gazette,they,64.53347674105943,,They
+1772,The South Carolina Gazette,they,113.63636363636364,,They
+1772,The Virginia Gazette,they,144.0922190201729,,They
+1773,The South Carolina Gazette,they,86.45533141210376,,They
+1773,The Virginia Gazette,they,83.75209380234506,,They
+1774,The South Carolina Gazette,they,86.03573792190603,,They
+1774,The Virginia Gazette,they,90.43927648578811,,They
+1775,The South Carolina Gazette,they,405.4054054054054,,They
+1775,The Virginia Gazette,they,71.28969539857421,,They
+1732,The South Carolina Gazette,them,23.31002331002331,,Them
+1733,The South Carolina Gazette,them,27.129679869777537,,Them
+1734,The South Carolina Gazette,them,49.89308624376336,,Them
+1735,The South Carolina Gazette,them,38.52080123266564,,Them
+1736,The South Carolina Gazette,them,68.88633754305395,,Them
+1736,The Virginia Gazette,them,47.56242568370987,,Them
+1737,The South Carolina Gazette,them,44.41624365482234,,Them
+1737,The Virginia Gazette,them,8.948545861,,Them
+1738,The South Carolina Gazette,them,21.920210434020166,,Them
+1738,The Virginia Gazette,them,25.210084033613448,,Them
+1739,The South Carolina Gazette,them,0,,Them
+1739,The Virginia Gazette,them,53.085600530856006,,Them
+1740,The South Carolina Gazette,them,54.44646098003629,,Them
+1741,The South Carolina Gazette,them,35.97122302158274,,Them
+1742,The South Carolina Gazette,them,38.13155386081983,,Them
+1743,The South Carolina Gazette,them,53.38809034907597,,Them
+1744,The South Carolina Gazette,them,24.132730015082956,,Them
+1745,The South Carolina Gazette,them,0,,Them
+1745,The Virginia Gazette,them,61.18881118881119,,Them
+1746,The South Carolina Gazette,them,31.09452736318408,,Them
+1746,The Virginia Gazette,them,68.89763779527559,,Them
+1747,The South Carolina Gazette,them,32.95386459,,Them
+1748,The South Carolina Gazette,them,35.75259206292456,,Them
+1749,The South Carolina Gazette,them,9.718172983479105,,Them
+1750,The South Carolina Gazette,them,67.87330316742081,,Them
+1751,The South Carolina Gazette,them,59.52380952380952,,Them
+1751,The Virginia Gazette,them,13.134851138353765,,Them
+1752,The South Carolina Gazette,them,54.34782608695652,,Them
+1752,The Virginia Gazette,them,58.59375,,Them
+1753,The South Carolina Gazette,them,93.75,,Them
+1754,The South Carolina Gazette,them,0,,Them
+1754,The Virginia Gazette,them,166.66666666666666,,Them
+1755,The South Carolina Gazette,them,20.325203252032523,,Them
+1755,The Virginia Gazette,them,51.529790660225444,,Them
+1756,The South Carolina Gazette,them,100.55865921787709,,Them
+1756,The Virginia Gazette,them,42.55319149,,Them
+1757,The South Carolina Gazette,them,40.080160320641276,,Them
+1759,The South Carolina Gazette,them,69.40736785904966,,Them
+1760,The South Carolina Gazette,them,84.30609597924773,,Them
+1761,The South Carolina Gazette,them,0,,Them
+1761,The Virginia Gazette,them,72.46376811594203,,Them
+1762,The South Carolina Gazette,them,53.533190578158454,,Them
+1763,The South Carolina Gazette,them,55.749128919860624,,Them
+1764,The South Carolina Gazette,them,40.98360655737705,,Them
+1765,The South Carolina Gazette,them,44.150110375275936,,Them
+1766,The South Carolina Gazette,them,115.85044760400211,,Them
+1766,The Virginia Gazette,them,29.948271167982575,,Them
+1767,The South Carolina Gazette,them,52.08333333333333,,Them
+1767,The Virginia Gazette,them,8.952551477170994,,Them
+1768,The South Carolina Gazette,them,0,,Them
+1768,The Virginia Gazette,them,42.73504273504274,,Them
+1769,The South Carolina Gazette,them,39.33136676499509,,Them
+1769,The Virginia Gazette,them,82.11678832116789,,Them
+1770,The South Carolina Gazette,them,18.69158878504673,,Them
+1770,The Virginia Gazette,them,26.666666666666664,,Them
+1771,The South Carolina Gazette,them,141.11006585136406,,Them
+1771,The Virginia Gazette,them,26.888948642108094,,Them
+1772,The South Carolina Gazette,them,75.75757575757576,,Them
+1772,The Virginia Gazette,them,0,,Them
+1773,The South Carolina Gazette,them,57.63688760806916,,Them
+1773,The Virginia Gazette,them,92.12730318257957,,Them
+1774,The South Carolina Gazette,them,72.79947055,,Them
+1774,The Virginia Gazette,them,83.97932816537468,,Them
+1775,The South Carolina Gazette,them,135.13513513513513,,Them
+1775,The Virginia Gazette,them,38.8852884,,Them
+1732,The South Carolina Gazette,their,46.62004662004662,,Their
+1733,The South Carolina Gazette,their,37.981551817688555,,Their
+1734,The South Carolina Gazette,their,85.53100498930863,,Their
+1735,The South Carolina Gazette,their,115.56240369799691,,Their
+1736,The South Carolina Gazette,their,34.44316877152698,,Their
+1736,The Virginia Gazette,their,35.67181926,,Their
+1737,The South Carolina Gazette,their,31.725888324873097,,Their
+1737,The Virginia Gazette,their,26.845637583892614,,Their
+1738,The South Carolina Gazette,their,30.688294607628233,,Their
+1738,The Virginia Gazette,their,58.82352941,,Their
+1739,The South Carolina Gazette,their,0,,Their
+1739,The Virginia Gazette,their,92.89980093,,Their
+1740,The South Carolina Gazette,their,108.89292196007258,,Their
+1741,The South Carolina Gazette,their,71.94244604316548,,Their
+1742,The South Carolina Gazette,their,47.66444232602479,,Their
+1743,The South Carolina Gazette,their,73.92197125256673,,Their
+1744,The South Carolina Gazette,their,60.33182504,,Their
+1745,The South Carolina Gazette,their,22.624434389140273,,Their
+1745,The Virginia Gazette,their,61.18881118881119,,Their
+1746,The South Carolina Gazette,their,87.06467661691542,,Their
+1746,The Virginia Gazette,their,110.7283464566929,,Their
+1747,The South Carolina Gazette,their,65.90772918,,Their
+1748,The South Carolina Gazette,their,60.77940650697175,,Their
+1749,The South Carolina Gazette,their,72.88629738,,Their
+1750,The South Carolina Gazette,their,90.49773755656109,,Their
+1751,The South Carolina Gazette,their,59.52380952380952,,Their
+1751,The Virginia Gazette,their,70.05253940455341,,Their
+1752,The South Carolina Gazette,their,54.34782608695652,,Their
+1752,The Virginia Gazette,their,78.125,,Their
+1753,The South Carolina Gazette,their,125,,Their
+1754,The South Carolina Gazette,their,0,,Their
+1754,The Virginia Gazette,their,0,,Their
+1755,The South Carolina Gazette,their,101.6260162601626,,Their
+1755,The Virginia Gazette,their,86.95652173913044,,Their
+1756,The South Carolina Gazette,their,122.90502793296089,,Their
+1756,The Virginia Gazette,their,42.55319149,,Their
+1757,The South Carolina Gazette,their,20.040080160320638,,Their
+1759,The South Carolina Gazette,their,106.78056593699947,,Their
+1760,The South Carolina Gazette,their,94.03372243839169,,Their
+1761,The South Carolina Gazette,their,0,,Their
+1761,The Virginia Gazette,their,0,,Their
+1762,The South Carolina Gazette,their,80.29978586723769,,Their
+1763,The South Carolina Gazette,their,97.56097561,,Their
+1764,The South Carolina Gazette,their,63.75227686703097,,Their
+1765,The South Carolina Gazette,their,22.075055187637968,,Their
+1766,The South Carolina Gazette,their,194.83938915218536,,Their
+1766,The Virginia Gazette,their,46.28369180506398,,Their
+1767,The South Carolina Gazette,their,156.25,,Their
+1767,The Virginia Gazette,their,62.66786034019696,,Their
+1768,The South Carolina Gazette,their,0,,Their
+1768,The Virginia Gazette,their,89.03133903133903,,Their
+1769,The South Carolina Gazette,their,68.82989184,,Their
+1769,The Virginia Gazette,their,100.36496350364963,,Their
+1770,The South Carolina Gazette,their,93.45794392523364,,Their
+1770,The Virginia Gazette,their,66.66666666666667,,Their
+1771,The South Carolina Gazette,their,131.7027281279398,,Their
+1771,The Virginia Gazette,their,59.15568701263781,,Their
+1772,The South Carolina Gazette,their,37.87878787878788,,Their
+1772,The Virginia Gazette,their,201.72910662824208,,Their
+1773,The South Carolina Gazette,their,57.63688760806916,,Their
+1773,The Virginia Gazette,their,25.12562814070352,,Their
+1774,The South Carolina Gazette,their,72.79947055,,Their
+1774,The Virginia Gazette,their,96.89922480620154,,Their
+1775,The South Carolina Gazette,their,0,,Their
+1775,The Virginia Gazette,their,38.8852884,,Their
