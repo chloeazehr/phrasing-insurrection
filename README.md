@@ -79,12 +79,13 @@ The cited primary sources and data created for this project are derived from the
 #### Replicating Results and Code
 I have attempted to thoroughly annotate and document my code in the RMD files stored within this repository for each corpus. Each code chunk has an explanatory title and other necessary information regarding the code. However, for more complex coding skills, such as adapting the functions I wrote for tokenizing text or appending year information, please consult outside resources to ensure that any code replicated or adapted meets desired requirements. Keep in mind that this code was designed for working with small amounts of historic text data and thus is a specific use-case. 
 
-## Authors
+## Author
 Chloe A. Zehr (she/they)
-Chloe.Zehr@colorado.edu & chloeazehr@gmail.com
+B.A., History, University of California, Santa Barbara, 2021
+Contact: Chloe.Zehr@colorado.edu & chloeazehr@gmail.com
 
 ## Acknowledgements
-I am beyond grateful for and indebted to the expertise, unwavering support, and feedback from the following scholars and interdisciplinary labs at the University of Colorado Boulder who helped me to see this project to its current state: 
+I am beyond grateful for and indebted to the expertise, unwavering support, and feedback from the following scholars and interdisciplinary labs at the University of Colorado Boulder who helped me develop and revise this project: 
 - Dr. Honor Sachs (project advisor) at the University of Colorado Boulder
 - Dr. Ashleigh Lawrence-Sanders (History) at the University of Colorado Boulder
 - Dr. Henry Lovejoy (History) at the University of Colorado Boulder
@@ -92,7 +93,9 @@ I am beyond grateful for and indebted to the expertise, unwavering support, and 
 - Dr. Susan Brown (Linguistics) at the University of Colorado Boulder
 - The [Digital Slavery Research Lab](https://www.colorado.edu/lab/dsrl/) at the University of Colorado Boulder
 - The [Center for Research Data & Digital Scholarship](https://www.colorado.edu/crdds/) at the University of Colorado Boulder
+- The faculty and advisors for the [Digital Humanities Certificate](https://www.colorado.edu/crdds/dhgc) program at the University of Colorado Boulder
 
 ## Further Reading and Research
+
 
 
