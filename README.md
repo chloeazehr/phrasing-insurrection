@@ -22,7 +22,7 @@ Digital methods, such as text mining for historical analysis, are central to thi
 
 Text mining techniques, including word frequency analysis and part-of-speech co-occurrence, allow us to pinpoint moments when colonial authors and printers differentiated between perceptions of when black conspirators could remain “our slaves” and when they could only be “the rebellious Negroes.” These linguistic shifts reflect how black resistance shaped white authors to rationalizations of their dependence on enslaved labor with the destabilizing force of black defiance. By aggregating and analyzing data systematically, digital methods expose traces of black political violence embedded within colonial language, enabling us to read against the grain of the texts. Moreover, digital methods afford further insights into temporal, regional, and colonial change. Regional variations, such as tactical selectivity of information and reticent vocabularies, underscore how local contexts influenced the colonial descriptions of collective enslaved resistance, while shared linguistic strategies—such as the pervasive use of passive voice—reflect broader white anxieties.
 
-#### Example of the Output of a Concordance Search for the term "Insurrection" in Corpus One
+#### Example of the Output of a Concordance Search for the Term "Insurrection" in Corpus One (The *South Carolina Gazette*)
 ![image](https://github.com/user-attachments/assets/ce57527a-f615-43af-8c7b-de7549aedd18)
 
 *Note: Concordances are a computational technique that allows researchers to view all instances of a given word, token, lemma, or phrase and its surrounding textual context.*
