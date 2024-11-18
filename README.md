@@ -15,6 +15,7 @@ As a case study, this project engages with contemporary discussions at the foref
 ## Why Digital History? What can text data show us?
 #### Co-Occurrence of Nouns and Adjectives in Corpus One 1732-1742
 ![image](https://github.com/user-attachments/assets/6dc422c1-5349-466a-901c-0897810f0df8)
+
 *Note: The legend on the right labelled “cooc” stands for the number of co-occurrences. This word co-occurrence network displays th most frequent noun and adjective co-occurrences in the first ten years of the South Carolina Gazette’s publication included in Corpus One. On the bottom of the network visualization, we can see the co-occurrence of the terms “rebellious” and “negroes.”*
 
 Digital methods, such as text mining for historical analysis, are central to this research, offering insights into linguistic structures and patterns that traditional historical modes of investigation, such as close reading and contextualization, alone do not easily uncover. The colonial press printed and disseminated texts shaped by the social, cultural, and political priorities of white colonists, ship captains, merchants, enslavers, and administrators from numerous locales throughout the British Empire. These priorities influenced the content of what was published and the linguistic framing of black resistance. While traditional historical methods excel at interpreting individual narratives, they can fall short in identifying the broader structural patterns embedded in language over time.
@@ -23,32 +24,38 @@ Text mining techniques, including word frequency analysis and part-of-speech co-
 
 #### Example of the Output of a Concordance Search for the term "Insurrection" in Corpus One
 ![image](https://github.com/user-attachments/assets/ce57527a-f615-43af-8c7b-de7549aedd18)
+
 *Note: Concordances are a computational technique that allows researchers to view all instances of a given word, token, lemma, or phrase and its surrounding textual context.*
 
 Importantly, digital methods highlight that even within articles that expressed reluctance or unease about slavery and the treatment of enslaved men and women, white authors employed similar grammatical structures that reinforced and flattened ideas of black collective resistance. This suggests that these linguistic patterns undergirded the ideological stances of individual writers, pointing to a shared colonial grammar that could, at an operational level, transcend editorial intent and reinforce the broader racial and social orders set in motion by the transatlantic slave trade. 
 
 #### Distribution of Syntactic Dependency Relationships for Target Lemmas in Corpus One 1732-1775
 ![Screenshot 2024-11-17 191434](https://github.com/user-attachments/assets/16ce3a14-5372-41e6-8792-4e0b494a82c8)
+
 *Note: This grouping of visualizations displays the relative frequency of specific syntactic dependency relationships (dependency grammars) for the lemmas “insurrection,” “negro,” “negroes,” “rebel,” “rebellious,” and “slave” in Corpus One between 1732 and 1749. The legend on the right labelled “dep_rel” stands for dependency relation. Each type of dependency relation, based on the Universal Dependencies annotation scheme, is color coded. Notably, between the 1730s the lemma “negroes” more frequently appeared in sentences as the syntactic object or oblique nominal. By the 1740s, “negroes” was more often employed as a nominal modifier, meaning that it modified another noun.*
 
 By scaling up the analysis of linguistic patterns, digital methods provide a comprehensive view of how language functioned as both a tool of colonial power and a record of disruption. This approach highlights structures of oppression and recovers the traces of black defiance that reshaped those structures. Digital analysis, therefore, opens new avenues for understanding the dynamic relationship between the structure of language, power, and historical black resistance. Thus, when employed carefully and creatively, computational methods can open novel avenues for understanding the dynamic relationship between language, power, and resistance.
 
 #### Percentage of Active and Passive Voice in Corpus One 1732-1775
 ![image](https://github.com/user-attachments/assets/f440a6c1-9426-4388-92a3-98e0d68ed17f)
+
 *Note: This figure highlights the percentage of active and passive voice sentences in Corpus One (1732-1775). For Corpus One, Corpus Two, and Corpus Three, the percentage of passive voice and active voice follow similar distributions.*   
 
 #### Percentage of Active and Passive Voice in Corpus Two 1736-1775
  ![image](https://github.com/user-attachments/assets/6a15426e-2a4c-44bf-9959-a63ef00fbed9)
+
 *Note: Percentage of active and passive voice sentences in Corpus Two (1736-1775). A little over sixty percent (61.3%) of the sentences in the articles related to enslaved resistance published in the Virginia Gazette feature active voice, while just under forty percent (38.7%) contain passive voice.*
 
 This project underscores the the idea that digital methods provide an essential avenue for re-examining well-trodden archival sources - in particular those authored by oppressors, enslavers, and colonizers. By looking beyond narrative content, we can uncover the deeper ideological work performed by language—work that sought to flatten and distort enslaved resistance to fit colonial prerogatives. Understanding how language was used to diagnose and contain black resistance in the past equips us to critically engage with the persistence of these dynamics in contemporary narratives about race and resistance.
 
 #### Pronoun Usage per 10,000 words in Corpus One 1732-1773
 ![image](https://github.com/user-attachments/assets/29a3fc5d-ba2a-4122-a962-bacde6176d01)
+
 *Note: This figure illustrates the normalized usage of pronouns over the eighteenth century in Corpus One (*South Carolina Gazette*). The pronoun frequencies are relativized per 10,000 words to better address varying article lengths and years with relatively little text data. The distribution of pronoun frequencies reflects patterns text data over time, highlighting that in the 1750s the South Carolina Gazette printed little information regarding collective enslaved resistance after 1750.* 
 
 #### Pronoun Usage per 10,000 words in Corpus Two 1736-1775
 ![image](https://github.com/user-attachments/assets/c13b2295-45c7-4cfe-9e4e-0a85c7e7fdda)
+
 *Note: This figure highlights the normalized usage of pronouns over the eighteenth century in Corpus Two (*Virginia Gazette*). The pronoun frequencies are relativized per 10,000 words to better address varying article lengths and years with relatively little text data. The distribution of pronoun frequencies generally reflects patterns in text data over time, highlighting that in the 1740s and 1750s the *Virginia Gazette* published relatively little information regarding collective enslaved resistance.* 
 
 As a preliminary case study, this project advances the idea that colonial grammar was iteratively deployed to rationalize and contain perceptions of black resistance, embedding it into the fabric of the colonial worldview. By analyzing these linguistic patterns at scale, my research reveals how language reduced the complexity of collective black resistance into a distorted and flattened phenomenon. This work reminds us that the iterative nature of language can obscure as much as it reveals, perpetuating power structures while shaping historical narratives.
