@@ -1,0 +1,690 @@
+Year of arrival at port of disembarkation,Voyage ID,Vessel name,Voyage itinerary imputed port where began (ptdepimp) place,Voyage itinerary imputed principal place of slave purchase (mjbyptimp) ,Voyage itinerary imputed principal port of slave disembarkation (mjslptimp) place,Captives arrived at 1st port,Captain's name,resistance label,Date,latitude,longitude
+1732,100135,Hopewell,,"Barbados, place unspecified",Charleston,1,"Haren, Stephen",,1732-01-01,#N/A,#N/A
+1732,100136,Wando,,"Jamaica, place unspecified",Charleston,15,"Baker, Rich",,1732-01-01,#N/A,#N/A
+1732,100137,Pineapple,,"Antigua, place unspecified",Charleston,46,"Hinckley, William",,1732-01-01,#N/A,#N/A
+1732,100138,Loyall Nancy,,"Barbados, place unspecified",Charleston,4,"Bennit, Francis",,1732-01-01,#N/A,#N/A
+1732,100139,Elizabeth,,"Virginia, port unspecified",Charleston,13,"Paine, Ephraim",,1732-01-01,37.2268,-76.45376
+1732,100140,King George,,"Barbados, place unspecified",Charleston,43,"Ivy, Lemuel",,1732-01-01,#N/A,#N/A
+1732,100141,Londonberry,,"Montserrat, port unspecified",Charleston,5,"Blake, Richard",,1732-01-01,16.7,-62.21667
+1732,100142,Virgins Venture,,"Barbados, place unspecified",Charleston,25,"Bradshaw, Jas.",,1732-01-01,#N/A,#N/A
+1732,100143,,,"Barbados, place unspecified",Charleston,4,,,1732-01-01,#N/A,#N/A
+1732,100144,Wando,,"Jamaica, place unspecified",Charleston,5,"Cartnell, Robert",,1732-01-01,#N/A,#N/A
+1732,100145,Saint Phillip,,"St. Kitts, port unspecified",Charleston,18,"Dewar, George",,1732-01-01,17.3,-62.71667
+1732,100146,Nights Rambler,,New York,Charleston,5,"Crispin, Richard",,1732-01-01,40.71458,-74.00708
+1733,100147,Glasgow,,"Barbados, place unspecified",Charleston,13,"Warden, William",,1733-01-01,#N/A,#N/A
+1733,100148,America,,"Barbados, place unspecified",Charleston,6,"West, John",,1733-01-01,#N/A,#N/A
+1733,100149,Pineapple,,"Jamaica, place unspecified",Charleston,11,"Sigourney, Andrew",,1733-01-01,#N/A,#N/A
+1733,100150,Retrieve,,"Jamaica, place unspecified",Charleston,,"Walker, Thomas",,1733-01-01,#N/A,#N/A
+1733,100151,Priscilla,,"Barbados, place unspecified",Charleston,86,"Rhymes, Charles",,1733-01-01,#N/A,#N/A
+1733,100152,Friendship,,"Barbados, place unspecified",Charleston,4,"Bell, B.",,1733-01-01,#N/A,#N/A
+1734,100153,Hawkins,,"Barbados, place unspecified",Charleston,13,"Perryman, William",,1734-01-01,#N/A,#N/A
+1734,100154,Pineapple,,"Jamaica, place unspecified",Charleston,6,"Sigourney, Andrew",,1734-01-01,#N/A,#N/A
+1734,100155,Samuel,,"Montserrat, port unspecified",Charleston,18,"Goffe, Joseph",,1734-01-01,16.7,-62.21667
+1734,100156,Dorset,,"Jamaica, place unspecified",Charleston,39,"Oliver, William",,1734-01-01,#N/A,#N/A
+1734,100157,John,,"Jamaica, place unspecified",Charleston,13,"Ford, William",,1734-01-01,#N/A,#N/A
+1734,100158,Britannia,,"Barbados, place unspecified",Charleston,4,"Staples, John",,1734-01-01,#N/A,#N/A
+1734,100159,Midnight,,New York,Charleston,2,"Barnes, Thomas",,1734-01-01,40.71458,-74.00708
+1734,100160,John and Phoebe,,"Antigua, place unspecified",Charleston,6,"Preston, John",,1734-01-01,#N/A,#N/A
+1734,100161,Retrieve,,"Jamaica, place unspecified",Charleston,12,"Rivers, Robert",,1734-01-01,#N/A,#N/A
+1734,100162,Sweet Nelly,,"Barbados, place unspecified",Charleston,32,"Bullock, Robert",,1734-01-01,#N/A,#N/A
+1734,100163,John,,"St. Kitts, port unspecified",Charleston,62,"Rowse, Jonathan",,1734-01-01,17.3,-62.71667
+1734,100164,True Friends,,"Barbados, place unspecified",Charleston,2,"Taylor, Richard",,1734-01-01,#N/A,#N/A
+1734,100165,Providence,,"Barbados, place unspecified",Charleston,16,"Taylor, Joseph",,1734-01-01,#N/A,#N/A
+1734,100166,Concord,,"Barbados, place unspecified",Charleston,5,"Robertson, George",,1734-01-01,#N/A,#N/A
+1734,100168,Midnight,,New York,Charleston,2,"Barnes, Thomas",,1734-01-01,40.71458,-74.00708
+1734,100169,Charming Betty,,"St. Kitts, port unspecified",Charleston,3,"Crosthwaite, Thomas",,1734-01-01,17.3,-62.71667
+1734,100170,Glasgow,,"Barbados, place unspecified",Charleston,6,"Warden, William",,1734-01-01,#N/A,#N/A
+1734,100171,Samuel,,"Montserrat, port unspecified",Charleston,2,"Goffe, Joseph",,1734-01-01,16.7,-62.21667
+1734,100172,Carolina,,Providence,Charleston,22,"Fox, George",,1734-01-01,41.8239,-71.4133
+1734,100173,Sweet Nelly,,"Barbados, place unspecified",Charleston,18,"Turpin, Matthew",,1734-01-01,#N/A,#N/A
+1734,100174,Garret,,Providence,Charleston,2,"Hill, James",,1734-01-01,41.8239,-71.4133
+1734,100175,Retrieve,,"Jamaica, place unspecified",Charleston,2,"Waller, Thomas",,1734-01-01,#N/A,#N/A
+1734,100176,Sea Nymph,,"Barbados, place unspecified",Charleston,8,"Forister, Rich",,1734-01-01,#N/A,#N/A
+1735,100178,Westbury,,"Jamaica, place unspecified",Charleston,4,"Conssius, Mathias",,1735-01-01,#N/A,#N/A
+1735,100179,Rose,,"Barbados, place unspecified",Charleston,7,"Rous, John",,1735-01-01,#N/A,#N/A
+1735,100180,Exeter,,"Jamaica, place unspecified",Charleston,9,"Smith, Henry",,1735-01-01,#N/A,#N/A
+1735,100181,Seahorse,,"Jamaica, place unspecified",Charleston,10,"Arnold, Owen",,1735-01-01,#N/A,#N/A
+1735,100182,Neptune,,"Jamaica, place unspecified",Charleston,36,"Lightwood, Edward",,1735-01-01,#N/A,#N/A
+1735,100183,Francis and Ann,,"Jamaica, place unspecified",Charleston,3,"Cox, John",,1735-01-01,#N/A,#N/A
+1735,100184,Charming Betty,,"Antigua, place unspecified",Charleston,4,"Crosthwaite, Thomas",,1735-01-01,#N/A,#N/A
+1735,100185,Mary,,"Barbados, place unspecified",Charleston,1,"Hinson, Joseph",,1735-01-01,#N/A,#N/A
+1735,100186,True Friends,,"Barbados, place unspecified",Charleston,1,"Warner, Sam",,1735-01-01,#N/A,#N/A
+1735,100187,Success,,"Barbados, place unspecified",Charleston,17,"Cload, George",,1735-01-01,#N/A,#N/A
+1735,100188,Mary,,"Barbados, place unspecified",Charleston,33,"Outerbridge, John",,1735-01-01,#N/A,#N/A
+1735,100189,Little Gypsy,,Providence,Charleston,6,"Kip, Jacobus",,1735-01-01,41.8239,-71.4133
+1735,100190,Catherine,,Havana,Charleston,1,"Wilson, George",,1735-01-01,23.13194,-82.36417
+1735,100191,Flying Squirrel,,"Antigua, place unspecified",Charleston,18,"Wentworth, Samuel",,1735-01-01,#N/A,#N/A
+1735,100192,Fancy,,"Jamaica, place unspecified",Charleston,18,"Vardill, Thomas",,1735-01-01,#N/A,#N/A
+1735,100193,Pomroy,,"Barbados, place unspecified",Charleston,4,"Rous, John",,1735-01-01,#N/A,#N/A
+1735,100194,,,Boston,Charleston,,"Knox, Andrew",,1735-01-01,42.36166,-71.05947
+1735,100195,Ellin,,"Barbados, place unspecified",Charleston,,"Wallace, Samuel",,1735-01-01,#N/A,#N/A
+1735,100196,Prince Frederick [?],,New York,Charleston,,"Wilson, Joseph",,1735-01-01,40.71458,-74.00708
+1735,100197,[Elizabeth?],,"St. Kitts, port unspecified",Charleston,,"Newton, Sam",,1735-01-01,17.3,-62.71667
+1735,100809,[Carolina??],,Providence,Charleston,,"Fox, George",,1735-01-01,41.8239,-71.4133
+1735,120086,,,"Barbados, place unspecified",Charleston,,,,1735-01-01,#N/A,#N/A
+1736,100167,Three Sisters,,Boston,Charleston,2,"Merret, Phil.",,1736-01-01,42.36166,-71.05947
+1736,100198,Lake,,"Barbados, place unspecified",Charleston,13,"Pharnt, John",,1736-01-01,#N/A,#N/A
+1736,100199,Elizabeth and Lavenia,,Curaçao,Charleston,18,"Porter, Thomas",,1736-01-01,#N/A,#N/A
+1736,100200,Carolina,,"Barbados, place unspecified",Charleston,20,"Metland, Joseph",,1736-01-01,#N/A,#N/A
+1736,100201,Martha,,"Antigua, place unspecified",Charleston,2,"Pollock, C.",,1736-01-01,#N/A,#N/A
+1736,100202,Sweet Nelly,,"Barbados, place unspecified",Charleston,2,"Hamilton, William",,1736-01-01,#N/A,#N/A
+1736,100203,Two Brothers,,"Barbados, place unspecified",Charleston,1,"Grafton, Joseph",,1736-01-01,#N/A,#N/A
+1736,100204,Antigua,,"Antigua, place unspecified",Charleston,5,"Richards, William",,1736-01-01,#N/A,#N/A
+1736,100205,King David,,"Antigua, place unspecified",Charleston,1,"Snow, John",,1736-01-01,#N/A,#N/A
+1736,100206,Dorothy,,"Antigua, place unspecified",Charleston,3,"Douglas, William",,1736-01-01,#N/A,#N/A
+1736,100207,,,"North Carolina, port unspecified",Charleston,,"Vaughan, William",,1736-01-01,35.88368,-75.6495
+1736,100208,Nottingham,,"Montserrat, port unspecified",Charleston,15,"Parmyter, Thomas",,1736-01-01,16.7,-62.21667
+1736,100209,Charles (a) Don Carlos,,"Jamaica, place unspecified",Charleston,15,"Fenell, Edward",,1736-01-01,#N/A,#N/A
+1736,100210,Tincosdale,,British Leewards,Charleston,2,"Wentworth, Samuel",,1736-01-01,18.21667,-63.05
+1736,100211,Dorothy [?--blank],,"Antigua, place unspecified",Charleston,,"Douglas, William",,1736-01-01,#N/A,#N/A
+1737,100212,,,"Montserrat, port unspecified",Charleston,,"Sherrett, John",,1737-01-01,16.7,-62.21667
+1737,100213,Midnight [?],,New York,Charleston,,"Tucker, James",,1737-01-01,40.71458,-74.00708
+1737,100214,,,Mobile,Charleston,,"Colcock, John",,1737-01-01,30.69444,-88.04306
+1737,100215,Little Gypsy,,"Jamaica, place unspecified",Charleston,4,"Smith, John",,1737-01-01,#N/A,#N/A
+1737,100216,Georgia,,New York,Charleston,21,"Lush, John",,1737-01-01,40.71458,-74.00708
+1737,100217,Amity,,Bermuda,Charleston,10,"Todd, Henry",,1737-01-01,32.29417,-64.78389
+1737,107102,Warwick,,Charleston,Georgetown,,"Darrell, John",,1737-01-01,32.78096,-79.93554
+1737,107859,Don Carlos,,New York,"South Carolina, place unspecified",,"Kip, Abraham",,1737-01-01,40.71458,-74.00708
+1738,100218,Dow,,"Jamaica, place unspecified",Charleston,9,"Sigourney, Charles",,1738-01-01,#N/A,#N/A
+1738,100219,Carolina,,"Barbados, place unspecified",Charleston,6,"Metland, Joseph",,1738-01-01,#N/A,#N/A
+1738,100220,Glasgow,,"Antigua, place unspecified",Charleston,13,"Warden, William",,1738-01-01,#N/A,#N/A
+1738,100221,Jenny and Nancy,,"Antigua, place unspecified",Charleston,14,"Linx, Richard",,1738-01-01,#N/A,#N/A
+1738,107105,Endeavour,,Charleston,Georgetown,,"Outerbridge, Leo",,1738-01-01,32.78096,-79.93554
+1739,100222,,,"Barbados, place unspecified",Charleston,,"Lightwood, Edward",,1739-01-01,#N/A,#N/A
+1739,100223,,,"Antigua, place unspecified",Charleston,,"Dowers, Edward",,1739-01-01,#N/A,#N/A
+1739,100224,,,"St. Kitts, port unspecified",Charleston,,"Dorby, Eleazer",,1739-01-01,17.3,-62.71667
+1739,100225,,,"Antigua, place unspecified",Charleston,,"Drummond, John",,1739-01-01,#N/A,#N/A
+1740,100226,,,"Rhode Island, port unspecified",Charleston,,"Barnes, William",,1740-01-01,41.49,-71.31
+1740,100227,,,"Barbados, place unspecified",Charleston,,"Lightwood, Edward",,1740-01-01,#N/A,#N/A
+1740,100228,,,"Antigua, place unspecified",Charleston,,"McNeale, Hector",,1740-01-01,#N/A,#N/A
+1740,100229,,,"Barbados, place unspecified",Charleston,,"Paynter, John",,1740-01-01,#N/A,#N/A
+1740,100230,,,"Barbados, place unspecified",Charleston,,"Hughes, H.",,1740-01-01,#N/A,#N/A
+1742,100231,,,Bermuda,Charleston,,"Minott, Amos",,1742-01-01,32.29417,-64.78389
+1742,108004,Susannah,,"Barbados, place unspecified",Charleston,1,Gregory,,1742-01-01,#N/A,#N/A
+1744,100233,Carolina [?],,Providence,Charleston,,"Hutchins, [Joseph?]",,1744-01-01,41.8239,-71.4133
+1744,108003,Charming Sarah,,"Barbados, place unspecified",Charleston,2,Davison,,1744-01-01,#N/A,#N/A
+1745,100234,,,"Jamaica, place unspecified",Charleston,,Harramond,,1745-01-01,#N/A,#N/A
+1745,100235,,,"Jamaica, place unspecified",Charleston,,Evans,,1745-01-01,#N/A,#N/A
+1745,100236,,,"Barbados, place unspecified",Charleston,,Harmond,,1745-01-01,#N/A,#N/A
+1746,100237,,,"Antigua, place unspecified",Charleston,,Grand,,1746-01-01,#N/A,#N/A
+1748,100238,,,"St. Kitts, port unspecified",Charleston,,Watts,,1748-01-01,17.3,-62.71667
+1748,100239,,,Providence,Charleston,,Walker,,1748-01-01,41.8239,-71.4133
+1748,100240,,,"Antigua, place unspecified",Charleston,,Hare,,1748-01-01,#N/A,#N/A
+1748,100241,,,"Antigua, place unspecified",Charleston,,Place,,1748-01-01,#N/A,#N/A
+1748,100242,,,Spanish Town,Charleston,,Hopkins,,1748-01-01,17.98333,-76.95
+1748,102591,Rattan Packet,,Kingston,"South Carolina, place unspecified",,"Davis, William",,1748-01-01,17.98333,-76.8
+1749,100243,,,"Jamaica, place unspecified",Charleston,,Burchell,,1749-01-01,#N/A,#N/A
+1749,100244,,,"Antigua, place unspecified",Charleston,,Raines,,1749-01-01,#N/A,#N/A
+1750,100245,,,"Antigua, place unspecified",Charleston,,Bailey,,1750-01-01,#N/A,#N/A
+1750,100246,Defeat,,"Barbados, place unspecified",Charleston,,"Pharour, John",,1750-01-01,#N/A,#N/A
+1750,100247,Charles,,"Barbados, place unspecified",Charleston,100,"Calvert, Thomas",,1750-01-01,#N/A,#N/A
+1750,100248,Thomas and George,,"Barbados, place unspecified",Charleston,,"Thomas, Thomas",,1750-01-01,#N/A,#N/A
+1750,100249,Benjamin,,"Barbados, place unspecified",Charleston,,"Nelms, Thomas",,1750-01-01,#N/A,#N/A
+1750,100250,,,"Barbados, place unspecified",Charleston,,Evans,,1750-01-01,#N/A,#N/A
+1750,100252,Recovery,,"Antigua, place unspecified",Charleston,,"Robinson, William",,1750-01-01,#N/A,#N/A
+1751,100253,Hawk,,"Antigua, place unspecified",Charleston,70,"Mason, William",,1751-01-01,#N/A,#N/A
+1751,100254,,,"Antigua, place unspecified",Charleston,,Allen,,1751-01-01,#N/A,#N/A
+1751,100256,Brownhill,,"Montserrat, port unspecified",Charleston,,"Thomas, John",,1751-01-01,16.7,-62.21667
+1751,100257,,,"Barbados, place unspecified",Charleston,,Evans,,1751-01-01,#N/A,#N/A
+1751,100258,South Carolina,,"Barbados, place unspecified",Charleston,,"Fell, John",,1751-01-01,#N/A,#N/A
+1751,100259,,,"Barbados, place unspecified",Charleston,,Noble,,1751-01-01,#N/A,#N/A
+1751,100260,,,"Barbados, place unspecified",Charleston,,Gardner,,1751-01-01,#N/A,#N/A
+1751,100261,Nancy,,"Barbados, place unspecified",Charleston,68,"Dickenson, Joseph",,1751-01-01,#N/A,#N/A
+1751,100262,Endeavour,,"Barbados, place unspecified",Charleston,,"Woodhouse, William",,1751-01-01,#N/A,#N/A
+1751,100263,,,Curaçao,Charleston,,Evans,,1751-01-01,#N/A,#N/A
+1751,100264,Rebecca,,Boston,Charleston,,"Andrews, John",,1751-01-01,42.36166,-71.05947
+1751,100265,Peggy and Molly,,"Antigua, place unspecified",Charleston,,"Oates, James",,1751-01-01,#N/A,#N/A
+1751,100266,,,"St. Kitts, port unspecified",Charleston,,Bannon,,1751-01-01,17.3,-62.71667
+1751,100267,Isaac,,"Barbados, place unspecified",Charleston,,"McNeill, John",,1751-01-01,#N/A,#N/A
+1751,100268,,,"Antigua, place unspecified",Charleston,,,,1751-01-01,#N/A,#N/A
+1751,100269,,,"Barbados, place unspecified",Charleston,,Symondson,,1751-01-01,#N/A,#N/A
+1751,100270,,,"Barbados, place unspecified",Charleston,,Wakeley,,1751-01-01,#N/A,#N/A
+1751,100271,,,"Barbados, place unspecified",Charleston,,Gordon,,1751-01-01,#N/A,#N/A
+1751,101528,Industry,,New Providence,"South Carolina, place unspecified",,"Thompson, John",,1751-01-01,24.99364,-77.39683
+1752,100039,Molly,,"Barbados, place unspecified",Charleston,100,"Watts, Richard",,1752-01-01,#N/A,#N/A
+1752,100272,Lucretia,,"St. Kitts, port unspecified",Charleston,,"Fleming (a) Heming, James",,1752-01-01,17.3,-62.71667
+1752,100273,Joseph,,New York,Charleston,,"Wilson, Joseph",,1752-01-01,40.71458,-74.00708
+1752,100274,Susannah,,"Antigua, place unspecified",Charleston,,"Lang, William",,1752-01-01,#N/A,#N/A
+1752,100275,Armstrong,,"Barbados, place unspecified",Charleston,,"Eggar, James",,1752-01-01,#N/A,#N/A
+1752,100276,Industry,,"Barbados, place unspecified",Charleston,,"Kilner, Samuel",,1752-01-01,#N/A,#N/A
+1752,100277,Lovely Rebecca,,"Antigua, place unspecified",Charleston,,"Davis, Robert",,1752-01-01,#N/A,#N/A
+1752,100278,,,"St. Kitts, port unspecified",Charleston,,Smith,,1752-01-01,17.3,-62.71667
+1752,100279,,,"Montserrat, port unspecified",Charleston,,Leslie,,1752-01-01,16.7,-62.21667
+1752,100280,Spy,,"Jamaica, place unspecified",Charleston,,"Evans, Burch",,1752-01-01,#N/A,#N/A
+1752,100281,Endeavour,,"Jamaica, place unspecified",Charleston,,"Colcock, Isaac",,1752-01-01,#N/A,#N/A
+1752,100282,Sarah and Anne,,"Barbados, place unspecified",Charleston,,"Nicholson, John",,1752-01-01,#N/A,#N/A
+1752,100283,Vine,,"Barbados, place unspecified",Beaufort,,"Makin, Robert",,1752-01-01,#N/A,#N/A
+1752,100284,Two Friends,,"Barbados, place unspecified",Charleston,60,"Hammett, Abraham",,1752-01-01,#N/A,#N/A
+1752,100285,,,"Barbados, place unspecified",Charleston,,Donnington,,1752-01-01,#N/A,#N/A
+1752,100286,Providence,,"Barbados, place unspecified",Charleston,10,"Nicholson, John",,1752-01-01,#N/A,#N/A
+1752,100288,Nancy,,"St. Kitts, port unspecified",Charleston,23,"Marshall, James",,1752-01-01,17.3,-62.71667
+1752,100289,Saint Andrew,,"St. Kitts, port unspecified",Charleston,,"Breading, Andrew",,1752-01-01,17.3,-62.71667
+1752,100290,,,"Jamaica, place unspecified",Charleston,,Edwards,,1752-01-01,#N/A,#N/A
+1752,100291,Nancy,,Cape Fear,Charleston,7,"Fen, Francis",,1752-01-01,34.724508,-78.484574
+1752,100292,,,"Barbados, place unspecified",Charleston,,Rice,,1752-01-01,#N/A,#N/A
+1752,102616,William and Mary,,Kingston,"South Carolina, place unspecified",,"Tucker, George",,1752-01-01,17.98333,-76.8
+1753,100040,Molly,,"Barbados, place unspecified",Charleston,11,Watts,,1753-01-01,#N/A,#N/A
+1753,100287,Brothers,,"Barbados, place unspecified",Charleston,11,"Cragg, Thomas",,1753-01-01,#N/A,#N/A
+1753,100293,Good Intent,,"Barbados, place unspecified",Charleston,7,"Booth, John",,1753-01-01,#N/A,#N/A
+1753,100294,Benjamin,,"Barbados, place unspecified",Charleston,16,"Thompson, Thomas",,1753-01-01,#N/A,#N/A
+1753,100295,Dutchess of Beaufort,,"St. Kitts, port unspecified",Charleston,,"Nash, William",,1753-01-01,17.3,-62.71667
+1753,100296,Hannah,,"Barbados, place unspecified",Charleston,48,"Cornish, Joseph",,1753-01-01,#N/A,#N/A
+1753,100297,Plymouth,,"Barbados, place unspecified",Charleston,4,"Lang, George",,1753-01-01,#N/A,#N/A
+1753,100298,Arabella,,"Jamaica, place unspecified",Charleston,,"Boyd, James",,1753-01-01,#N/A,#N/A
+1753,100299,Molly and Sally,,"Barbados, place unspecified",Charleston,100,"Wilmhurst, John",,1753-01-01,#N/A,#N/A
+1753,100300,Entwistle,,"Barbados, place unspecified",Charleston,50,"Briggs, William",,1753-01-01,#N/A,#N/A
+1753,100301,Salmond,,"Rhode Island, port unspecified",Charleston,,"Sweeting, Job",,1753-01-01,41.49,-71.31
+1753,100302,,,"Barbados, place unspecified",Charleston,,Calvert,,1753-01-01,#N/A,#N/A
+1753,100303,,,"Barbados, place unspecified",Charleston,,Parsons,,1753-01-01,#N/A,#N/A
+1753,100304,,,"Barbados, place unspecified",Charleston,,Gaultria,,1753-01-01,#N/A,#N/A
+1753,100305,,,"Barbados, place unspecified",Charleston,,Crumbleholm,,1753-01-01,#N/A,#N/A
+1753,100306,Nancy,,"Antigua, place unspecified",Charleston,,"Copithorn, John",,1753-01-01,#N/A,#N/A
+1753,100308,,,"Americas, port unspecified",Charleston,,Dickinson,,1753-01-01,0,0
+1753,100309,,,"Americas, port unspecified",Charleston,,Gordon,,1753-01-01,0,0
+1753,100351,,,"Anguilla, port unspecified",Charleston,,Peniston,,1753-01-01,18.21667,-63.05
+1753,100352,,,"Anguilla, port unspecified",Charleston,,Robinson,,1753-01-01,18.21667,-63.05
+1754,100307,Molly and Sally,,"Barbados, place unspecified",Charleston,24,"Wilmhurst, John",,1754-01-01,#N/A,#N/A
+1754,100310,Jenny or Diamond,,"Rhode Island, port unspecified",Charleston,,"Brown, William",,1754-01-01,41.49,-71.31
+1754,100311,Martha,,"Barbados, place unspecified",Charleston,80,"Lone, James",,1754-01-01,#N/A,#N/A
+1754,100312,New Ormond Success,,"Barbados, place unspecified",Charleston,,"Dickson, William",,1754-01-01,#N/A,#N/A
+1754,100313,Katharine,,"Barbados, place unspecified",Charleston,,"Rash, Andrew",,1754-01-01,#N/A,#N/A
+1754,100314,Charming Betty,,"Barbados, place unspecified",Charleston,,"Day, William",,1754-01-01,#N/A,#N/A
+1754,100315,,,Philadelphia,Charleston,,Day,,1754-01-01,39.9522,-75.1642
+1754,100316,Elizabeth,,"Jamaica, place unspecified",Charleston,,"Landey (a) Londey, John",,1754-01-01,#N/A,#N/A
+1754,100317,Altia[?],,New York,Charleston,,"Dickerson, [Robert?]",,1754-01-01,40.71458,-74.00708
+1754,100318,,,"Jamaica, place unspecified",Charleston,48,,,1754-01-01,#N/A,#N/A
+1754,100319,Mercury,,"Jamaica, place unspecified",Charleston,,"Webb, William",,1754-01-01,#N/A,#N/A
+1754,100320,Mary and Martha,,"Barbados, place unspecified",Charleston,,"Dill, Joseph",,1754-01-01,#N/A,#N/A
+1754,100321,Isaac,,"Barbados, place unspecified",Charleston,60,"McNeill, John",,1754-01-01,#N/A,#N/A
+1754,100322,Duchess [Duke] of Queensberry,,"Antigua, place unspecified",Charleston,,"McNeal, Hector",,1754-01-01,#N/A,#N/A
+1754,100323,Deborah,,New York,Charleston,,"Drumgoole (a) Drumgold, Alexander",,1754-01-01,40.71458,-74.00708
+1754,100324,,,"Jamaica, place unspecified",Charleston,,Adams,,1754-01-01,#N/A,#N/A
+1754,100325,Prince of Wales,,"Barbados, place unspecified",Charleston,70,"Gordon, Robert",,1754-01-01,#N/A,#N/A
+1754,100326,,,"Antigua, place unspecified",Charleston,,Roberts,,1754-01-01,#N/A,#N/A
+1754,100327,Nancy,,"Barbados, place unspecified",Charleston,,"Copithorn, [John?]",,1754-01-01,#N/A,#N/A
+1755,100328,,,Philadelphia,Charleston,,Robeson,,1755-01-01,39.9522,-75.1642
+1755,100329,,,Cape Fear,Charleston,,Tucker,,1755-01-01,34.724508,-78.484574
+1755,100330,,,"Virginia, port unspecified",Charleston,,Legge,,1755-01-01,37.2268,-76.45376
+1755,100331,Sally[?],,New York,Charleston,,"Schermerhorn, [John?]",,1755-01-01,40.71458,-74.00708
+1755,100332,Providence,,"Barbados, place unspecified",Charleston,,"Nichols, William",,1755-01-01,#N/A,#N/A
+1755,100333,Polly,,"St. Kitts, port unspecified",Charleston,,"Boardman (a) Bondman, Isaac",,1755-01-01,17.3,-62.71667
+1755,100334,William,,"Barbados, place unspecified",Charleston,,"Kent, Ebenezer",,1755-01-01,#N/A,#N/A
+1755,100335,Endeavour,,"Georgia, port unspecified",Charleston,,"Cunningham (a) Coningham, David",,1755-01-01,32.0833,-81.1
+1755,100336,Dobb,,"Antigua, place unspecified",Charleston,,"Hall, Philip",,1755-01-01,#N/A,#N/A
+1755,100337,Olive Branch,,"Antigua, place unspecified",Charleston,50,"Hunt, Thomas",,1755-01-01,#N/A,#N/A
+1755,100338,,,"Antigua, place unspecified",Charleston,,Gordon,,1755-01-01,#N/A,#N/A
+1755,100339,Elizabeth[?],,New York,Charleston,,McGinray [Alexander McGillivray?],,1755-01-01,40.71458,-74.00708
+1755,100340,George,,"Barbados, place unspecified",Charleston,48,"Gilchrist, James",,1755-01-01,#N/A,#N/A
+1755,100341,America,,"Barbados, place unspecified",Charleston,,"Jefferson, Benjamin",,1755-01-01,#N/A,#N/A
+1755,100342,Alexander,,Philadelphia,Charleston,,"Ford, John",,1755-01-01,39.9522,-75.1642
+1755,100343,Margaret and Mary,,"Antigua, place unspecified",Charleston,,"Gordon, James",,1755-01-01,#N/A,#N/A
+1755,100344,Jacky and Peggy,,"Antigua, place unspecified",Charleston,,"Dunbar, James",,1755-01-01,#N/A,#N/A
+1755,100345,Gambia,,"Barbados, place unspecified",Charleston,13,"Dodson, Robert",,1755-01-01,#N/A,#N/A
+1755,100348,Africa,,"Antigua, place unspecified",Charleston,24,"Vining, William",,1755-01-01,#N/A,#N/A
+1755,100349,Dobb,,"Antigua, place unspecified",Charleston,,"Hall, Philip",,1755-01-01,#N/A,#N/A
+1755,100350,Endeavour,,Curaçao,Charleston,,"Seymour, James",,1755-01-01,#N/A,#N/A
+1755,100356,,,"Antigua, place unspecified",Charleston,,Pitt,,1755-01-01,#N/A,#N/A
+1755,100357,Tryall,,"Antigua, place unspecified",Charleston,,"Jones, Robert",,1755-01-01,#N/A,#N/A
+1755,100358,,,"Jamaica, place unspecified",Charleston,,Neale,,1755-01-01,#N/A,#N/A
+1755,100359,,,"Antigua, place unspecified",Charleston,,Gilbert,,1755-01-01,#N/A,#N/A
+1755,100360,,,St. Eustatius,Charleston,,Juder,,1755-01-01,17.46667,-62.98333
+1755,100361,Schrives (a) Screven,,Curaçao,Charleston,,"Sikker (a) Sinclair, Daniel",,1755-01-01,#N/A,#N/A
+1755,107971,Nancy,,"Barbados, place unspecified",Charleston,9,"Copithorn, John",,1755-01-01,#N/A,#N/A
+1756,100346,Adventure,,"Antigua, place unspecified",Charleston,,"Druitt, Joseph",,1756-01-01,#N/A,#N/A
+1756,100347,Brislington,,"Antigua, place unspecified",Charleston,8,"Whitborn, John",,1756-01-01,#N/A,#N/A
+1756,100353,Relief,,"Barbados, place unspecified",Charleston,140,"Lightbourn, William",,1756-01-01,#N/A,#N/A
+1756,100354,,,Charleston,Georgetown,9,,,1756-01-01,32.78096,-79.93554
+1756,100355,Georgia Packet,,"Antigua, place unspecified",Charleston,,"Marshall, Alexander",,1756-01-01,#N/A,#N/A
+1756,100362,Whitieg,,"Virginia, port unspecified",Charleston,,"Wallington, William",,1756-01-01,37.2268,-76.45376
+1756,100363,,,"Rhode Island, port unspecified",Charleston,,Frip,,1756-01-01,41.49,-71.31
+1756,107972,Squirrel,,"Barbados, place unspecified",Charleston,,"Ward, Henry",,1756-01-01,#N/A,#N/A
+1757,100364,Nancy,,"Barbados, place unspecified",Charleston,27,"Dickinson, Flor.",,1757-01-01,#N/A,#N/A
+1757,100365,Katherine,,"Barbados, place unspecified",Charleston,30,"Hayes, James",,1757-01-01,#N/A,#N/A
+1757,100366,Hannah,,"Barbados, place unspecified",Charleston,200,"Cornish, Andrew",,1757-01-01,#N/A,#N/A
+1757,100367,Thomas and Sarah,,"Barbados, place unspecified",Charleston,,"Judkins, Stephen",,1757-01-01,#N/A,#N/A
+1757,100368,Bahamian,,"Antigua, place unspecified",Charleston,,"Seers, David",,1757-01-01,#N/A,#N/A
+1757,100369,Loudoun,,"Virginia, port unspecified",Charleston,,"Ouile (a) Curle, Samuel",,1757-01-01,37.2268,-76.45376
+1757,100370,Phoenix,,"Barbados, place unspecified",Charleston,,"Burrows, William",,1757-01-01,#N/A,#N/A
+1757,100371,Hope,,"Antigua, place unspecified",Charleston,,"Rolland, Alexander",,1757-01-01,#N/A,#N/A
+1757,100372,Helena,,"Antigua, place unspecified",Charleston,45,"Joell, William",,1757-01-01,#N/A,#N/A
+1757,100374,Lindo Packett,,"Barbados, place unspecified",Charleston,49,"Young, Alexander",,1757-01-01,#N/A,#N/A
+1758,100375,Lovely Martha,,"Montserrat, port unspecified",Charleston,6,"Porter, George",,1758-01-01,16.7,-62.21667
+1758,100376,Catherine,,"Jamaica, place unspecified",Charleston,2,"Lonsdale, Thomas",,1758-01-01,#N/A,#N/A
+1758,100377,Polly and Fanny,,"St. Kitts, port unspecified",Charleston,32,Lyell,,1758-01-01,17.3,-62.71667
+1758,100378,Two Brothers,,"Montserrat, port unspecified",Charleston,7,"Nicholls, John",,1758-01-01,16.7,-62.21667
+1758,100379,Three Sisters,,"Antigua, place unspecified",Charleston,13,"Hall, Robert",,1758-01-01,#N/A,#N/A
+1758,100380,Edinburgh,,"Antigua, place unspecified",Charleston,1,"Duncan, Walter",,1758-01-01,#N/A,#N/A
+1758,100381,Spy,,"St. Kitts, port unspecified",Charleston,84,"Browne, John",,1758-01-01,17.3,-62.71667
+1758,100382,Jolly Robin,,"Jamaica, place unspecified",Charleston,28,"Beck, Daniel",,1758-01-01,#N/A,#N/A
+1758,100383,Little Jemmy,,"St. Kitts, port unspecified",Charleston,16,"Shortridge, Samuel",,1758-01-01,17.3,-62.71667
+1758,100384,Catherine and Ann (a) Kate-Anne,,"Americas, port unspecified",Charleston,28,"Wood, Horatio (a) Horace",,1758-01-01,0,0
+1758,100385,,,Philadelphia,Charleston,,North,,1758-01-01,39.9522,-75.1642
+1758,100386,,,Providence,Charleston,,Gould,,1758-01-01,41.8239,-71.4133
+1758,100387,,,"Antigua, place unspecified",Charleston,,Ross,,1758-01-01,#N/A,#N/A
+1758,100388,,,"Barbados, place unspecified",Charleston,,Dickinson,,1758-01-01,#N/A,#N/A
+1759,100389,,,New York,Charleston,,Stoddard,,1759-01-01,40.71458,-74.00708
+1759,100390,Mary,,"Antigua, place unspecified",Charleston,2,"Newbold, Sam",,1759-01-01,#N/A,#N/A
+1759,100391,Sam and Robert,,"Antigua, place unspecified",Charleston,28,"Conner, James",,1759-01-01,#N/A,#N/A
+1759,100392,Union,,Providence,Charleston,83,"Chatfield, John",,1759-01-01,41.8239,-71.4133
+1759,100393,,,"Barbados, place unspecified",Charleston,,Dickinson,,1759-01-01,#N/A,#N/A
+1759,100394,Polly and Betsey,,"Barbados, place unspecified",Charleston,200,"Graham, John",,1759-01-01,#N/A,#N/A
+1759,100396,,,"Antigua, place unspecified",Charleston,,Hutton,,1759-01-01,#N/A,#N/A
+1759,100397,,,"St. Kitts, port unspecified",Charleston,,"Nelmes, Thomas",,1759-01-01,17.3,-62.71667
+1760,100395,John,,"Antigua, place unspecified",Charleston,10,"Ross, John",,1760-01-01,#N/A,#N/A
+1760,100398,Unity,,"Rhode Island, port unspecified",Charleston,4,"Northam, John",,1760-01-01,41.49,-71.31
+1760,100399,Betsey,,"Jamaica, place unspecified",Charleston,9,"Moore, Reuben",,1760-01-01,#N/A,#N/A
+1760,100400,Polly and Nancy,,St. Croix,Charleston,5,"Ogilvie, James",,1760-01-01,17.77305,-64.82
+1760,100402,,,St. Eustatius,Charleston,,Harriot,,1760-01-01,17.46667,-62.98333
+1761,100401,Amherst,,"St. Kitts, port unspecified",Charleston,,"Lyell, Lorrain",,1761-01-01,17.3,-62.71667
+1761,100403,,,Providence,Charleston,,Roberts,,1761-01-01,41.8239,-71.4133
+1761,100404,,,"Guadeloupe, place unspecified",Charleston,,Gillis,,1761-01-01,#N/A,#N/A
+1761,100405,,,"Georgia, port unspecified",Charleston,,Martin,,1761-01-01,32.0833,-81.1
+1761,100406,,,"St. Kitts, port unspecified",Charleston,,George,,1761-01-01,17.3,-62.71667
+1762,100407,Three Brothers,,"St. Kitts, port unspecified",Charleston,2,"Clay, Robert",,1762-01-01,17.3,-62.71667
+1762,100408,,,"Virginia, port unspecified",Charleston,,Weldon,,1762-01-01,37.2268,-76.45376
+1762,100409,Betsey [?],,"St. Kitts, port unspecified",Charleston,,Walden [James?],,1762-01-01,17.3,-62.71667
+1762,100410,,,"St. Kitts, port unspecified",Charleston,,"Whitson, John",,1762-01-01,17.3,-62.71667
+1762,100411,,,New York,Charleston,,McLaughlin,,1762-01-01,40.71458,-74.00708
+1762,100412,,,Bermuda,Charleston,,Catlin,,1762-01-01,32.29417,-64.78389
+1762,100413,,,New York,Charleston,,Smith,,1762-01-01,40.71458,-74.00708
+1762,100414,Dispatch,,Philadelphia,Charleston,1,Kelly,,1762-01-01,39.9522,-75.1642
+1762,100415,,,Boston,Charleston,,Robinson,,1762-01-01,42.36166,-71.05947
+1762,100416,,,Cape Fear,Charleston,,Waldron,,1762-01-01,34.724508,-78.484574
+1762,100417,,,Havana,Charleston,,Woodhouse,,1762-01-01,23.13194,-82.36417
+1762,100418,,,Curaçao,Charleston,,Harrison,,1762-01-01,#N/A,#N/A
+1763,100419,Benjamin,,"Antigua, place unspecified",Charleston,3,"Dickinson, Jeremy",,1763-01-01,#N/A,#N/A
+1763,100420,Rebecca,,Havana,Charleston,,"Craig, Robert",,1763-01-01,23.13194,-82.36417
+1763,100421,Nancy,,"Barbados, place unspecified",Charleston,11,"Newbold, Sam",,1763-01-01,#N/A,#N/A
+1763,100422,Sandy Point,,"St. Kitts, port unspecified",Charleston,4,"Amory, Benjamin",,1763-01-01,17.3,-62.71667
+1763,100423,Charlotte,,"Barbados, place unspecified",Charleston,8,"Blair, John",,1763-01-01,#N/A,#N/A
+1763,100424,Pococke,,Havana,Charleston,,"Castle, Henry",,1763-01-01,23.13194,-82.36417
+1763,100425,,,Havana,Charleston,,Cope,,1763-01-01,23.13194,-82.36417
+1763,100426,Liver,,Havana,Charleston,,"Briggs, William",,1763-01-01,23.13194,-82.36417
+1763,100427,Porgy,,"Antigua, place unspecified",Charleston,52,"Bassett, Jeremy",,1763-01-01,#N/A,#N/A
+1763,100428,Sally,,"Antigua, place unspecified",Charleston,,"Shaw, William",,1763-01-01,#N/A,#N/A
+1763,100429,Delaware,,Philadelphia,Charleston,3,"Creighton, Peter",,1763-01-01,39.9522,-75.1642
+1763,100430,Neptune,,Mosquito Shore,Charleston,1,"Russell, Robert",,1763-01-01,14.03333,-83.38333
+1763,100431,Porgy,,"Antigua, place unspecified",Charleston,5,"Russell, Joseph",,1763-01-01,#N/A,#N/A
+1763,100432,Ranger,,Salem,Charleston,,"Darby, John",,1763-01-01,42.5194,-70.8972
+1763,100433,Bolling,,"Grenada, place unspecified",Charleston,,"McKenzie, James",,1763-01-01,#N/A,#N/A
+1763,100436,Rachel and Mary,,Cape Fear,Charleston,,"Waldron, Isaac",,1763-01-01,34.724508,-78.484574
+1763,100440,Flora,,"Jamaica, place unspecified",Charleston,,"Pinlarde (a) Pintard, Anthony",,1763-01-01,#N/A,#N/A
+1763,100441,Three Friends,,Boston,Charleston,,"Gorham, Ebenezer (a) Goram, Prince",,1763-01-01,42.36166,-71.05947
+1764,100434,William and Elizabeth,,"Antigua, place unspecified",Charleston,18,"Young, David",,1764-01-01,#N/A,#N/A
+1764,100435,Sally,,"St. Kitts, port unspecified",Charleston,6,"Floyd, William",,1764-01-01,17.3,-62.71667
+1764,100437,Hope,,"Antigua, place unspecified",Charleston,117,"Royall, William",,1764-01-01,#N/A,#N/A
+1764,100438,Industry,,"Antigua, place unspecified",Charleston,17,"Jones, Edward",,1764-01-01,#N/A,#N/A
+1764,100439,Nancy,,"Antigua, place unspecified",Charleston,2,"Armistead, Samuel",,1764-01-01,#N/A,#N/A
+1764,100442,Black Prince,,"Antigua, place unspecified",Charleston,54,"Alger, Preserved",,1764-01-01,#N/A,#N/A
+1764,100443,Mary Ann,,"St. Kitts, port unspecified",Charleston,50,"Mitchell, John",,1764-01-01,17.3,-62.71667
+1764,100444,Rebecca,,"Jamaica, place unspecified",Charleston,9,"Craig, Robert",,1764-01-01,#N/A,#N/A
+1764,100445,Endeavour,,"North Carolina, port unspecified",Charleston,3,"Whitebread, Thomas",,1764-01-01,35.88368,-75.6495
+1764,100446,Carolina,,"St. Kitts, port unspecified",Charleston,8,"Convers, Clement",,1764-01-01,17.3,-62.71667
+1764,100447,Mary,,Providence,Charleston,10,"Brown, William",,1764-01-01,41.8239,-71.4133
+1764,100448,John,,"St. Kitts, port unspecified",Charleston,9,"Dickinson, Francis",,1764-01-01,17.3,-62.71667
+1764,100449,Ann,,"Barbados, place unspecified",Charleston,80,"Darrell, John",,1764-01-01,#N/A,#N/A
+1764,100450,,,"St. Kitts, port unspecified",Charleston,,Todd,,1764-01-01,17.3,-62.71667
+1764,100452,,,"Rhode Island, port unspecified",Charleston,,Godfrey,,1764-01-01,41.49,-71.31
+1764,100453,[Peggy???],,"Virginia, port unspecified",Charleston,,"Calvert, [John??]",,1764-01-01,37.2268,-76.45376
+1764,100454,Charlotte,,"St. Kitts, port unspecified",Charleston,66,"Williams, William",,1764-01-01,17.3,-62.71667
+1764,100455,Sukey and Nancy,,"Antigua, place unspecified",Charleston,30,"Dickinson, Josiah",,1764-01-01,#N/A,#N/A
+1764,100456,,,Plymouth,Charleston,,"Bryson, Andrew",,1764-01-01,50.39639,-4.13861
+1764,100457,Fanny,,"St. Kitts, port unspecified",Charleston,35,"Sampson, Ralph",,1764-01-01,17.3,-62.71667
+1764,100458,,,Charleston,Georgetown,,,,1764-01-01,32.78096,-79.93554
+1764,100459,Manchester,,"St. Kitts, port unspecified",Charleston,15,"Livingston, Gilbert",,1764-01-01,17.3,-62.71667
+1764,100460,,,Charleston,Georgetown,,"Dick, George",,1764-01-01,32.78096,-79.93554
+1764,100461,,,"Jamaica, place unspecified",Charleston,,Young,,1764-01-01,#N/A,#N/A
+1764,100462,Molly,,"Barbados, place unspecified",Charleston,20,"Wooster, John",,1764-01-01,#N/A,#N/A
+1764,100463,Charming Sally,,Havana,Charleston,7,"Evanson, Evan",,1764-01-01,23.13194,-82.36417
+1764,100464,Success,,"Barbados, place unspecified",Charleston,16,"Cookson, Joseph",,1764-01-01,#N/A,#N/A
+1764,100465,King George,,Havana,Charleston,,"Erskine, Thomas",,1764-01-01,23.13194,-82.36417
+1764,100466,,,"Jamaica, place unspecified",Charleston,,Hinson,,1764-01-01,#N/A,#N/A
+1764,100467,,,"British Honduras, port unspecified",Charleston,,Chalmers,,1764-01-01,17.498611,-88.188611
+1764,100468,Ann,,"Jamaica, place unspecified",Charleston,8,"Darrell, John",,1764-01-01,#N/A,#N/A
+1764,100470,,,"Jamaica, place unspecified",Charleston,,Blake,,1764-01-01,#N/A,#N/A
+1764,100471,Austin,,"Barbados, place unspecified",Charleston,3,"Holme, Matthias",,1764-01-01,#N/A,#N/A
+1764,100472,Friendship,,"St. Kitts, port unspecified",Charleston,60,"Amory, John",,1764-01-01,17.3,-62.71667
+1764,100473,,,"St. Kitts, port unspecified",Charleston,,"Skinner, Samuel",,1764-01-01,17.3,-62.71667
+1764,100474,Susannah & Mary,,"Antigua, place unspecified",Charleston,,"Eve, Francis",,1764-01-01,#N/A,#N/A
+1764,100475,King George,,"Jamaica, place unspecified",Charleston,5,"Newbold, Samuel",,1764-01-01,#N/A,#N/A
+1764,100476,,,"St. Kitts, port unspecified",Charleston,,Somersall,,1764-01-01,17.3,-62.71667
+1764,100477,Patient-Mary,,"Barbados, place unspecified",Charleston,,"Singleton, William",,1764-01-01,#N/A,#N/A
+1764,100478,,,"Jamaica, place unspecified",Charleston,,Crague,,1764-01-01,#N/A,#N/A
+1764,100479,,,Havana,Charleston,,Wilson,,1764-01-01,23.13194,-82.36417
+1764,100484,,,"Antigua, place unspecified",Charleston,,Browne,,1764-01-01,#N/A,#N/A
+1764,100485,Diamond,,Kingston,Charleston,40,"Stanton, John",,1764-01-01,17.98333,-76.8
+1764,100486,,,"Jamaica, place unspecified",Charleston,,Catlin,,1764-01-01,#N/A,#N/A
+1764,100487,,,"St. Kitts, port unspecified",Charleston,,Albuoy,,1764-01-01,17.3,-62.71667
+1764,100488,,,"Barbados, place unspecified",Charleston,,Meanley,,1764-01-01,#N/A,#N/A
+1764,100491,,,"Jamaica, place unspecified",Charleston,,Patrick,,1764-01-01,#N/A,#N/A
+1764,100493,,,"Jamaica, place unspecified",Charleston,,Webster,,1764-01-01,#N/A,#N/A
+1764,101619,Pembroke,,"Barbados, place unspecified","South Carolina, place unspecified",,"Mountany, Punish",,1764-01-01,#N/A,#N/A
+1764,101620,Mally,,"Barbados, place unspecified","South Carolina, place unspecified",,"Mackie, Richard",,1764-01-01,#N/A,#N/A
+1764,107978,Susanna,,Charleston,Georgetown,,"Smart, William",,1764-01-01,32.78096,-79.93554
+1764,102847,Mary's Ann Betty,,Kingston,Charleston,,"Corbett, Thomas",,1764-01-01,17.98333,-76.8
+1765,100044,Nancy,,Kingston,"South Carolina, place unspecified",,"Jardine, William",,1765-01-01,17.98333,-76.8
+1765,100045,Vulcan,,Kingston,"South Carolina, place unspecified",,"Barger, Nicholas",,1765-01-01,17.98333,-76.8
+1765,100046,Ann,,"Jamaica, place unspecified","South Carolina, place unspecified",,"Darrell, John",,1765-01-01,#N/A,#N/A
+1765,100047,Free Bounty,,Montego Bay,Charleston,3,"White, Thomas",,1765-01-01,18.46667,-77.91667
+1765,100481,George,,Providence,Charleston,43,"Dorsett, George",,1765-01-01,41.8239,-71.4133
+1765,100482,Alice,,"Tortola, port unspecified",Charleston,17,Jackson,,1765-01-01,18.34732,-64.72
+1765,100483,,,"Jamaica, place unspecified",Charleston,50,Webster,,1765-01-01,#N/A,#N/A
+1765,100489,Prudence,,"Montserrat, port unspecified",Charleston,70,"Farmer, Thomas",,1765-01-01,16.7,-62.21667
+1765,100490,Nancy,,Kingston,Charleston,9,"Patrick, Edward",,1765-01-01,17.98333,-76.8
+1765,100494,Polly,,"Montserrat, port unspecified",Charleston,38,"Phillips, William",,1765-01-01,16.7,-62.21667
+1765,100495,Success,,"Antigua, place unspecified",Beaufort,60,"Cookson, Joseph",,1765-01-01,#N/A,#N/A
+1765,100496,Charming Sally,,"St. Kitts, port unspecified",Charleston,8,"Evanson, Evan",,1765-01-01,17.3,-62.71667
+1765,100497,Molly,,"Barbados, place unspecified",Charleston,48,"Wooster, John",,1765-01-01,#N/A,#N/A
+1765,100498,,,"Jamaica, place unspecified",Charleston,,Evanson,,1765-01-01,#N/A,#N/A
+1765,100499,Jamaica Packet,,"Antigua, place unspecified",Charleston,100,Dickinson,,1765-01-01,#N/A,#N/A
+1765,100500,Elizabeth,,"Barbados, place unspecified",Charleston,100,Campbell,,1765-01-01,#N/A,#N/A
+1765,100501,,,Curaçao,Charleston,,Seymour,,1765-01-01,#N/A,#N/A
+1765,100502,,,Havana,Charleston,,"Scott, James",,1765-01-01,23.13194,-82.36417
+1765,100503,Success,,"Antigua, place unspecified",Charleston,60,"Westcott, Wright",,1765-01-01,#N/A,#N/A
+1765,100504,,,Portsmouth (NH),Charleston,,"Mitchell, David",,1765-01-01,43.0717,-70.7631
+1765,100506,,,"St. Kitts, port unspecified",Charleston,,Newman,,1765-01-01,17.3,-62.71667
+1765,100507,,,"Jamaica, place unspecified",Charleston,,Ferguson,,1765-01-01,#N/A,#N/A
+1765,100508,,,"Grenada, place unspecified",Charleston,,Campbell,,1765-01-01,#N/A,#N/A
+1765,100509,Adventure,,"Barbados, place unspecified",Charleston,,"Burrows, Jeremiah",,1765-01-01,#N/A,#N/A
+1765,100510,Dolly,,"Jamaica, place unspecified",Charleston,10,"Anderson, John",,1765-01-01,#N/A,#N/A
+1765,100511,,,"Antigua, place unspecified",Charleston,,Campbell,,1765-01-01,#N/A,#N/A
+1765,100512,,,"Jamaica, place unspecified",Charleston,,Newbold,,1765-01-01,#N/A,#N/A
+1765,100513,Fanny,,"St. Kitts, port unspecified",Charleston,35,"Sampson, Ralph",,1765-01-01,17.3,-62.71667
+1765,100515,Liberty [?-blank],,"Jamaica, place unspecified",Charleston,,Lightburn [Samuel?-blank],,1765-01-01,#N/A,#N/A
+1765,100516,Ruth,,"Jamaica, place unspecified",Charleston,14,"King, Edward",,1765-01-01,#N/A,#N/A
+1765,100517,Dove,,"Nevis, port unspecified",Charleston,19,"Boyd, George",,1765-01-01,17.2,-62.58333
+1765,100518,Friendship,,Kingston,Charleston,73,"Robertson, Alexander",,1765-01-01,17.98333,-76.8
+1765,100519,King George,,Kingston,Charleston,,"Russell, Robert",,1765-01-01,17.98333,-76.8
+1765,100520,Fanny,,Kingston,Charleston,,"Henderson, Sebastian",,1765-01-01,17.98333,-76.8
+1765,100521,Carolina Society,,"St. Kitts, port unspecified",Charleston,2,"Conyers, Clement",,1765-01-01,17.3,-62.71667
+1765,100522,Savage,,"Jamaica, place unspecified","South Carolina, place unspecified",,"Young, John",,1765-01-01,#N/A,#N/A
+1765,100523,Weatherhill,,"St. Kitts, port unspecified",Charleston,13,"Martin, David",,1765-01-01,17.3,-62.71667
+1765,100524,Dolphin,,"Rhode Island, port unspecified",Charleston,18,"James, Ambrose",,1765-01-01,41.49,-71.31
+1765,100525,,,"St. Kitts, port unspecified",Charleston,,Marshall,,1765-01-01,17.3,-62.71667
+1765,100526,,,"Jamaica, place unspecified",Charleston,,"Gaul, Edward",,1765-01-01,#N/A,#N/A
+1765,100528,,,"Jamaica, place unspecified",Charleston,,Russell,,1765-01-01,#N/A,#N/A
+1765,100529,Live Oak,,"Rhode Island, port unspecified",Charleston,47,"Lundberry, Andrew",,1765-01-01,41.49,-71.31
+1765,100530,,,"Jamaica, place unspecified",Charleston,,McAlpine,,1765-01-01,#N/A,#N/A
+1765,100531,Industry,,Montego Bay,Charleston,8,"Hinson, Nicholas",,1765-01-01,18.46667,-77.91667
+1765,100533,Sukey and Nancy,,"Antigua, place unspecified",Charleston,12,"Dickinson, Joseph",,1765-01-01,#N/A,#N/A
+1765,100534,Adventure,,"Jamaica, place unspecified",Charleston,11,"Gordon, William",,1765-01-01,#N/A,#N/A
+1765,100535,Mary,,"Jamaica, place unspecified","South Carolina, place unspecified",,"Hinson, Benjamin",,1765-01-01,#N/A,#N/A
+1765,100536,Mary,,Bermuda,Charleston,7,"Hinson, Benjamin",,1765-01-01,32.29417,-64.78389
+1765,100537,Molly,,"Rhode Island, port unspecified",Charleston,7,"Coddington, Edward",,1765-01-01,41.49,-71.31
+1765,100538,Beaufain,,"Antigua, place unspecified",Charleston,80,"Catlin, Nicholas",,1765-01-01,#N/A,#N/A
+1765,100539,,,"St. Kitts, port unspecified",Charleston,,Simpson,,1765-01-01,17.3,-62.71667
+1765,100540,,,"St. Kitts, port unspecified",Charleston,,Todd,,1765-01-01,17.3,-62.71667
+1765,100542,Lovely Patty,,"Nevis, port unspecified",Charleston,20,"Nelson, Isaac",,1765-01-01,17.2,-62.58333
+1765,100543,Liberty,,"St. Kitts, port unspecified",Charleston,6,"Lightbourn, Samuel",,1765-01-01,17.3,-62.71667
+1765,100544,Carolina Society,,"St. Kitts, port unspecified",Charleston,7,"Conyers, Clement",,1765-01-01,17.3,-62.71667
+1765,100545,Success,,"Nevis, port unspecified",Charleston,18,"Whiting, Ebenezer",,1765-01-01,17.2,-62.58333
+1765,100546,,,Curaçao,Charleston,,Stone,,1765-01-01,#N/A,#N/A
+1765,100547,,,"Jamaica, place unspecified",Charleston,,Tardon,,1765-01-01,#N/A,#N/A
+1765,100548,,,"St. Kitts, port unspecified",Charleston,,Hill,,1765-01-01,17.3,-62.71667
+1765,100551,Lovely-Betsey,,"St. Kitts, port unspecified",Charleston,,"Scott, John",,1765-01-01,17.3,-62.71667
+1765,100552,,,"Dominica, place unspecified",Charleston,,Stockes,,1765-01-01,#N/A,#N/A
+1765,101999,Harvey,,"Grenada, place unspecified","South Carolina, place unspecified",,"Dickinson, William",,1765-01-01,#N/A,#N/A
+1765,102872,Sukey and Nancy,,Kingston,Charleston,,"Dickinson, Joseph",,1765-01-01,17.98333,-76.8
+1765,102905,Beaufain,,Kingston,Charleston,,"Catlin, Nathaniel",,1765-01-01,17.98333,-76.8
+1765,102907,Nancy,,Kingston,"South Carolina, place unspecified",,"Patrick, Edward",,1765-01-01,17.98333,-76.8
+1766,100541,Betsey,,"Montserrat, port unspecified",Charleston,3,"Paine, Banjamin",,1766-01-01,16.7,-62.21667
+1766,100549,Henry,,"St. Kitts, port unspecified",Charleston,86,"Todd, Henry",,1766-01-01,17.3,-62.71667
+1766,100550,Swallow,,"St. Kitts, port unspecified",Charleston,15,"Sampson, James",,1766-01-01,17.3,-62.71667
+1766,100553,Yelloby,,"Jamaica, place unspecified",Charleston,,"James, John",,1766-01-01,#N/A,#N/A
+1767,100554,Duke of Lancaster,,"St. Kitts, port unspecified",Charleston,9,"Lamb, David",,1767-01-01,17.3,-62.71667
+1767,100555,Betsey,,"St. Kitts, port unspecified",Charleston,,"Chillcott, John",,1767-01-01,17.3,-62.71667
+1767,100556,Carolina Society,,"Jamaica, place unspecified","South Carolina, place unspecified",,"Conyers, Clement",,1767-01-01,#N/A,#N/A
+1767,100557,,,Cape Fear,Charleston,,Swaine,,1767-01-01,34.724508,-78.484574
+1768,100558,,,"Jamaica, place unspecified",Charleston,,Conyers,,1768-01-01,#N/A,#N/A
+1768,100559,Sally,,New York,Charleston,,"Schermerhorn, [Peter? John?]",,1768-01-01,40.71458,-74.00708
+1768,107134,Hawk,,St. Augustine,"South Carolina, place unspecified",,"Williams, Thomas",,1768-01-01,29.8944,-81.3147
+1769,100560,Ranger,,"St. Kitts, port unspecified",Charleston,,"Wood, Horace",,1769-01-01,17.3,-62.71667
+1769,100561,Tyrrel,,"Antigua, place unspecified",Charleston,,"Arwin, Thomas",,1769-01-01,#N/A,#N/A
+1769,100562,Betsey (a) Harmaphrodite Betsey,,"Barbados, place unspecified",Charleston,9,"LeSuier, John",,1769-01-01,#N/A,#N/A
+1769,100563,Ruby,,"Barbados, place unspecified",Charleston,50,"Bragg, Thomas",,1769-01-01,#N/A,#N/A
+1769,100564,Charming Polly,,"Antigua, place unspecified",Charleston,40,"Robinson, James",,1769-01-01,#N/A,#N/A
+1769,100565,,,St. Croix,Charleston,,Anderson,,1769-01-01,17.77305,-64.82
+1769,100566,Celia,,"Grenada, place unspecified",Charleston,,"Jones, Thomas",,1769-01-01,#N/A,#N/A
+1769,100567,Mercury,,"St. Kitts, port unspecified",Charleston,,"Bolton, Ralph",,1769-01-01,17.3,-62.71667
+1769,100568,,,"St. Kitts, port unspecified",Charleston,,Beck,,1769-01-01,17.3,-62.71667
+1769,100569,London,,"Dominica, place unspecified",Charleston,,"Butterfield, Nath.",,1769-01-01,#N/A,#N/A
+1769,100570,,,Savannah,Charleston,,Churchill,,1769-01-01,32.0833,-81.1
+1769,100571,British King,,"Antigua, place unspecified",Charleston,,"Goldsmith, G. H.",,1769-01-01,#N/A,#N/A
+1769,100572,Elizabeth,,"Barbados, place unspecified",Charleston,,"Gilchrist, James",,1769-01-01,#N/A,#N/A
+1769,100573,,,Providence,Charleston,,Savage,,1769-01-01,41.8239,-71.4133
+1769,100574,Seaflower,,Bermuda,Charleston,,"Farem (a) Tarem, William",,1769-01-01,32.29417,-64.78389
+1769,100575,Hawks,,"Jamaica, place unspecified",Charleston,,"Henry, Charles",,1769-01-01,#N/A,#N/A
+1769,100576,,,"Jamaica, place unspecified",Charleston,,Dickinson,,1769-01-01,#N/A,#N/A
+1769,100577,Saint George,,"Jamaica, place unspecified",Charleston,,"McAlpine, Collin",,1769-01-01,#N/A,#N/A
+1769,100578,Hannah,,"Barbados, place unspecified",Charleston,,"Mills, James",,1769-01-01,#N/A,#N/A
+1769,100579,Charming Betsey,,St. Eustatius,Charleston,,"Ferguson, David",,1769-01-01,17.46667,-62.98333
+1769,100580,Montagu,,"Jamaica, place unspecified",Charleston,,"Todd, Hinson",,1769-01-01,#N/A,#N/A
+1769,100581,,,"St. Kitts, port unspecified",Charleston,,Baker,,1769-01-01,17.3,-62.71667
+1769,100582,,,"St. Kitts, port unspecified",Charleston,,Yarde,,1769-01-01,17.3,-62.71667
+1769,100583,William,,"Jamaica, place unspecified",Charleston,,"Chace, Samuel",,1769-01-01,#N/A,#N/A
+1769,100584,Henry,,"Antigua, place unspecified",Charleston,,"Todd, Edward",,1769-01-01,#N/A,#N/A
+1769,100585,,,Providence,Charleston,,Newton,,1769-01-01,41.8239,-71.4133
+1769,100586,Benjamin,,"Barbados, place unspecified",Charleston,,"Dickinson, Nathaniel",,1769-01-01,#N/A,#N/A
+1769,100587,Elizabeth,,"St. Kitts, port unspecified",Charleston,,"Gilchrist, James",,1769-01-01,17.3,-62.71667
+1769,100588,,,"St. Kitts, port unspecified",Charleston,,Perry,,1769-01-01,17.3,-62.71667
+1769,100589,(Harriet?),,"Jamaica, place unspecified",Charleston,,"Dawson, Charles",,1769-01-01,#N/A,#N/A
+1769,100590,Charles-Town,,"St. Kitts, port unspecified",Charleston,,"Leaycraft, John",,1769-01-01,17.3,-62.71667
+1769,100591,,,Philadelphia,Charleston,,Blewes,,1769-01-01,39.9522,-75.1642
+1769,100592,Hercules,,"Dominica, place unspecified",Charleston,,"Hatter, John",,1769-01-01,#N/A,#N/A
+1769,100593,,,"Rhode Island, port unspecified",Charleston,,Estes,,1769-01-01,41.49,-71.31
+1769,100594,Friendship,,"Anguilla, port unspecified",Charleston,,"Vine, John",,1769-01-01,18.21667,-63.05
+1769,100595,Fortune,,"St. Kitts, port unspecified",Charleston,,"Mather, Robert",,1769-01-01,17.3,-62.71667
+1769,100596,,,"Dominica, place unspecified",Charleston,,Leycraft,,1769-01-01,#N/A,#N/A
+1769,100597,Exbury,,"Antigua, place unspecified",Charleston,,"Woolfe, Jacob",,1769-01-01,#N/A,#N/A
+1770,100598,,,Pensacola,Charleston,,"Egleston, Ebenezar",,1770-01-01,30.55812,-87.1815
+1770,100599,Adventure,,"Georgia, port unspecified",Charleston,,"Cox, George",,1770-01-01,32.0833,-81.1
+1770,100600,Susannah,,"Antigua, place unspecified",Charleston,,"Nelmes, Thomas",,1770-01-01,#N/A,#N/A
+1770,100601,,,"Georgia, port unspecified",Charleston,,"Oswald, Robert",,1770-01-01,32.0833,-81.1
+1770,100602,,,Bermuda,Charleston,,Sawyer,,1770-01-01,32.29417,-64.78389
+1770,100603,,,"Jamaica, place unspecified",Charleston,,Ingram,,1770-01-01,#N/A,#N/A
+1770,100604,Sooky & Nancy,,"Jamaica, place unspecified",Charleston,,"Newbold, Richard",,1770-01-01,#N/A,#N/A
+1770,100605,,,"Jamaica, place unspecified",Charleston,,"Dickinson, Samuel",,1770-01-01,#N/A,#N/A
+1770,100606,Adventure,,Bermuda,Charleston,,"Conyers, Clement",,1770-01-01,32.29417,-64.78389
+1770,100607,,,"North Carolina, port unspecified",Charleston,,Mitchell,,1770-01-01,35.88368,-75.6495
+1770,101412,Tartar,,"Jamaica, place unspecified",Charleston,40,"McCall, William",,1770-01-01,#N/A,#N/A
+1770,101413,Africa,,"Grenada, place unspecified",Charleston,,"Sewell, James",,1770-01-01,#N/A,#N/A
+1771,100608,Benjamin,,"Jamaica, place unspecified",Charleston,,"Dickinson, Nathaniel",,1771-01-01,#N/A,#N/A
+1771,100609,,,"Jamaica, place unspecified",Charleston,,Lane,,1771-01-01,#N/A,#N/A
+1771,100610,,,New York,Charleston,,"Schermerhorn, Peter",,1771-01-01,40.71458,-74.00708
+1771,100611,,,Boston,Charleston,,"Littlefield, James",,1771-01-01,42.36166,-71.05947
+1771,100612,Liberty,,"Georgia, port unspecified",Charleston,,"Churchill, Richard",,1771-01-01,32.0833,-81.1
+1771,100613,Savannah Packet,,"Georgia, port unspecified",Charleston,,"Monk, James",,1771-01-01,32.0833,-81.1
+1771,100614,,,"Antigua, place unspecified",Charleston,,Sewell,,1771-01-01,#N/A,#N/A
+1771,100615,,,New York,Charleston,,Calder,,1771-01-01,40.71458,-74.00708
+1771,100616,,,"Jamaica, place unspecified",Charleston,,Blundell,,1771-01-01,#N/A,#N/A
+1771,100617,Greyhound,,"St. Kitts, port unspecified",Charleston,39,"Catton, George",,1771-01-01,17.3,-62.71667
+1771,100618,Ottley,,"St. Kitts, port unspecified",Charleston,80,"Higgs, William",,1771-01-01,17.3,-62.71667
+1771,100619,Benjamin,,"Barbados, place unspecified",Charleston,92,"Dickinson, Nathaniel",,1771-01-01,#N/A,#N/A
+1771,100620,Aurora,,"Barbados, place unspecified",Charleston,80,"Spinks, Samuel",,1771-01-01,#N/A,#N/A
+1771,100621,Betsey Hendy,,"Barbados, place unspecified",Charleston,80,"Dow, John",,1771-01-01,#N/A,#N/A
+1771,100622,Adventure,,"Antigua, place unspecified",Charleston,49,"Conyers, Clement",,1771-01-01,#N/A,#N/A
+1771,100623,,,"St. Kitts, port unspecified",Charleston,,Manchester,,1771-01-01,17.3,-62.71667
+1771,100624,,,"Barbados, place unspecified",Charleston,,"Todd, John",,1771-01-01,#N/A,#N/A
+1771,100625,Boston Island,,St. Augustine,Charleston,,"Bachop, Peter",,1771-01-01,29.8944,-81.3147
+1771,100626,,,"Grenada, place unspecified",Charleston,,"Chadwick, Charles",,1771-01-01,#N/A,#N/A
+1771,100627,,,"Montserrat, port unspecified",Charleston,,"McMurtrie, Jonathan",,1771-01-01,16.7,-62.21667
+1771,100628,,,Pensacola,Charleston,,Dursee,,1771-01-01,30.55812,-87.1815
+1771,100629,Liberty,,"Georgia, port unspecified",Charleston,,"Churchill, Richard",,1771-01-01,32.0833,-81.1
+1771,100630,Jamaica Packet,,"Jamaica, place unspecified",Charleston,,"Hunt, John",,1771-01-01,#N/A,#N/A
+1771,100631,Sally,,"Jamaica, place unspecified",Charleston,,"Parkinson, Stephen",,1771-01-01,#N/A,#N/A
+1771,100632,,,"St. Vincent, port unspecified",Charleston,,Judkin,,1771-01-01,13.13333,-61.21667
+1771,100633,,,"St. Kitts, port unspecified",Charleston,,King,,1771-01-01,17.3,-62.71667
+1771,100634,Carolina Society,,"Jamaica, place unspecified",Charleston,,"Bower, Patrick",,1771-01-01,#N/A,#N/A
+1771,100635,,,Curaçao,Charleston,,Dewitt,,1771-01-01,#N/A,#N/A
+1771,100636,Henry,,"Barbados, place unspecified",Charleston,,"Todd, Edward",,1771-01-01,#N/A,#N/A
+1771,100637,,,St. Eustatius,Charleston,,Dalling,,1771-01-01,17.46667,-62.98333
+1771,100638,,,"St. Kitts, port unspecified",Charleston,,Baker,,1771-01-01,17.3,-62.71667
+1771,100639,,,New York,Charleston,,"Schermerhorn, [Peter?]",,1771-01-01,40.71458,-74.00708
+1771,100640,Polly,,New York,Charleston,,"Snell, Stephen",,1771-01-01,40.71458,-74.00708
+1771,100641,,,"Jamaica, place unspecified",Charleston,,Tynes,,1771-01-01,#N/A,#N/A
+1771,100642,Ottley [?--blank],,"Antigua, place unspecified",Charleston,,Higgs [William?],,1771-01-01,#N/A,#N/A
+1771,100643,,,"Dominica, place unspecified",Charleston,,Steel,,1771-01-01,#N/A,#N/A
+1771,100644,(Ester?),,"Antigua, place unspecified",Charleston,,"Dann, Robert",,1771-01-01,#N/A,#N/A
+1771,100645,Dolphin,,"Jamaica, place unspecified",Charleston,,"Rogers, John",,1771-01-01,#N/A,#N/A
+1771,100646,Kingston,,"Jamaica, place unspecified",Charleston,,"Tines, David",,1771-01-01,#N/A,#N/A
+1771,100647,Merrimack,,"Dominica, place unspecified",Charleston,,"Rust, Francis",,1771-01-01,#N/A,#N/A
+1771,100648,,,Salem,Charleston,,Kimbol,,1771-01-01,42.5194,-70.8972
+1771,100649,(S?)uky & Nancy,,"Jamaica, place unspecified",Charleston,,"Newbold, Thomas",,1771-01-01,#N/A,#N/A
+1771,100650,,,"St. Kitts, port unspecified",Charleston,,Steed,,1771-01-01,17.3,-62.71667
+1771,100651,,,"Jamaica, place unspecified",Charleston,,Dickinson,,1771-01-01,#N/A,#N/A
+1771,100652,Margaret,,"Jamaica, place unspecified",Charleston,,"Henry, Charles",,1771-01-01,#N/A,#N/A
+1771,100653,,,"St. Kitts, port unspecified",Charleston,,Gibbs,,1771-01-01,17.3,-62.71667
+1771,100654,Little Betsy,,Providence,Charleston,,"Johnson, John",,1771-01-01,41.8239,-71.4133
+1771,100655,Pye,,"Antigua, place unspecified",Charleston,,"Minott, Amos",,1771-01-01,#N/A,#N/A
+1771,100656,Elizabeth,,"St. Vincent, port unspecified",Charleston,,"Tucker, Henry",,1771-01-01,13.13333,-61.21667
+1771,100657,Adventure,,"Antigua, place unspecified",Charleston,,"Conyers, Clement",,1771-01-01,#N/A,#N/A
+1771,100658,,,New York,Charleston,,Zurhurst,,1771-01-01,40.71458,-74.00708
+1771,100659,,,Pensacola,Charleston,,Clarke,,1771-01-01,30.55812,-87.1815
+1771,100660,Three Brothers,,Bermuda,Charleston,,"Young, Elias",,1771-01-01,32.29417,-64.78389
+1771,100661,,,New York,Charleston,,"Schermerhorn, Peter",,1771-01-01,40.71458,-74.00708
+1771,100662,Friendship,,"Barbados, place unspecified",Charleston,92,"Wooster, John",,1771-01-01,#N/A,#N/A
+1772,100663,,,New York,Charleston,,Anderson,,1772-01-01,40.71458,-74.00708
+1772,100664,,,"Antigua, place unspecified",Charleston,,"Hinson, Cornelius",,1772-01-01,#N/A,#N/A
+1772,100665,,,"St. Kitts, port unspecified",Charleston,,Baker,,1772-01-01,17.3,-62.71667
+1772,100666,,,"Antigua, place unspecified",Charleston,,Leaycroft,,1772-01-01,#N/A,#N/A
+1772,100667,,,Bermuda,Charleston,,"Tucker, Robert",,1772-01-01,32.29417,-64.78389
+1772,100668,,,"St. Vincent, port unspecified",Charleston,,Perrey,,1772-01-01,13.13333,-61.21667
+1772,100669,,,Providence,Charleston,,Rowland,,1772-01-01,41.8239,-71.4133
+1772,100670,Experiment,,"Jamaica, place unspecified",Charleston,,"Sawyer, John",,1772-01-01,#N/A,#N/A
+1772,100671,,,Curaçao,Charleston,,Hunt,,1772-01-01,#N/A,#N/A
+1772,100672,,,New York,Charleston,,Munro,,1772-01-01,40.71458,-74.00708
+1772,100673,,,"North Carolina, port unspecified",Charleston,,Green,,1772-01-01,35.88368,-75.6495
+1772,100674,,,"Grenada, place unspecified",Charleston,,"MacKenzie, Andrew",,1772-01-01,#N/A,#N/A
+1772,100675,,,"St. Kitts, port unspecified",Charleston,,Dickinson,,1772-01-01,17.3,-62.71667
+1772,100676,Betty,,"Barbados, place unspecified",Charleston,,"Richardson, George",,1772-01-01,#N/A,#N/A
+1772,100677,Betsy,,New York,Charleston,,"Schermerhorn, Peter",,1772-01-01,40.71458,-74.00708
+1772,100678,,,"St. Vincent, port unspecified",Charleston,,"Tucker, Henry",,1772-01-01,13.13333,-61.21667
+1772,100679,Suky & Nancy,,"Jamaica, place unspecified",Charleston,,"Newbold, Thomas",,1772-01-01,#N/A,#N/A
+1772,100680,Prince of Wales,,Philadelphia,Charleston,,"Moore, William",,1772-01-01,39.9522,-75.1642
+1772,100681,,,Pensacola,Charleston,,Clarke,,1772-01-01,30.55812,-87.1815
+1772,100682,Betsy,,"Barbados, place unspecified",Charleston,,"Todd, Edward",,1772-01-01,#N/A,#N/A
+1772,100683,Ranger,,"St. Kitts, port unspecified",Charleston,81,"King, Richard",,1772-01-01,17.3,-62.71667
+1772,100684,Jamaica Packet,,"Jamaica, place unspecified",Charleston,,"Hunt, John",,1772-01-01,#N/A,#N/A
+1772,100686,,,Philadelphia,Charleston,,Blewes,,1772-01-01,39.9522,-75.1642
+1772,100687,Charming,,"Jamaica, place unspecified",Charleston,,"Brewer, Richard",,1772-01-01,#N/A,#N/A
+1772,100688,Morning-Star,,"St. Vincent, port unspecified",Charleston,,"Vesey, John",,1772-01-01,13.13333,-61.21667
+1772,100690,Exchange,,"Barbados, place unspecified",Charleston,,"Willis, John",,1772-01-01,#N/A,#N/A
+1772,100691,Active,,"Jamaica, place unspecified",Charleston,,"Dickinson, Francis",,1772-01-01,#N/A,#N/A
+1772,100692,Henrietta,,"Barbados, place unspecified",Charleston,,"Stiles, Benjamin",,1772-01-01,#N/A,#N/A
+1772,100693,,,"Grenada, place unspecified",Charleston,,North,,1772-01-01,#N/A,#N/A
+1772,100694,Liberty,,"Grenada, place unspecified",Charleston,,"Gieckie, William",,1772-01-01,#N/A,#N/A
+1772,100695,Betsey Hendy,,"Barbados, place unspecified",Charleston,138,"Dow, John",,1772-01-01,#N/A,#N/A
+1772,100696,Polly,,"Antigua, place unspecified",Charleston,,"Stone, Benjamin",,1772-01-01,#N/A,#N/A
+1772,100697,[Peggy???],,"Grenada, place unspecified",Charleston,,"Calvert, [John??]",,1772-01-01,#N/A,#N/A
+1772,100698,Westerhall,,Portsmouth (NH),Charleston,,"Scott, Alexander",,1772-01-01,43.0717,-70.7631
+1772,100699,,,"Antigua, place unspecified",Charleston,,Newbold,,1772-01-01,#N/A,#N/A
+1772,100700,Friendship,,"Barbados, place unspecified",Charleston,203,"Wooster, Richard (a) John",,1772-01-01,#N/A,#N/A
+1772,100701,,,Philadelphia,Charleston,,Blewes,,1772-01-01,39.9522,-75.1642
+1772,100702,Betsy,,"Barbados, place unspecified",Charleston,,"Todd, Edward",,1772-01-01,#N/A,#N/A
+1772,100703,Adventure,,"Antigua, place unspecified",Charleston,29,"Jefferies, James",,1772-01-01,#N/A,#N/A
+1772,100704,Liberty,,"St. Kitts, port unspecified",Charleston,,"Beek, John",,1772-01-01,17.3,-62.71667
+1772,100705,,,"St. Kitts, port unspecified",Charleston,,Nugent,,1772-01-01,17.3,-62.71667
+1772,100706,Betsy,,New York,Charleston,,"Fowler, George",,1772-01-01,40.71458,-74.00708
+1772,100707,,,"Tobago, port unspecified",Charleston,,Morgan,,1772-01-01,11.25,-60.66667
+1772,100708,,,"Barbados, place unspecified",Charleston,44,Clark,,1772-01-01,#N/A,#N/A
+1772,100709,Lovely Jenny,,"Barbados, place unspecified",Charleston,110,"Harvey, Lawrence",,1772-01-01,#N/A,#N/A
+1772,100710,,,Philadelphia,Charleston,,Blewes,,1772-01-01,39.9522,-75.1642
+1772,100711,,,St. Croix,Charleston,,Reid,,1772-01-01,17.77305,-64.82
+1772,100712,Content,,"Barbados, place unspecified",Charleston,122,"Wilkinson, Downing",,1772-01-01,#N/A,#N/A
+1772,100713,,,"Barbados, place unspecified",Charleston,,Newbold,,1772-01-01,#N/A,#N/A
+1772,100714,,,St. Eustatius,Charleston,,Righton,,1772-01-01,17.46667,-62.98333
+1772,100715,,,St. Croix,Charleston,,Robinson,,1772-01-01,17.77305,-64.82
+1772,100716,James,,St. Croix,Charleston,,"Humphreys, Elizabeth(?)",,1772-01-01,17.77305,-64.82
+1772,100717,Jonge Pieter,,St. Croix,Charleston,,"Vickers, Joseph",,1772-01-01,17.77305,-64.82
+1772,100719,Jamaica Packet,,"Grenada, place unspecified",Charleston,19,Young,,1772-01-01,#N/A,#N/A
+1772,100720,,,"Grenada, place unspecified",Charleston,,North,,1772-01-01,#N/A,#N/A
+1772,100721,,,Philadelphia,Charleston,,Blewes,,1772-01-01,39.9522,-75.1642
+1772,100722,Nancy,,Bermuda,Charleston,,"Young, Spence",,1772-01-01,32.29417,-64.78389
+1772,100725,Polly,,"Jamaica, place unspecified",Charleston,,"Gillies, Alexander",,1772-01-01,#N/A,#N/A
+1772,100726,Carolina,,Philadelphia,Charleston,,"Loxley, Benjamin",,1772-01-01,39.9522,-75.1642
+1772,100727,,,"St. Kitts, port unspecified",Charleston,,Nugent,,1772-01-01,17.3,-62.71667
+1772,100728,,,"Barbados, place unspecified",Charleston,,Newbold,,1772-01-01,#N/A,#N/A
+1772,100729,,,"St. Kitts, port unspecified",Charleston,,Barton,,1772-01-01,17.3,-62.71667
+1772,100730,[Ranger??],,"St. Kitts, port unspecified",Charleston,,"King, [Richard?]",,1772-01-01,17.3,-62.71667
+1772,100731,Providence,,"St. Kitts, port unspecified",Charleston,29,"Ramsey, James",,1772-01-01,17.3,-62.71667
+1772,100736,Charming Polly,,"Antigua, place unspecified",Charleston,,"Morson, Robert",,1772-01-01,#N/A,#N/A
+1772,102283,Hero,,"Antigua, place unspecified","South Carolina, place unspecified",,"Chadwick, Charles",,1772-01-01,#N/A,#N/A
+1772,102336,Eliza,,"Antigua, place unspecified",Charleston,25,"Foster, John",,1772-01-01,#N/A,#N/A
+1773,100732,Charming Jenny,,"North Carolina, port unspecified",Charleston,,"Braver (a) Brewer, Richard",,1773-01-01,35.88368,-75.6495
+1773,100733,,,"Barbados, place unspecified",Charleston,,Dow,,1773-01-01,#N/A,#N/A
+1773,100734,,,St. Croix,Charleston,,Smith,,1773-01-01,17.77305,-64.82
+1773,100735,Four Friends,,"Grenada, place unspecified",Charleston,,"Harrison, Gilbert",,1773-01-01,#N/A,#N/A
+1773,100737,,,New York,Charleston,,Dunscomb,,1773-01-01,40.71458,-74.00708
+1773,100738,Bess,,"St. Vincent, port unspecified",Charleston,,"Perrey, Richard",,1773-01-01,13.13333,-61.21667
+1773,100739,Betsy,,New York,Charleston,,"Schermerhorn, Peter",,1773-01-01,40.71458,-74.00708
+1773,100740,Charles-Town Packet,,Philadelphia,Charleston,,"Wright, Sam.",,1773-01-01,39.9522,-75.1642
+1773,100741,Friendship,,Philadelphia,Charleston,,"Brewer (a) Blewer, Joseph",,1773-01-01,39.9522,-75.1642
+1773,100742,Juno,,Boston,Charleston,,"Farrington, Joseph",,1773-01-01,42.36166,-71.05947
+1773,100743,Sally,,"Dominica, place unspecified",Charleston,,"Cleland, William",,1773-01-01,#N/A,#N/A
+1773,100744,Nancy,,"Grenada, place unspecified",Charleston,,"Barton, Benjamin",,1773-01-01,#N/A,#N/A
+1773,100745,,,Philadelphia,Charleston,,"Smith, Thomas Loughton",,1773-01-01,39.9522,-75.1642
+1773,100746,Active,,"Jamaica, place unspecified",Charleston,,"Dickinson, Francis",,1773-01-01,#N/A,#N/A
+1773,100747,Prince of Wales,,Philadelphia,Charleston,,"Mason, Thomas",,1773-01-01,39.9522,-75.1642
+1773,100748,Betsy,,New York,Charleston,,"Schermerhorn, Peter",,1773-01-01,40.71458,-74.00708
+1773,100749,Ark,,Bermuda,Charleston,,"Lusker, George",,1773-01-01,32.29417,-64.78389
+1773,100750,,,Boston,Charleston,,Hulme,,1773-01-01,42.36166,-71.05947
+1773,100751,Peggy,,"Grenada, place unspecified",Charleston,,"Hardy (a) Hardie, Alexander",,1773-01-01,#N/A,#N/A
+1773,100752,,,Philadelphia,Charleston,,Moore,,1773-01-01,39.9522,-75.1642
+1773,100753,,,"Dominica, place unspecified",Charleston,,Atwood,,1773-01-01,#N/A,#N/A
+1773,100754,,,Môle Saint Nicolas,Charleston,,Timpson,,1773-01-01,#N/A,#N/A
+1773,100756,,,"Jamaica, place unspecified",Charleston,,Brewer,,1773-01-01,#N/A,#N/A
+1773,100757,John,,"St. Vincent, port unspecified",Charleston,,"Kollock, Phillips",,1773-01-01,13.13333,-61.21667
+1773,100758,Active,,"Jamaica, place unspecified",Charleston,,"Dickinson, Francis",,1773-01-01,#N/A,#N/A
+1773,100759,Lark,,"Barbados, place unspecified",Charleston,,"Newbold, Benjamin",,1773-01-01,#N/A,#N/A
+1773,100760,,,"Grenada, place unspecified",Charleston,,Ingham,,1773-01-01,#N/A,#N/A
+1773,100761,Providence Packet,,Providence,Charleston,,"Chambers, Wm.",,1773-01-01,41.8239,-71.4133
+1773,100762,Phoenix,,"St. Kitts, port unspecified",Charleston,,"Dickinson, John",,1773-01-01,17.3,-62.71667
+1773,100763,Betsy,,New York,Charleston,,"Schermerhorn, [Peter?]",,1773-01-01,40.71458,-74.00708
+1773,100764,,,Philadelphia,Charleston,,Moore,,1773-01-01,39.9522,-75.1642
+1773,100765,Adventure,,"Antigua, place unspecified",Charleston,,"Conyers, Clement",,1773-01-01,#N/A,#N/A
+1773,100766,Lovey Jenny,,"Barbados, place unspecified",Charleston,,"Harvey, Lawrence",,1773-01-01,#N/A,#N/A
+1773,100767,Friendship,,"Grenada, place unspecified",Charleston,,"Grinley, Thomas",,1773-01-01,#N/A,#N/A
+1773,100768,,,St. Croix,Charleston,,Smith,,1773-01-01,17.77305,-64.82
+1773,100769,,,Indian River,Charleston,,Roberts,,1773-01-01,0.0001235,0.0001235
+1773,100770,,,"Jamaica, place unspecified",Charleston,,Brewer,,1773-01-01,#N/A,#N/A
+1773,100771,Prince of Wales,,Philadelphia,Charleston,,"Mason, Thomas",,1773-01-01,39.9522,-75.1642
+1773,100772,Betsy,,New York,Charleston,,"Schermerhorn, [Peter?]",,1773-01-01,40.71458,-74.00708
+1773,100773,,,"Grenada, place unspecified",Charleston,,Dickinson,,1773-01-01,#N/A,#N/A
+1773,101414,Nancy,,"Rhode Island, port unspecified",Charleston,1,"Earl, John",,1773-01-01,41.49,-71.31
+1773,102233,Sukey and Nancy,,"Barbados, place unspecified",Charleston,,"Newbold, Thomas",,1773-01-01,#N/A,#N/A
+1773,102235,Friendship,,"Barbados, place unspecified","South Carolina, place unspecified",,"Clarke, Val",,1773-01-01,#N/A,#N/A
+1774,100774,Fleece,,"Grenada, place unspecified",Charleston,,"Black, James",,1774-01-01,#N/A,#N/A
+1774,100775,Isabella,,"St. Vincent, port unspecified",Charleston,,"Brown, James",,1774-01-01,13.13333,-61.21667
+1774,100776,Father's Desire,,"Grenada, place unspecified",Charleston,,"Berry, Benjamin",,1774-01-01,#N/A,#N/A
+1774,100777,,,"Grenada, place unspecified",Charleston,,North,,1774-01-01,#N/A,#N/A
+1774,100778,Polly,,"St. Kitts, port unspecified",Charleston,,"Conyers, John",,1774-01-01,17.3,-62.71667
+1774,100779,,,"Grenada, place unspecified",Charleston,,Sawyer,,1774-01-01,#N/A,#N/A
+1774,100780,Friendship,,"Jamaica, place unspecified",Charleston,,"Newell, Thomas",,1774-01-01,#N/A,#N/A
+1774,100781,Fancy,,"Grenada, place unspecified",Charleston,,"Barton, Benjamin",,1774-01-01,#N/A,#N/A
+1774,100782,,,Providence,Charleston,,Bonamy,,1774-01-01,41.8239,-71.4133
+1774,100783,,,Philadelphia,Charleston,,Mason,,1774-01-01,39.9522,-75.1642
+1774,100784,,,"Jamaica, place unspecified",Charleston,,Brewer,,1774-01-01,#N/A,#N/A
+1774,100785,,,"Jamaica, place unspecified",Charleston,,Jackson,,1774-01-01,#N/A,#N/A
+1774,100786,Seanymph,,Philadelphia,Charleston,,Moore,,1774-01-01,39.9522,-75.1642
+1774,100787,Hope,,"Grenada, place unspecified",Charleston,45,"Warner, Elisha",,1774-01-01,#N/A,#N/A
+1774,100788,Dispatch,,Providence,Charleston,,"Minors, [Benjamin?]",,1774-01-01,41.8239,-71.4133
+1774,100789,,,"St. Kitts, port unspecified",Charleston,,North,,1774-01-01,17.3,-62.71667
+1774,100790,Experiment,,"Grenada, place unspecified",Charleston,,"Sawyer, John",,1774-01-01,#N/A,#N/A
+1774,100791,Betsy,,New York,Charleston,,"Schermerhorn, Peter",,1774-01-01,40.71458,-74.00708
+1774,100792,Active,,"Jamaica, place unspecified",Charleston,,"Morgan, Charles",,1774-01-01,#N/A,#N/A
+1774,100793,Amphitrite,,"Jamaica, place unspecified",Charleston,,"Montcrief, John",,1774-01-01,#N/A,#N/A
+1774,100794,,,"St. Kitts, port unspecified",Charleston,,Alboy,,1774-01-01,17.3,-62.71667
+1774,100795,[K???y],,"Montserrat, port unspecified",Charleston,,"Skinner, Samuel",,1774-01-01,16.7,-62.21667
+1774,100796,[Suk? & Nancy],,"Barbados, place unspecified",Charleston,,"Newbold, [Tho.?]",,1774-01-01,#N/A,#N/A
+1774,100797,Charles-Town Packet,,Philadelphia,Charleston,,"Wright, Sam",,1774-01-01,39.9522,-75.1642
+1774,100798,,,"Dominica, place unspecified",Charleston,,Rash,,1774-01-01,#N/A,#N/A
+1774,100799,,,Mosquito Shore,Charleston,,Green,,1774-01-01,14.03333,-83.38333
+1774,100800,Active,,"Jamaica, place unspecified",Charleston,,"Morgan, Charles",,1774-01-01,#N/A,#N/A
+1774,100801,,,"Jamaica, place unspecified",Charleston,,Mattocks,,1774-01-01,#N/A,#N/A
+1774,100802,[Pier?],,"Jamaica, place unspecified",Charleston,,"Everett, John",,1774-01-01,#N/A,#N/A
+1774,100803,,,"Dominica, place unspecified",Charleston,,Jones,,1774-01-01,#N/A,#N/A
+1774,100804,Hawke,,"Georgia, port unspecified",Charleston,,"Swaine, Luke",,1774-01-01,32.0833,-81.1
+1774,100805,Spy,,"Georgia, port unspecified",Charleston,,"Bath, William",,1774-01-01,32.0833,-81.1
+1774,100806,Seanymph,,Philadelphia,Charleston,,Moore,,1774-01-01,39.9522,-75.1642
+1774,100808,,,Savannah,Charleston,,Swain,,1774-01-01,32.0833,-81.1
+1775,100807,,,"Georgia, port unspecified",Charleston,,Turner,,1775-01-01,32.0833,-81.1

@@ -1,0 +1,420 @@
+Year of arrival at port of disembarkation,Voyage ID,Vessel name,Voyage itinerary imputed port where began (ptdepimp) place,Voyage itinerary imputed principal place of slave purchase (mjbyptimp) ,Voyage itinerary imputed principal port of slave disembarkation (mjslptimp) place,Captives arrived at 1st port,Captain's name, resistance label,Date,latitude,longitude
+1732,26012,Edward,,"Africa, port unspecified",Charleston,,,,1732-01-01,32.78096,-79.93554
+1732,16653,Amoretta,Bristol,Calabar,Charleston,194,"Seaborn, James",,1732-01-01,32.78096,-79.93554
+1732,16655,Aurora,Bristol,Calabar,Charleston,,"Muff, William",,1732-01-01,32.78096,-79.93554
+1732,16696,Susanna,Bristol,Calabar,Charleston,,"Holland, Edmund",,1732-01-01,32.78096,-79.93554
+1732,16707,Berkley,Bristol,"Africa, port unspecified",Charleston,,"Stockdale, Peregrine",,1732-01-01,32.78096,-79.93554
+1732,16723,Greyhound,Bristol,"Africa, port unspecified",Charleston,280,"Hallden, Edward",,1732-01-01,32.78096,-79.93554
+1732,76702,Molly,London,Gambia,Charleston,,"Carruthers, John",,1732-01-01,32.78096,-79.93554
+1733,25991,London Merchant,London,"Africa, port unspecified",Charleston,,"Thomas, John",,1733-01-01,32.78096,-79.93554
+1733,16702,Amoretta,Bristol,"Africa, port unspecified",Charleston,,"Jones, David",,1733-01-01,32.78096,-79.93554
+1733,16710,Bettys Hope,Bristol,Calabar,Charleston,,"Little, Edward",,1733-01-01,32.78096,-79.93554
+1733,16715,Cato,Bristol,"Africa, port unspecified",Charleston,,"Kennedy, William",,1733-01-01,32.78096,-79.93554
+1733,16727,Hill,Bristol,Loango,"South Carolina, place unspecified",,"Cole, Robert",,1733-01-01,#N/A,#N/A
+1733,16740,Pearle Gally,Bristol,Malembo,"South Carolina, place unspecified",,"Hughes, Jenkin",,1733-01-01,#N/A,#N/A
+1733,16746,Shepherd,Bristol,Cabinda,Charleston,,"Ford, Simon",,1733-01-01,32.78096,-79.93554
+1733,16760,Greyhound,Bristol,"Africa, port unspecified",Charleston,,"Hallden, Edward",,1733-01-01,32.78096,-79.93554
+1733,16773,Rainbow,Bristol,"Africa, port unspecified",Charleston,,"Morgan, Richard",,1733-01-01,32.78096,-79.93554
+1733,16775,Scipio,Bristol,Gambia,Charleston,,"Gordon, William",,1733-01-01,32.78096,-79.93554
+1733,76713,Judith (a) Ruby,London,Cabinda,Charleston,,"Pearce, Jeremiah",,1733-01-01,32.78096,-79.93554
+1733,76714,Speaker,London,Cabinda,Charleston,,"Flower, Henry",,1733-01-01,32.78096,-79.93554
+1733,76715,Margaret,London,Gambia,Charleston,,"Whistler, Richard",,1733-01-01,32.78096,-79.93554
+1734,26013,Dorset,,"Gold Coast, port unspecified",Charleston,,"Oliver, William",,1734-01-01,32.78096,-79.93554
+1734,16752,Amoretta,Bristol,Calabar,Charleston,209,"Jones, David",,1734-01-01,32.78096,-79.93554
+1734,16771,Post Boy,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,344,"McNutt, John",,1734-01-01,32.78096,-79.93554
+1734,16781,Bath,Bristol,Gambia,Charleston,122,"Smith, Robert",,1734-01-01,32.78096,-79.93554
+1734,16790,Greyhound,Bristol,"Africa, port unspecified",Charleston,202,"Hallden, Edward",,1734-01-01,32.78096,-79.93554
+1734,16808,Scipio,Bristol,Gambia,Charleston,197,"Gordon, William<br/> Cartnell, Robert",Slave insurrection,1734-01-01,32.78096,-79.93554
+1734,76700,Isabella,London,"West Central Africa and St. Helena, port unspecified",Charleston,102,"Poey, Peter",,1734-01-01,32.78096,-79.93554
+1734,76701,Speaker,London,"West Central Africa and St. Helena, port unspecified",Charleston,145,"Flower, Henry",,1734-01-01,32.78096,-79.93554
+1735,25992,London Merchant,London,"Africa, port unspecified",Charleston,,"Thomas, John",,1735-01-01,32.78096,-79.93554
+1735,16787,Diana,Bristol,"Gold Coast, port unspecified",Charleston,62,"Malcolme, John",,1735-01-01,32.78096,-79.93554
+1735,16791,Happy Couple,Bristol,"Africa, port unspecified",Charleston,141,"Little, Edward<br/> Hill, Abraham",,1735-01-01,32.78096,-79.93554
+1735,16802,Morning Star,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,327,"Hamley, William",,1735-01-01,32.78096,-79.93554
+1735,16803,Pearle Gally,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,,"Vaughan, Jason",,1735-01-01,32.78096,-79.93554
+1735,16806,Rainbow,Bristol,"Africa, port unspecified",Charleston,159,"Morgan, Richard<br/> Matthews, John",,1735-01-01,32.78096,-79.93554
+1735,16814,Amoretta,Bristol,"Africa, port unspecified",Charleston,239,"Jones, David",,1735-01-01,32.78096,-79.93554
+1735,16817,Berkley,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,412,"Stockdale, Peregrine",,1735-01-01,32.78096,-79.93554
+1735,92406,Pineapple,Liverpool,"Africa, port unspecified",Charleston,338,"Hallow, David",,1735-01-01,32.78096,-79.93554
+1735,76845,Dove,London,"West Central Africa and St. Helena, port unspecified",Charleston,248,"Fothergill, Richard",,1735-01-01,32.78096,-79.93554
+1735,76851,London Frigate,London,"West Central Africa and St. Helena, port unspecified",Charleston,380,"Sutherland, John",,1735-01-01,32.78096,-79.93554
+1735,76855,Faulcon,London,"West Central Africa and St. Helena, port unspecified",Charleston,364,"Saunders, Samuel",,1735-01-01,32.78096,-79.93554
+1735,76950,Molly,London,"West Central Africa and St. Helena, port unspecified",Charleston,400,"Carruthers, John",,1735-01-01,32.78096,-79.93554
+1736,25993,London Merchant,London,"Africa, port unspecified",Charleston,,"Thomas, John",,1736-01-01,32.78096,-79.93554
+1736,26114,Catherine,,"Africa, port unspecified",Charleston,,Carmichael,,1736-01-01,32.78096,-79.93554
+1736,16815,Amoretta,Bristol,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Charleston,224,"Jones, David",,1736-01-01,32.78096,-79.93554
+1736,16832,Morning Star,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,61,"Hamley, William",,1736-01-01,32.78096,-79.93554
+1736,16837,Phoenix,Bristol,Loango,Charleston,289,"Arthur, David",,1736-01-01,32.78096,-79.93554
+1736,16840,Scipio,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,300,"Smith, Robert",,1736-01-01,32.78096,-79.93554
+1736,16842,Shepherd,Bristol,Loango,Charleston,362,"Power, Maurice",,1736-01-01,32.78096,-79.93554
+1736,76571,Susanna,London,"West Central Africa and St. Helena, port unspecified",Beaufort,230,"Mallortie, David<br/> Wych, Benjamin",,1736-01-01,34.718217,-76.663819
+1736,76580,Faulcon,London,Cabinda,Charleston,320,"Saunders, Samuel",,1736-01-01,32.78096,-79.93554
+1736,76859,Girlington,London,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Charleston,303,"Watts, Henry",,1736-01-01,32.78096,-79.93554
+1736,76865,Bonetta,London,"West Central Africa and St. Helena, port unspecified",Charleston,388,"Comyn, Phil<br/> Masters",,1736-01-01,32.78096,-79.93554
+1736,76866,London Frigate,London,"West Central Africa and St. Helena, port unspecified",Charleston,330,"Sutherland, John",,1736-01-01,32.78096,-79.93554
+1736,76869,Princess Carolina,London,Gambia,Charleston,180,"Coe, John",,1736-01-01,32.78096,-79.93554
+1737,26156,Princess Carolina,London,"Africa, port unspecified",Charleston,,"Coe, John",,1737-01-01,32.78096,-79.93554
+1737,26157,Molly,London,"Africa, port unspecified",Charleston,,"Carruthers, John",,1737-01-01,32.78096,-79.93554
+1737,16845,Amoretta,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,236,"Jones, David",,1737-01-01,32.78096,-79.93554
+1737,16865,Loango,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,379,"Dolman, Thomas",,1737-01-01,32.78096,-79.93554
+1737,16870,Pearle,Bristol,Cabinda,Charleston,255,"Hardwicke, Eustace",,1737-01-01,32.78096,-79.93554
+1737,92358,Pineapple,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,250,"Hallow, David",,1737-01-01,32.78096,-79.93554
+1737,76352,Betty Gally,London,Cabinda,Charleston,260,"Winster, John",,1737-01-01,32.78096,-79.93554
+1737,76704,Susanna,London,Loango,Charleston,181,"Yoakley, John<br/> Cross, Benjamin",,1737-01-01,32.78096,-79.93554
+1737,76705,Mary,London,"West Central Africa and St. Helena, port unspecified",Charleston,280,"Pollixsen, Robert<br/> Lamont, Arthur",,1737-01-01,32.78096,-79.93554
+1738,26014,London Merchant,London,"West Central Africa and St. Helena, port unspecified",Charleston,,"Thomas, John",,1738-01-01,32.78096,-79.93554
+1738,16879,Amoretta,Bristol,"Africa, port unspecified",Charleston,230,"Crode, John",,1738-01-01,32.78096,-79.93554
+1738,16919,Seaflower,Bristol,"Africa, port unspecified",Charleston,,"Elsworthy, John",,1738-01-01,32.78096,-79.93554
+1738,16920,Shepherd,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,360,"Power, Maurice",,1738-01-01,32.78096,-79.93554
+1738,16973,Squirrel,Bristol,"Africa, port unspecified",Charleston,228,"Jones, David<br/> Dyke, John",,1738-01-01,32.78096,-79.93554
+1738,76707,London Frigate,London,Cabinda,Charleston,309,"Pickett, John (a) Pickall<br/> Thomas, John",,1738-01-01,32.78096,-79.93554
+1738,76708,Betty,London,"West Central Africa and St. Helena, port unspecified",Charleston,230,"Duncomb, Alexander",,1738-01-01,32.78096,-79.93554
+1738,76709,Mary,London,Gambia,Charleston,105,"Coe, John<br/> Roberts, Nathaniel",,1738-01-01,32.78096,-79.93554
+1738,76710,Princess Carolina,London,Gambia,Charleston,233,"Johnson, William",,1738-01-01,32.78096,-79.93554
+1738,76711,Mermaid,London,"West Central Africa and St. Helena, port unspecified",Charleston,176,"Wilson, William",,1738-01-01,32.78096,-79.93554
+1738,76952,Speaker (a) Speke Gally,London,"West Central Africa and St. Helena, port unspecified",Charleston,306,"Flower, Henry",,1738-01-01,32.78096,-79.93554
+1739,26268,Princess Carolina,London,"Africa, port unspecified",Charleston,,"Johnson, William",,1739-01-01,32.78096,-79.93554
+1739,26276,John and Henry,"Great Britain, place unspecified","Africa, port unspecified",Charleston,,"Dorby, Ebinzor",,1739-01-01,32.78096,-79.93554
+1739,16925,Amoretta,Bristol,Calabar,Charleston,207,"Crode, John",,1739-01-01,32.78096,-79.93554
+1739,16950,Levant,Bristol,Bonny,Charleston,382,"Packer, Thomas",,1739-01-01,32.78096,-79.93554
+1739,16958,Nancy,Bristol,"Africa, port unspecified",Charleston,205,"Malcolme, John",,1739-01-01,32.78096,-79.93554
+1739,16966,Postillion,Bristol,Calabar,Charleston,227,"Powell, Howel<br/> Lyddon",,1739-01-01,32.78096,-79.93554
+1739,16972,Shepherd,Bristol,Loango,Charleston,339,"Power, Maurice",,1739-01-01,32.78096,-79.93554
+1739,76712,Hiscox,London,"West Central Africa and St. Helena, port unspecified",Charleston,435,"Saunders, Samuel",,1739-01-01,32.78096,-79.93554
+1739,76937,Mary,London,Gambia,Charleston,85,"Roberts, Nathaniel",,1739-01-01,32.78096,-79.93554
+1740,16963,Phoenix,Bristol,Malembo,Charleston,,"Arthur, David",,1740-01-01,32.78096,-79.93554
+1740,16978,Amoretta,Bristol,Calabar,Charleston,,"Crode, John",,1740-01-01,32.78096,-79.93554
+1740,16997,Medway,Bristol,"Africa, port unspecified",Charleston,148,"Hunt, Joseph",,1740-01-01,32.78096,-79.93554
+1740,17005,Squirrell,Bristol,"Africa, port unspecified",Charleston,,"Brown, John",,1740-01-01,32.78096,-79.93554
+1740,76939,Griffin,London,"West Central Africa and St. Helena, port unspecified",Charleston,234,"Sutherland, John",,1740-01-01,32.78096,-79.93554
+1744,17090,Africa,Bristol,Bonny,Charleston,,"Hunt, Joseph",,1744-01-01,32.78096,-79.93554
+1744,17108,Jason Gally,Bristol,Cabinda,Charleston,,"Bartlett, John",,1744-01-01,32.78096,-79.93554
+1744,17114,Nancy,Bristol,"Africa, port unspecified",Charleston,,"Baber, John",,1744-01-01,32.78096,-79.93554
+1744,17134,Tryal,London,Calabar,Charleston,,"Jefferis, William<br/> Lewis",,1744-01-01,32.78096,-79.93554
+1749,90118,Lamb,Liverpool,Gambia,Charleston,103,"Anyon, Timothy",Slave insurrection,1749-01-01,32.78096,-79.93554
+1749,90120,Pardoe,Liverpool,Gambia,Charleston,,"Gother, Anthony",,1749-01-01,32.78096,-79.93554
+1749,90226,Brownlow,Liverpool,"Gold Coast, port unspecified",Charleston,,"Jackson, Richard",Slave insurrection,1749-01-01,32.78096,-79.93554
+1750,24932,Hector,,"Windward Coast, place unspecified",Charleston,,"Bostock, Peter",,1750-01-01,32.78096,-79.93554
+1750,17245,Matilda,Bristol,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Charleston,,"Townsend, William",,1750-01-01,32.78096,-79.93554
+1750,17256,Amoretta,Bristol,"Africa, port unspecified",Charleston,,"Timberman, Samuel",,1750-01-01,32.78096,-79.93554
+1750,90264,Telemachus,Liverpool,Bonny,Charleston,,"Bannister, Robert<br/> Work, Joseph",,1750-01-01,32.78096,-79.93554
+1751,26015,Nancy,,"West Central Africa and St. Helena, port unspecified",Charleston,59,"Dickenson, Joseph",,1751-01-01,32.78096,-79.93554
+1751,90296,Orrell,Liverpool,Gambia,Charleston,,"Lacer, Samuel",,1751-01-01,32.78096,-79.93554
+1751,90351,Barbados Merchant,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,306,"Stewart, James<br/> Wilson, John",,1751-01-01,32.78096,-79.93554
+1752,24022,Molly,,"Gold Coast, port unspecified",Charleston,,"Watts, Richard",,1752-01-01,32.78096,-79.93554
+1752,36156,Two Friends,Newport,Anomabu,Charleston,60,"Hammett, Abraham",Slave insurrection,1752-01-01,32.78096,-79.93554
+1752,17283,Delight,Bristol,Calabar,Charleston,160,"Colquhoun, William",,1752-01-01,32.78096,-79.93554
+1752,17284,Earl of Radnor,Bristol,Bonny,Charleston,300,"Rait, Robert",,1752-01-01,32.78096,-79.93554
+1752,17285,Emperor,Bristol,Calabar,Charleston,250,"Gwynn, Charles",,1752-01-01,32.78096,-79.93554
+1752,17295,Matilda,Bristol,New Calabar,Charleston,160,"Timberman, Samuel",,1752-01-01,32.78096,-79.93554
+1752,17312,Eugene,Bristol,Calabar,Charleston,250,"Merrick, George",,1752-01-01,32.78096,-79.93554
+1752,77597,Prince George,London,Windward + Ivory + Gold + Benin,Charleston,300,"Bostock, Peter",,1752-01-01,32.78096,-79.93554
+1753,25644,Thomas,"Barbados, place unspecified",Gambia,"South Carolina, place unspecified",135,"Hutchinson, James",,1753-01-01,#N/A,#N/A
+1753,24020,Elizabeth,London,Gambia,Charleston,160,"Hunt, James",,1753-01-01,32.78096,-79.93554
+1753,24025,Africa,Lancaster,"Gold Coast, port unspecified","South Carolina, place unspecified",170,"Hinde, John",,1753-01-01,#N/A,#N/A
+1753,17311,Emperor,Bristol,"West Central Africa and St. Helena, port unspecified","South Carolina, place unspecified",350,"Gwynn, Charles",,1753-01-01,#N/A,#N/A
+1753,77622,Prince George,London,Gambia,Charleston,270,"Bostock, Peter",,1753-01-01,32.78096,-79.93554
+1753,90298,Orrell,,Gambia,Charleston,,"Bennett, James",,1753-01-01,32.78096,-79.93554
+1754,26016,Noble,London,Gambia,Charleston,,"Whitson, William",,1754-01-01,32.78096,-79.93554
+1754,24021,Elizabeth,Poole,Gambia,Charleston,,"Hunt, James",,1754-01-01,32.78096,-79.93554
+1754,24026,Africa,Lancaster,Sierra Leone estuary,"South Carolina, place unspecified",,"Mason, William",,1754-01-01,#N/A,#N/A
+1754,17339,Fortune,Bristol,"Gold Coast, port unspecified",Charleston,180,"Boucher, Edward",,1754-01-01,32.78096,-79.93554
+1754,17345,Matilda,Bristol,New Calabar,Charleston,150,"Bird, Japhet<br/> Davis, Henry",Slave insurrection,1754-01-01,32.78096,-79.93554
+1754,17352,Sylvia,Bristol,"Africa, port unspecified",Charleston,200,"McMurdo, James",,1754-01-01,32.78096,-79.93554
+1754,17374,Nugent,Bristol,Gambia,Charleston,200,"Hutcheson, James",,1754-01-01,32.78096,-79.93554
+1754,76344,Young Prince George,Charleston,Gambia,Charleston,50,"Rosse, John",Vessel's boats attacked from shore,1754-01-01,32.78096,-79.93554
+1754,77633,Minerva,London,Sherbro,Charleston,160,"Colquhoun, William",,1754-01-01,32.78096,-79.93554
+1754,77635,Success,London,"Gold Coast, port unspecified",Charleston,287,"Engledue, John",,1754-01-01,32.78096,-79.93554
+1754,77637,Saint Paul,London,Gambia,Charleston,,"James, Tubley",,1754-01-01,32.78096,-79.93554
+1754,90514,Orrel,Liverpool,Gambia,"South Carolina, place unspecified",170,"Bennett, James",,1754-01-01,#N/A,#N/A
+1755,25026,William,New York,Gambia,Charleston,40,"Griffith, David",,1755-01-01,32.78096,-79.93554
+1755,25375,Polly,New York,Cameroons,Charleston,,"Miller, Paul",,1755-01-01,32.78096,-79.93554
+1755,25378,Prince George,Charleston,Gambia,Charleston,60,"Rosse, John",,1755-01-01,32.78096,-79.93554
+1755,24014,Elizabeth,Poole,Gambia,Charleston,112,"Hunt, James",,1755-01-01,32.78096,-79.93554
+1755,24024,Gambia,,Gambia,Charleston,,"Dodson, Robert",,1755-01-01,32.78096,-79.93554
+1755,36175,Hare,"Rhode Island, port unspecified",Sierra Leone estuary,Charleston,61,"Godfrey, Caleb",,1755-01-01,32.78096,-79.93554
+1755,90646,Enterprize,,"Africa, port unspecified",Charleston,33,"Arnold, James",,1755-01-01,32.78096,-79.93554
+1755,17371,Matilda,Bristol,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Charleston,170,"Wiltshire, Edward",,1755-01-01,32.78096,-79.93554
+1755,17375,Pearl,Bristol,Malembo,Charleston,251,"Jefferis, William",,1755-01-01,32.78096,-79.93554
+1755,77248,Saint Paul,London,Gambia,Charleston,,"James, Tubley",,1755-01-01,32.78096,-79.93554
+1755,77655,Prince George,London,"Windward Coast, place unspecified",Charleston,227,"Bostock, Peter",,1755-01-01,32.78096,-79.93554
+1755,90515,Orrel,Liverpool,Gambia,Charleston,133,"Bennett, James",,1755-01-01,32.78096,-79.93554
+1756,25029,Kitty (a) Katey,New York,Gambia,Charleston,,"Nichols, John",,1756-01-01,32.78096,-79.93554
+1756,24023,Molly,Poole,Gambia,Charleston,,"Watts, Richard",,1756-01-01,32.78096,-79.93554
+1756,24028,Concord,,Banana Islands,"South Carolina, place unspecified",49,"Simondson, Samuel",,1756-01-01,#N/A,#N/A
+1756,36187,Hare,"Rhode Island, port unspecified",Sierra Leone estuary,Charleston,71,"Godfrey, Caleb",,1756-01-01,32.78096,-79.93554
+1756,17384,Africa,Bristol,Bonny,Charleston,300,"Watkins, William<br/> Miller, Alexander",,1756-01-01,32.78096,-79.93554
+1756,17391,Hope,Bristol,New Calabar,Charleston,150,"Lugen, William",,1756-01-01,32.78096,-79.93554
+1756,17417,Sylvia,Bristol,Gambia,Charleston,,"Boucher, Edward",,1756-01-01,32.78096,-79.93554
+1756,17418,Success,Bristol,Gambia,Charleston,154,"Todd, Robert",,1756-01-01,32.78096,-79.93554
+1756,75237,Carlisle,London,Sierra Leone estuary,Charleston,150,"Osborne, Thomas",,1756-01-01,32.78096,-79.93554
+1756,77252,Saint Andrew,London,Gambia,"South Carolina, place unspecified",250,"Hood, Alexander",,1756-01-01,#N/A,#N/A
+1756,78803,Prince George,Charleston,"Africa, port unspecified",Charleston,,"Bostock, Peter",,1756-01-01,32.78096,-79.93554
+1756,90394,Cavendish,Liverpool,Gambia,Charleston,120,"Buchan, John<br/> Walker, John",,1756-01-01,32.78096,-79.93554
+1756,90472,Benn,Liverpool,Calabar,Charleston,350,"Naylor, Thomas<br/> Sherman, James",,1756-01-01,32.78096,-79.93554
+1757,27029,Molly,Poole,Gambia,Charleston,,Watts,,1757-01-01,32.78096,-79.93554
+1757,24006,Anson,Lancaster,Gambia,Charleston,70,Holden,,1757-01-01,32.78096,-79.93554
+1757,90620,Phoebe,Liverpool,"Africa, port unspecified",Charleston,,"Giball, John<br/> Bennet, James",,1757-01-01,32.78096,-79.93554
+1757,90643,Lintot,Liverpool,Calabar,Charleston,,"Lace, Ambrose",,1757-01-01,32.78096,-79.93554
+1757,17409,King David,Bristol,Calabar,Charleston,,"Bishop, George",,1757-01-01,32.78096,-79.93554
+1757,77676,Black Prince,London,Gambia,Charleston,,"Bostock, Peter<br/> Steine, Francis",Slave insurrection,1757-01-01,32.78096,-79.93554
+1758,27054,Hazlemore,,"Africa, port unspecified",Charleston,,,,1758-01-01,32.78096,-79.93554
+1758,90538,Hardman,Liverpool,Gambia,Charleston,152,"Jordan, Thomas",,1758-01-01,32.78096,-79.93554
+1758,90556,Mears,Liverpool,"Gold Coast, port unspecified",Charleston,243,"Berrill, Chris",Slave insurrection,1758-01-01,32.78096,-79.93554
+1758,90621,Phoebe,Liverpool,Gambia,Charleston,161,"Bennett, James",,1758-01-01,32.78096,-79.93554
+1758,90667,Middleton,Liverpool,"Windward Coast, place unspecified",Charleston,186,"Walker, John",,1758-01-01,32.78096,-79.93554
+1758,90684,Glory,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,764,"Clemens, James",,1758-01-01,32.78096,-79.93554
+1758,90694,Nancy,Liverpool,"Gold Coast, port unspecified",Charleston,252,"Darbyshire, Ralph",,1758-01-01,32.78096,-79.93554
+1758,90696,Polly,Liverpool,Gambia,Charleston,118,"Corbett, John<br/> Lloyd, Edward",,1758-01-01,32.78096,-79.93554
+1758,90725,Molly,Liverpool,Anomabu,Charleston,59,"Bassnett, Thomas",,1758-01-01,32.78096,-79.93554
+1758,17420,Africa,Bristol,Bonny,Charleston,283,"Robe, Alexander",,1758-01-01,32.78096,-79.93554
+1758,17422,Cape Coast,Bristol,Anomabu,Charleston,262,"Brown, William",,1758-01-01,32.78096,-79.93554
+1758,17425,Polly,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,377,"Hamilton, David",,1758-01-01,32.78096,-79.93554
+1758,17427,Sylvia,Bristol,Gambia,Charleston,160,"Boucher, Edward",,1758-01-01,32.78096,-79.93554
+1758,17434,Cato,Bristol,Sierra Leone estuary,Charleston,288,"Millerson, Richard<br/> Tallon, John",,1758-01-01,32.78096,-79.93554
+1758,77674,Unity,London,Sofala,Charleston,,"Sargent, Step",,1758-01-01,32.78096,-79.93554
+1758,77692,Betsey,London,Bance/Bunce Island,Charleston,230,"Cogill, Wm",,1758-01-01,32.78096,-79.93554
+1758,90466,Rainbow,Liverpool,Benin,Charleston,201,"Harrison, Joseph",Slave insurrection,1758-01-01,32.78096,-79.93554
+1759,26017,Betsey,,Sierra Leone estuary,Charleston,220,"Deas, Robert",,1759-01-01,32.78096,-79.93554
+1759,24010,Molly,Poole,Gambia,Charleston,200,"Watts, Richard",,1759-01-01,32.78096,-79.93554
+1759,24011,John,Poole,Gambia,Charleston,56,"Pearce, John",,1759-01-01,32.78096,-79.93554
+1759,24012,Marlborough,Lancaster,Gambia,Charleston,190,"Dodson, Robt<br/> Brownrigg, Wm",,1759-01-01,32.78096,-79.93554
+1759,24029,Thetis,Lancaster,"Windward Coast, place unspecified",Charleston,212,"Preston, John",,1759-01-01,32.78096,-79.93554
+1759,36229,Elizabeth,"Rhode Island, port unspecified","Windward Coast, place unspecified",Charleston,46,"Elliott, Robert",,1759-01-01,32.78096,-79.93554
+1759,90734,Marlborough,Liverpool,"Bight of Benin, place unspecified",Charleston,293,"Lace, Ambrose",,1759-01-01,32.78096,-79.93554
+1759,17429,Africa,Bristol,Bonny,Charleston,251,"Robe, Alexander",,1759-01-01,32.78096,-79.93554
+1759,90467,Rainbow,Liverpool,Gambia,Charleston,100,"Harrison, Joseph",,1759-01-01,32.78096,-79.93554
+1760,26018,John,Charleston,Gambia,Charleston,70,"Cherry, George",,1760-01-01,32.78096,-79.93554
+1760,26019,Molly,Poole,Gambia,Charleston,160,"Miller, Joseph",,1760-01-01,32.78096,-79.93554
+1760,26020,Betty,Whitehaven,Sierra Leone estuary,Charleston,180,"Kennedy, John",,1760-01-01,32.78096,-79.93554
+1760,24030,Molly,Lancaster,Sierra Leone estuary,Charleston,228,"Barker<br/> Denison, William",,1760-01-01,32.78096,-79.93554
+1760,24031,Marlborough,Lancaster,Gambia,Charleston,196,"Dodson, Robert<br/> Brownrigg, Wm",,1760-01-01,32.78096,-79.93554
+1760,90648,Charming Esther,Liverpool,"Gold Coast, port unspecified",Charleston,204,"Hamilton, John",,1760-01-01,32.78096,-79.93554
+1760,90668,Middleton,Liverpool,Anomabu,Charleston,155,"Walker, John",,1760-01-01,32.78096,-79.93554
+1760,90812,Pearl,Liverpool,Loango,Charleston,362,"Pollard, Thomas",,1760-01-01,32.78096,-79.93554
+1760,90824,Nestor,Liverpool,Anomabu,Charleston,208,"Maddock, John",,1760-01-01,32.78096,-79.93554
+1760,90835,Carolina,Liverpool,"Windward Coast, place unspecified",Charleston,190,"Kennedy, John",,1760-01-01,32.78096,-79.93554
+1760,17460,Kingston,Bristol,"Africa, port unspecified",Charleston,361,"Brown, William",,1760-01-01,32.78096,-79.93554
+1760,17467,Prince Tom,Bristol,Cabinda,Charleston,428,"Chilcott, John",,1760-01-01,32.78096,-79.93554
+1760,17468,Racehorse,Bristol,Bonny,Charleston,157,"Barker, John",,1760-01-01,32.78096,-79.93554
+1760,17496,Roebuck,Bristol,Bonny,Charleston,420,"Maxwell, James<br/> Gullan, Thomas",,1760-01-01,32.78096,-79.93554
+1760,77722,Kepple,London,Saint-Louis,Charleston,52,"Johnson, Wm<br/> Kerr, Walter",,1760-01-01,32.78096,-79.93554
+1760,77723,Bance Island,London,Bance/Bunce Island,Charleston,337,"Stephens, John",,1760-01-01,32.78096,-79.93554
+1760,77834,Ann Gally,London,Saint-Louis,Charleston,211,"Webb, Joseph",,1760-01-01,32.78096,-79.93554
+1761,26021,Amherst,,"Africa, port unspecified",Charleston,,"Lyell, Lorraine",,1761-01-01,32.78096,-79.93554
+1761,26022,Bance Island,Charleston,Sierra Leone estuary,Charleston,300,"Stephens, John",,1761-01-01,32.78096,-79.93554
+1761,26023,Fanny,,Sierra Leone estuary,Charleston,,Taylor,,1761-01-01,32.78096,-79.93554
+1761,26024,Charming Sally,Cowes,"West Central Africa and St. Helena, port unspecified",Charleston,,"Dwight, Joseph",,1761-01-01,32.78096,-79.93554
+1761,24529,Vernon,Poole,Gambia,Charleston,,Watts,,1761-01-01,32.78096,-79.93554
+1761,24032,Marquis of Granby,Lancaster,Gambia,Charleston,200,"Dodson, Robert",,1761-01-01,32.78096,-79.93554
+1761,90890,James,Liverpool,Iles de Los,Charleston,150,"Howell, Henry",,1761-01-01,32.78096,-79.93554
+1761,17505,Hannah,Bristol,Gambia,Charleston,200,"Darville, Richard",,1761-01-01,32.78096,-79.93554
+1761,75334,Dispatch,London,Bance/Bunce Island,Charleston,,"Duncan, John",,1761-01-01,32.78096,-79.93554
+1761,75369,Duke of York,London,Gambia,Charleston,250,"Bostock, Peter",,1761-01-01,32.78096,-79.93554
+1762,25063,Neptune,Boston,Cape Coast Castle,Charleston,220,"Binney, Barnabas",,1762-01-01,32.78096,-79.93554
+1762,90736,Marlborough,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,263,"Benson, William<br/> Jones, Matthew",,1762-01-01,32.78096,-79.93554
+1762,90961,Hope,Liverpool,"Windward Coast, place unspecified",Charleston,150,"Gillman, John",,1762-01-01,32.78096,-79.93554
+1763,24561,Charlotte,,"Africa, port unspecified",Charleston,,"Blair, James",,1763-01-01,32.78096,-79.93554
+1763,24563,Fly,,Saint-Louis,Charleston,,Cay,,1763-01-01,32.78096,-79.93554
+1763,24034,Marquis of Granby,Lancaster,Gambia,Charleston,200,"Kitching, John",,1763-01-01,32.78096,-79.93554
+1763,36249,Greyhound,"Rhode Island, port unspecified",Cape Coast Castle,Charleston,134,"Pinnegar, Wm",,1763-01-01,32.78096,-79.93554
+1763,36262,,"Rhode Island, port unspecified","Africa, port unspecified",Charleston,,Carpenter,,1763-01-01,32.78096,-79.93554
+1763,36267,,"Rhode Island, port unspecified","Africa, port unspecified",Charleston,,Durfee,,1763-01-01,32.78096,-79.93554
+1763,36268,,"Rhode Island, port unspecified","Africa, port unspecified",Charleston,,Larsher,,1763-01-01,32.78096,-79.93554
+1763,90942,Sea Horse,Liverpool,Cape Mount (Cape Grand Mount),Charleston,130,"Glover, Elias",,1763-01-01,32.78096,-79.93554
+1763,91007,Upton,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,370,"Maxwell, Hugh",,1763-01-01,32.78096,-79.93554
+1763,91008,Charles,Liverpool,Sierra Leone estuary,Charleston,187,"Davies, John",,1763-01-01,32.78096,-79.93554
+1763,17529,Juba,Bristol,Bonny,Charleston,127,"Penhale, William",,1763-01-01,32.78096,-79.93554
+1763,77236,Woodmanstone,London,Gambia,Charleston,73,"Miller, Joseph",,1763-01-01,32.78096,-79.93554
+1764,26026,Prince of Wales,,"Africa, port unspecified",Charleston,,,,1764-01-01,32.78096,-79.93554
+1764,24583,Antelope,Lancaster,"Africa, port unspecified",Charleston,,Paley,,1764-01-01,32.78096,-79.93554
+1764,24590,Sally,,Saint-Louis,Charleston,,Clarke,,1764-01-01,32.78096,-79.93554
+1764,25070,Lyon,Boston,Cape Coast Castle,Charleston,,"Binny, Baryabas",,1764-01-01,32.78096,-79.93554
+1764,24035,Marquis of Granby,Lancaster,Gambia,Charleston,200,"Kitching, John",,1764-01-01,32.78096,-79.93554
+1764,36941,Black Prince,,"Africa, port unspecified",Charleston,145,"Gardner, Caleb",,1764-01-01,32.78096,-79.93554
+1764,37293,Phillis,Boston,Sierra Leone estuary,Charleston,70,"Gwinn, Peter (a) Gwyn",,1764-01-01,32.78096,-79.93554
+1764,90988,Hamilton,Liverpool,Sierra Leone estuary,Charleston,,"Saul, William",,1764-01-01,32.78096,-79.93554
+1764,91029,Jenny,Liverpool,"Whydah, Ouidah",Charleston,292,"McKie, George",,1764-01-01,32.78096,-79.93554
+1764,91056,Marton,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,519,"Wilkinson, John",,1764-01-01,32.78096,-79.93554
+1764,17565,Sally,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,330,"Gullan, Thomas",,1764-01-01,32.78096,-79.93554
+1764,17569,Tryton,Bristol,"Africa, port unspecified",Charleston,127,"Doyle, Nicholas",,1764-01-01,32.78096,-79.93554
+1764,17590,Jane,Bristol,Gambia,Charleston,,"Smith, James",,1764-01-01,32.78096,-79.93554
+1764,75881,Minories,London,"Windward Coast, place unspecified",Charleston,420,"Williams, William<br/> Bostock",,1764-01-01,32.78096,-79.93554
+1764,76050,Queen of Barra,London,Sierra Leone estuary,Charleston,300,"Taylor, Alex",,1764-01-01,32.78096,-79.93554
+1764,77204,Squirrel,London,Gambia,Charleston,,"Fisher, Thomas",,1764-01-01,32.78096,-79.93554
+1764,77769,Africa,London,Gambia,Charleston,180,"Robinson, Thos<br/> Moth, Hugh",,1764-01-01,32.78096,-79.93554
+1764,77776,Sally,London,Saint-Louis,Charleston,,"Sloass, James",,1764-01-01,32.78096,-79.93554
+1765,26027,Rodney,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,400,"McDaniel, Daniel",,1765-01-01,32.78096,-79.93554
+1765,26028,Providence,,"West Central Africa and St. Helena, port unspecified",Charleston,100,"Williams, Ed",,1765-01-01,32.78096,-79.93554
+1765,26029,Essex,,"West Central Africa and St. Helena, port unspecified",Charleston,150,"Barwick, Geo",,1765-01-01,32.78096,-79.93554
+1765,24591,Sally,London,"Senegambia and offshore Atlantic, port unspecified",Charleston,90,"Sloass, James<br/> Jones, John",,1765-01-01,32.78096,-79.93554
+1765,24608,Pitt,Lancaster,"Africa, port unspecified",Charleston,,"Hodgson, Thos<br/> Wright",,1765-01-01,32.78096,-79.93554
+1765,24866,Prince George,Lancaster,Sierra Leone estuary,Charleston,160,"Addison, John",,1765-01-01,32.78096,-79.93554
+1765,24869,Antelope,Lancaster,Gambia,Charleston,150,"Paley, Thomas",,1765-01-01,32.78096,-79.93554
+1765,25232,Virginia,Boston,"Gold Coast, port unspecified",Charleston,80,"Spear, Gresham",,1765-01-01,32.78096,-79.93554
+1765,25238,,Boston,"Africa, port unspecified",Charleston,,Ball,,1765-01-01,32.78096,-79.93554
+1765,24036,Molly,Lancaster,Sierra Leone estuary,Charleston,200,"Woodburn, Thomas",,1765-01-01,32.78096,-79.93554
+1765,24038,King Tom,,"Windward Coast, place unspecified",Charleston,250,"Read, John",,1765-01-01,32.78096,-79.93554
+1765,36295,Speedwell,Newport,Iles de Los,Charleston,43,Congdon,,1765-01-01,32.78096,-79.93554
+1765,36297,Three Friends,Newport,Sierra Leone estuary,Charleston,47,"Carpenter, Willett<br/> Draper, Thomas",,1765-01-01,32.78096,-79.93554
+1765,36301,Sarah,Newport,"Gold Coast, port unspecified",Charleston,,"Tillinghast, Henry",,1765-01-01,32.78096,-79.93554
+1765,36313,Newport Packet,"Rhode Island, port unspecified","Gold Coast, port unspecified",Charleston,154,"Sherman, James",,1765-01-01,32.78096,-79.93554
+1765,36314,Nancy,"Rhode Island, port unspecified",Gambia,Charleston,30,"Keast, John",,1765-01-01,32.78096,-79.93554
+1765,90717,Britannia,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,220,"Witherington, Robert",,1765-01-01,32.78096,-79.93554
+1765,90790,Hannah,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,297,"Prescot, Edward",,1765-01-01,32.78096,-79.93554
+1765,90818,Essex,Liverpool,Bassa,Charleston,190,"Seaman, William",,1765-01-01,32.78096,-79.93554
+1765,90975,Lord Pulteney,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,213,"Hassey, Peter<br/> Hodgson",,1765-01-01,32.78096,-79.93554
+1765,91014,Captain,Liverpool,Bassa,Charleston,280,"Dobb, Richard",,1765-01-01,32.78096,-79.93554
+1765,91112,Apollo,Liverpool,"Gold Coast, port unspecified",Charleston,150,"Hamilton, John",,1765-01-01,32.78096,-79.93554
+1765,91135,Black Joke,Liverpool,Gambia,Charleston,90,"Pollard, Joseph<br/> Marshall",,1765-01-01,32.78096,-79.93554
+1765,91173,Etty,Liverpool,Gambia,Charleston,283,"Perkins, Chris<br/> Dennison",,1765-01-01,32.78096,-79.93554
+1765,91182,Cloe,Liverpool,"Windward Coast, place unspecified",Charleston,234,"Hayman, William",,1765-01-01,32.78096,-79.93554
+1765,91191,Lively,Liverpool,Gambia,Charleston,170,"Caird, James<br/> Miller, George",,1765-01-01,32.78096,-79.93554
+1765,91213,William,Liverpool,Gambia,Charleston,68,"Patten, William",,1765-01-01,32.78096,-79.93554
+1765,17572,Ballea Castle,Bristol,Anomabu,Charleston,190,"Halsall, Anthony<br/> Egan, Mathew",,1765-01-01,32.78096,-79.93554
+1765,17574,Bonnetta,Bristol,"Windward Coast, place unspecified",Charleston,50,"Maies, Joseph",,1765-01-01,32.78096,-79.93554
+1765,17583,Duke of York,Bristol,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Charleston,220,"Bishop, George<br/> Alleyn, Israel",,1765-01-01,32.78096,-79.93554
+1765,17586,Greyhound,Bristol,Bonny,Charleston,350,"Robe, Alexander",,1765-01-01,32.78096,-79.93554
+1765,17589,James,Bristol,Gambia,Charleston,64,"Songster, James",,1765-01-01,32.78096,-79.93554
+1765,17604,Speedwell,Bristol,Calabar,Charleston,31,"Bivins, James",,1765-01-01,32.78096,-79.93554
+1765,75396,Elizabeth,London,"Gold Coast, port unspecified",Charleston,180,"McNeil, John",,1765-01-01,32.78096,-79.93554
+1765,75882,Minories,London,"Windward Coast, place unspecified",Charleston,260,"Williams, William",,1765-01-01,32.78096,-79.93554
+1765,76326,Woodmanstone,London,Sierra Leone estuary,Charleston,178,"Miller, Joseph",,1765-01-01,32.78096,-79.93554
+1765,77767,Fox,London,"Gold Coast, port unspecified",Charleston,170,"Richardson, Francis<br/> Easton, Richard<br/> Brown, George",,1765-01-01,32.78096,-79.93554
+1765,77789,Britannia,London,Gambia,Charleston,150,"Knill, John<br/> Deane, Stephen",,1765-01-01,32.78096,-79.93554
+1765,77803,Hannah,London,Gambia,Charleston,,"Brewer, Richard",,1765-01-01,32.78096,-79.93554
+1765,77804,Dispatch,London,"Gold Coast, port unspecified",Charleston,220,"Taylor, Walter",,1765-01-01,32.78096,-79.93554
+1765,77815,Success,London,Saint-Louis,Charleston,76,"Phillips, John",,1765-01-01,32.78096,-79.93554
+1765,78199,New Britannia,,"Africa, port unspecified",Charleston,150,"Deane, Stephen",,1765-01-01,32.78096,-79.93554
+1766,17637,Antelope,Bristol,Bonny,Charleston,,"Penhale, William",,1766-01-01,32.78096,-79.93554
+1767,17638,Betsey,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,,"Maxwell, Basil<br/> Chilcott, John",,1767-01-01,32.78096,-79.93554
+1767,17644,Cornwall,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,,"Chilcott, John",,1767-01-01,32.78096,-79.93554
+1768,91406,Tryal,Liverpool,Sierra Leone estuary,Charleston,360,"Wilding, Richard<br/> Price, Ebenezer",,1768-01-01,32.78096,-79.93554
+1768,91483,Dimbia,Liverpool,"Windward Coast, place unspecified",Charleston,,"Bare, Francis",,1768-01-01,32.78096,-79.93554
+1769,26031,Dembia,,Sierra Leone estuary,Charleston,94,"Bare, Francis",,1769-01-01,32.78096,-79.93554
+1769,36381,Shelburne,London,Galam,Charleston,138,"Clark, James",,1769-01-01,32.78096,-79.93554
+1769,91131,Aston,Liverpool,Gambia,Charleston,126,"Caird, James<br/> Henitor, Henry",,1769-01-01,32.78096,-79.93554
+1769,91276,Shark,Liverpool,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Charleston,60,"Addison, Robert<br/> Ashburn, John",,1769-01-01,32.78096,-79.93554
+1769,91319,Prince George,Lancaster,Sierra Leone estuary,Charleston,,"Addison, John",,1769-01-01,32.78096,-79.93554
+1769,91325,Corker,Liverpool,Banana Islands,Charleston,127,"Allenby, John",,1769-01-01,32.78096,-79.93554
+1769,91336,Saint John,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,240,"Clifton, John",,1769-01-01,32.78096,-79.93554
+1769,91344,James,Liverpool,Bassa,Charleston,340,"Billinge, Henry",,1769-01-01,32.78096,-79.93554
+1769,91350,Cato,Liverpool,Benin,Charleston,239,"Gill, William",,1769-01-01,32.78096,-79.93554
+1769,91368,Edgar,Liverpool,Calabar,Charleston,275,"Madden, Henry",,1769-01-01,32.78096,-79.93554
+1769,91393,Harriet,Liverpool,Gallinhas,"South Carolina, place unspecified",170,"Rymer, Thomas",,1769-01-01,#N/A,#N/A
+1769,91436,Lilly,Liverpool,Sierra Leone estuary,Charleston,120,"Scrogham, John<br/> Salcraig, James",,1769-01-01,32.78096,-79.93554
+1769,91451,John,Liverpool,"Windward Coast, place unspecified",Charleston,280,"Fletcher, John<br/> Eaton",,1769-01-01,32.78096,-79.93554
+1769,91464,Sally,Liverpool,Cape Mount (Cape Grand Mount),Charleston,296,"Evans, George",,1769-01-01,32.78096,-79.93554
+1769,91474,Jenny (a) Nancy,Liverpool,Sierra Leone estuary,Charleston,178,"Webster, Richard",Slave insurrection,1769-01-01,32.78096,-79.93554
+1769,91482,Sisters,Liverpool,Gambia,Charleston,128,"Kirkby, Henry",,1769-01-01,32.78096,-79.93554
+1769,17706,Mercury,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,252,"Maxwell, Basil",,1769-01-01,32.78096,-79.93554
+1769,17734,King George,London,Sierra Leone estuary,Charleston,150,"Graham, William",,1769-01-01,32.78096,-79.93554
+1769,75298,Countess of Sussex,London,Gambia,Charleston,250,"Davies, Thomas",,1769-01-01,32.78096,-79.93554
+1769,76101,Royal George,London,"West Central Africa and St. Helena, port unspecified",Charleston,360,"Blundell, Thomas<br/> Seaman",,1769-01-01,32.78096,-79.93554
+1769,77965,Neptune,London,Anomabu,Charleston,340,"Price, Ebenezer",,1769-01-01,32.78096,-79.93554
+1769,77966,Squirrel,London,Gambia,Charleston,114,"Fisher, Thomas",,1769-01-01,32.78096,-79.93554
+1770,91485,Cavendish,Liverpool,Delagoa,Charleston,190,"Penny, James",,1770-01-01,32.78096,-79.93554
+1771,26032,Friendship,,"Gold Coast, port unspecified",Charleston,105,"Wooster, John",,1771-01-01,32.78096,-79.93554
+1771,24689,Jupiter,,"Africa, port unspecified",Charleston,,Coiting,,1771-01-01,32.78096,-79.93554
+1771,91588,Mars,Liverpool,Cape Mount (Cape Grand Mount),Charleston,200,"Holland, Francis",,1771-01-01,32.78096,-79.93554
+1771,91688,Saville,Liverpool,Sierra Leone estuary,Charleston,172,"Kendall, James",,1771-01-01,32.78096,-79.93554
+1771,91713,Lively,Liverpool,Gambia,Charleston,,"Clifton, John<br/> Courtney, Henry",,1771-01-01,32.78096,-79.93554
+1771,91735,Two Brothers,Liverpool,Gambia,Charleston,200,"Glenn, Hugh",Slave insurrection,1771-01-01,32.78096,-79.93554
+1771,91466,Sally,Liverpool,Cape Mount (Cape Grand Mount),Charleston,291,"Evans, George",,1771-01-01,32.78096,-79.93554
+1771,17744,Betsey,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,,"Morgan, William",,1771-01-01,32.78096,-79.93554
+1771,17753,Hector,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,,"Llewellin, William",,1771-01-01,32.78096,-79.93554
+1771,17778,Gambia,Bristol,Gambia,Charleston,133,"Willis, James",,1771-01-01,32.78096,-79.93554
+1771,78017,New Britannia,London,Gambia,Charleston,90,"Deane, Stephen",,1771-01-01,32.78096,-79.93554
+1771,78278,Charlotte,Charleston,Bance/Bunce Island,Charleston,118,"Tosh, James",,1771-01-01,32.78096,-79.93554
+1771,79017,Warren,Lancaster,Sierra Leone estuary,Charleston,120,"Thompson, John",,1771-01-01,32.78096,-79.93554
+1772,26033,Henrieta,,"Windward Coast, place unspecified",Charleston,98,"Steel, Benj",,1772-01-01,32.78096,-79.93554
+1772,26034,Thomas and Anthony,,Gambia,Charleston,200,"Gibbs, Solomon",,1772-01-01,32.78096,-79.93554
+1772,26035,Sukey and Nancy,,"Gold Coast, port unspecified",Charleston,120,"Newbold, Thomas",,1772-01-01,32.78096,-79.93554
+1772,25376,Beggar's Bennison,Boston,Anomabu,Charleston,100,"Dunn, David",,1772-01-01,32.78096,-79.93554
+1772,91568,Unity,Liverpool,"Whydah, Ouidah",Charleston,315,"Norris, Robert",,1772-01-01,32.78096,-79.93554
+1772,91704,Molly,Liverpool,Gambia,Charleston,,"Duesberry, Robert<br/> Moore, John",,1772-01-01,32.78096,-79.93554
+1772,91729,Two Brothers,Liverpool,Gambia,Charleston,,"Glenn, Hugh",,1772-01-01,32.78096,-79.93554
+1772,91744,Mary,Liverpool,Sierra Leone estuary,Charleston,197,"Leverdon, William<br/> Wilson, Charles",,1772-01-01,32.78096,-79.93554
+1772,91765,Apollo,Liverpool,Cape Mount (Cape Grand Mount),Charleston,147,"Fisher, Edward",,1772-01-01,32.78096,-79.93554
+1772,17773,Betsey,Bristol,Malembo,Charleston,285,"Morgan, William",,1772-01-01,32.78096,-79.93554
+1772,17780,Hector,Bristol,Malembo,Charleston,304,"Llewellin, William",,1772-01-01,32.78096,-79.93554
+1772,75533,Friendship,London,Anomabu,Charleston,390,"Cumming, James",,1772-01-01,32.78096,-79.93554
+1772,75932,New Britannia,London,Gambia,Charleston,220,"Deane, Stephen",,1772-01-01,32.78096,-79.93554
+1772,76035,Providence,London,Gambia,Charleston,156,"Mason, Abraham<br/> Davis",,1772-01-01,32.78096,-79.93554
+1772,78057,Venus,London,Anomabu,Charleston,,"Goodwin, Thomas",,1772-01-01,32.78096,-79.93554
+1772,78067,Fly,London,"Windward Coast, place unspecified",Charleston,138,"Griffiths, Eaglesfield",,1772-01-01,32.78096,-79.93554
+1772,78812,Africa,"Grenada, place unspecified",Sierra Leone estuary,Charleston,218,Wallace,,1772-01-01,32.78096,-79.93554
+1772,79019,Prince George,Lancaster,"Windward Coast, place unspecified",Charleston,123,"Davies, Thomas",,1772-01-01,32.78096,-79.93554
+1772,79024,Warren,Lancaster,Sierra Leone estuary,Charleston,130,"Thompson, John",,1772-01-01,32.78096,-79.93554
+1773,25832,Venus,Charleston,Anomabu,Charleston,350,"Goodwin, Thomas",,1773-01-01,32.78096,-79.93554
+1773,26038,Gallam (a) Mary,,Sierra Leone estuary,Charleston,318,"White, And",,1773-01-01,32.78096,-79.93554
+1773,26041,Friendship,Portsmouth (NH),"Gold Coast, port unspecified",Charleston,140,"MacKenzie, Sr., Andrew",,1773-01-01,32.78096,-79.93554
+1773,26043,John,,Sierra Leone estuary,Charleston,86,"Montany, Jos",,1773-01-01,32.78096,-79.93554
+1773,24715,Swift,,Gambia,Charleston,65,"Deane, Stephen",,1773-01-01,32.78096,-79.93554
+1773,24721,Meredith,Liverpool,Iles de Los,Charleston,350,"Wilson, Charles",,1773-01-01,32.78096,-79.93554
+1773,36423,Liberty,"Rhode Island, port unspecified","Whydah, Ouidah",Charleston,175,"Crump, Richard",,1773-01-01,32.78096,-79.93554
+1773,36439,Fanny,Newport,"Gold Coast, port unspecified",Charleston,206,"Hicks, Benj",,1773-01-01,32.78096,-79.93554
+1773,36440,Sebenia,"Rhode Island, port unspecified",Saint-Louis,Charleston,200,"Clarke, James",,1773-01-01,32.78096,-79.93554
+1773,37024,John,New York,Sierra Leone estuary,Charleston,,"Richards, Roger<br/> Wilson, John",,1773-01-01,32.78096,-79.93554
+1773,91626,Edward,Liverpool,Anomabu,Charleston,180,"Grayson, Henry",,1773-01-01,32.78096,-79.93554
+1773,91724,Cavendish,Liverpool,"Gold Coast, port unspecified",Charleston,318,"Williams, Thomas",,1773-01-01,32.78096,-79.93554
+1773,91730,Two Brothers,Liverpool,Gambia,Charleston,160,"Glenn, Hugh",,1773-01-01,32.78096,-79.93554
+1773,91737,Hawke,Liverpool,Cape Mount (Cape Grand Mount),Charleston,250,"Ralph, Thomas",,1773-01-01,32.78096,-79.93554
+1773,91760,Hazard,Liverpool,"Windward Coast, place unspecified",Charleston,165,"Hughes, Joseph",,1773-01-01,32.78096,-79.93554
+1773,91819,Spy,Liverpool,"Windward Coast, place unspecified",Charleston,,"Stewart, Henry",,1773-01-01,32.78096,-79.93554
+1773,91825,Charlotte,Liverpool,Sierra Leone estuary,Charleston,110,"Powell, Thomas",,1773-01-01,32.78096,-79.93554
+1773,91830,Nancy,Liverpool,Cape Mount (Cape Grand Mount),Charleston,130,"Blower, Thomas",,1773-01-01,32.78096,-79.93554
+1773,91849,Blossom,Liverpool,Cape Mount (Cape Grand Mount),Charleston,274,"Briggs, William",,1773-01-01,32.78096,-79.93554
+1773,91883,Robert,Liverpool,Cape Coast Castle,Charleston,130,"Mann, Luke",,1773-01-01,32.78096,-79.93554
+1773,91889,Thomas,Liverpool,"West Central Africa and St. Helena, port unspecified",Charleston,160,"Lyon, Edward",,1773-01-01,32.78096,-79.93554
+1773,91896,Little Ben,Liverpool,"Windward Coast, place unspecified",Charleston,106,"Melling, Thomas",,1773-01-01,32.78096,-79.93554
+1773,91898,Corsican Hero,Liverpool,Anomabu,Charleston,210,"Blundell, Richard<br/> Noble, Clement",,1773-01-01,32.78096,-79.93554
+1773,91903,Stanley,Lancaster,Sierra Leone estuary,Charleston,155,"Abson, John",,1773-01-01,32.78096,-79.93554
+1773,91915,Hereford,Liverpool,Sierra Leone estuary,Charleston,,"Harrison, William",,1773-01-01,32.78096,-79.93554
+1773,91959,Hope,Liverpool,Gambia,Charleston,100,"Turnand, John",,1773-01-01,32.78096,-79.93554
+1773,91556,York,Liverpool,"Windward Coast, place unspecified",Charleston,125,"Wilson, Robert",,1773-01-01,32.78096,-79.93554
+1773,17796,Africa,Bristol,"Africa, port unspecified",Charleston,190,"Vaughan, Walter<br/> Fraser, Gavin",,1773-01-01,32.78096,-79.93554
+1773,17800,Catherine,Bristol,Malembo,Charleston,237,"Fraser, James<br/> Jones, Thomas",,1773-01-01,32.78096,-79.93554
+1773,17806,Gambia,Bristol,Gambia,Charleston,170,"Willis, James",,1773-01-01,32.78096,-79.93554
+1773,17807,Greyhound,Bristol,Calabar,Charleston,132,"Patterson, Jacob<br/> O'Neil, Terence",,1773-01-01,32.78096,-79.93554
+1773,17811,Jason,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,253,"Merrick, George",,1773-01-01,32.78096,-79.93554
+1773,17814,Maesgwin,Bristol,"Gold Coast, port unspecified",Charleston,270,"Brown, Windsor",,1773-01-01,32.78096,-79.93554
+1773,17826,Betsey,Bristol,Gambia,Charleston,150,"Morgan, William",,1773-01-01,32.78096,-79.93554
+1773,17840,King George,London,Saint-Louis,Charleston,150,"Graham, William",,1773-01-01,32.78096,-79.93554
+1773,75161,Betty and Jenny,London,Gambia,Charleston,180,"Thompson, Alexander",,1773-01-01,32.78096,-79.93554
+1773,75625,Heart of Oak,London,Saint-Louis,Charleston,104,"Patterson, Robert",,1773-01-01,32.78096,-79.93554
+1773,76118,Sabina,London,Saint-Louis,Charleston,200,"Dove<br/> Clark, John<br/> Haycraft, Samuel",,1773-01-01,32.78096,-79.93554
+1773,77171,Providence,London,Gambia,Charleston,130,"Griffiths, E<br/> Aynstie, Robt",,1773-01-01,32.78096,-79.93554
+1773,77891,Molly,Lancaster,Sierra Leone estuary,Charleston,100,"Read, John",,1773-01-01,32.78096,-79.93554
+1773,78102,George,London,Saint-Louis,Charleston,160,"Cornwall, Thomas<br/> Graham, William",,1773-01-01,32.78096,-79.93554
+1773,78105,Amelia,London,"Africa, port unspecified",Charleston,,"Lothian, Patrick<br/> McNeil, John",,1773-01-01,32.78096,-79.93554
+1773,78106,Expedition,London,Saint-Louis,Charleston,,"Dove, Michael",,1773-01-01,32.78096,-79.93554
+1773,78112,Briton,London,Saint-Louis,Charleston,150,"Cliff, William",,1773-01-01,32.78096,-79.93554
+1773,78840,Roseau,,Saint-Louis,Charleston,,"Clark, Walter",,1773-01-01,32.78096,-79.93554
+1773,79028,Nelly,Lancaster,Sierra Leone estuary,Charleston,150,"Kendall, Robert<br/> Maychell, James",,1773-01-01,32.78096,-79.93554
+1773,79045,Prince George,Lancaster,Sierra Leone estuary,Charleston,80,"Davies, Thomas",,1773-01-01,32.78096,-79.93554
+1774,26052,Maria,,Iles de Los,Charleston,36,"Grinnell, Richard",,1774-01-01,32.78096,-79.93554
+1774,24748,Mary,London,Saint-Louis,Charleston,,"Barville, Js (a) Bardin",,1774-01-01,32.78096,-79.93554
+1774,36473,Fanny,"Rhode Island, port unspecified",Anomabu,Charleston,60,"Stanton, John",,1774-01-01,32.78096,-79.93554
+1774,91590,Mars,Liverpool,Cape Mount (Cape Grand Mount),Charleston,,"Holland, Francis",,1774-01-01,32.78096,-79.93554
+1774,91826,Charlotte,Liverpool,Iles de Los,Charleston,140,"Powell, Thomas<br/> Quirk",,1774-01-01,32.78096,-79.93554
+1774,91906,Peggy,Liverpool,"Windward Coast, place unspecified",Charleston,,"Sharpe, William<br/> McMein, George",,1774-01-01,32.78096,-79.93554
+1774,91969,Unity,Liverpool,"Whydah, Ouidah",Charleston,,"Barrow, John<br/> Norris, Robert",,1774-01-01,32.78096,-79.93554
+1774,91992,Bacchus,Liverpool,Cape Mount (Cape Grand Mount),Charleston,,"Hayman, William<br/> Nevin, John<br/> Barber, John",,1774-01-01,32.78096,-79.93554
+1774,91999,Caton,Liverpool,Gambia,Charleston,230,"McCutchan, Samuel<br/> Williams, Joseph",,1774-01-01,32.78096,-79.93554
+1774,17825,Ambris,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,49,"Lovegrove, Jonathan",,1774-01-01,32.78096,-79.93554
+1774,17827,Betsey,Bristol,Gambia,Charleston,128,"Morgan, William",,1774-01-01,32.78096,-79.93554
+1774,17835,Gambia,Bristol,Gambia,Charleston,86,"Willis, James",,1774-01-01,32.78096,-79.93554
+1774,17836,Hector,Bristol,"West Central Africa and St. Helena, port unspecified",Charleston,296,"Llewellin, William",,1774-01-01,32.78096,-79.93554
+1774,17842,Maesgwyn,Bristol,Anomabu,Charleston,300,"Brown, Windsor",,1774-01-01,32.78096,-79.93554
+1774,75446,Expedition,London,Saint-Louis,Charleston,143,"Spence, John",,1774-01-01,32.78096,-79.93554
+1774,75778,Lord North,London,Saint-Louis,Charleston,180,"Cornwall, Thomas",,1774-01-01,32.78096,-79.93554
+1774,76120,Sabina,London,Saint-Louis,Charleston,200,"Clark, Walter",,1774-01-01,32.78096,-79.93554
+1774,78124,Prince Tom,London,Gambia,Charleston,150,"Mason, Benjamin",,1774-01-01,32.78096,-79.93554
+1774,78131,Brewton,London,"Africa, port unspecified",Charleston,,"Goodwin, Richard<br/> Dean<br/> White",,1774-01-01,32.78096,-79.93554
+1774,78139,Little Archy,London,"Africa, port unspecified",Charleston,,"Anderson, Archibald",,1774-01-01,32.78096,-79.93554
+1774,78142,Francis,London,Saint-Louis,Charleston,280,"Williamson, Edward",,1774-01-01,32.78096,-79.93554
+1774,78150,Heart of Oak,London,Saint-Louis,Charleston,,"Patterson, Robert",,1774-01-01,32.78096,-79.93554
+1774,78159,Mally (a) Molly,London,Bance/Bunce Island,Charleston,200,"Smith, George",,1774-01-01,32.78096,-79.93554
+1774,78902,Jenny,Lancaster,Sierra Leone estuary,Charleston,120,"Thompson, John",,1774-01-01,32.78096,-79.93554
+1775,24745,Fanny,Piscataqua,"Gold Coast, port unspecified",Charleston,,"Mayne, William",,1775-01-01,32.78096,-79.93554

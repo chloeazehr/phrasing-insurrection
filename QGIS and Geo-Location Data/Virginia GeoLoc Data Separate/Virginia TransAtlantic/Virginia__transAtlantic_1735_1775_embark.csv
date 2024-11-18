@@ -1,0 +1,217 @@
+Year of arrival at port of disembarkation,Voyage ID,Vessel name,Voyage itinerary imputed principal place of slave purchase (mjbyptimp) ,Voyage itinerary imputed port where began (ptdepimp) place,Voyage itinerary imputed principal port of slave disembarkation (mjslptimp) place,Captives arrived at 1st port,Captain's name, resistance label,Date,latitude,longitude 
+1735,16780,Ann,"Africa, port unspecified",Bristol,Rappahannock,222,"Prothero, Philip",,1735-01-01,#N/A,#N/A
+1735,16784,Bodmin,"Africa, port unspecified",Bristol,York River,210,"Biddy, Richard",,1735-01-01,#N/A,#N/A
+1735,16785,Brice,"West Central Africa and St. Helena, port unspecified",Bristol,York River,414,"Saunders, Abraham",,1735-01-01,-8.83833,13.23444
+1735,16788,George,Calabar,Bristol,York River,284,"Tovey, Edward",,1735-01-01,4.95,8.31667
+1735,16795,Indian Queen,Bonny,Bristol,York River,172,"Perry, George",,1735-01-01,4.43333,7.16667
+1735,16796,Jenny,Gambia,Bristol,Rappahannock,245,"Bryan, Edward",,1735-01-01,13.45306,-16.5775
+1735,92346,Lively,"Africa, port unspecified",Liverpool,Upper James River,139,"Cullum, Francis",,1735-01-01,#N/A,#N/A
+1735,92347,Doddington,"Gold Coast, port unspecified",Liverpool,York River,167,"Copland, James",,1735-01-01,5.19077,-1.0992
+1735,92402,Willoughby,"Africa, port unspecified",Liverpool,"Virginia, port unspecified",188,"Heysham, Richard",,1735-01-01,#N/A,#N/A
+1735,76860,Pretty Betsey,"Africa, port unspecified",London,Upper James River,155,"Boys, John",,1735-01-01,#N/A,#N/A
+1736,25713,Pretty Betsey,Gambia,London,Lower James River,,"Boys, John",,1736-01-01,13.45306,-16.5775
+1736,16816,Aurora,Bonny,Bristol,Lower James River,160,"Tucker, Timothy",,1736-01-01,4.43333,7.16667
+1736,16818,Betty Snow,"Africa, port unspecified",Bristol,York River,400,"Phelps, James",,1736-01-01,#N/A,#N/A
+1736,16819,Bridget,Cabinda,Bristol,South Potomac,150,"Clarke, William",,1736-01-01,-5.55,12.2
+1736,16826,Indian Queen,"Africa, port unspecified",Bristol,Rappahannock,201,"Blanning, John",,1736-01-01,#N/A,#N/A
+1736,16838,Prince of Orange,Calabar,Bristol,York River,251,"Bird, Japhet",Vessel's boats attacked from shore,1736-01-01,4.95,8.31667
+1736,16843,Swallow,"Africa, port unspecified",Bristol,York River,196,"Colt, John",,1736-01-01,#N/A,#N/A
+1736,16844,Withers,"Africa, port unspecified",Bristol,York River,275,"Webb, Samuel<br/> Muff, William",,1736-01-01,#N/A,#N/A
+1736,16846,Ann,Bonny,Bristol,York River,310,"Prothero, Philip",,1736-01-01,4.43333,7.16667
+1736,92340,Stannage,Gambia,Liverpool,Upper James River,180,"Hill, Thomas",Slave insurrection,1736-01-01,13.45306,-16.5775
+1736,92341,Antelope,Anomabu,Liverpool,Rappahannock,279,"Birch<br/> Hurst, James",,1736-01-01,5.1667,-1.1167
+1736,92342,Alice,"Africa, port unspecified",Liverpool,Rappahannock,90,"Hamilton, Thomas",,1736-01-01,#N/A,#N/A
+1736,92343,Prince William,Gambia,Liverpool,York River,166,"Gildart, Geo<br/> Hayes, William",,1736-01-01,13.45306,-16.5775
+1736,92344,Liverpool Merchant,"Africa, port unspecified",Liverpool,South Potomac,193,"Goulding, Matthew",,1736-01-01,#N/A,#N/A
+1736,92345,Thomas,Gambia,Liverpool,York River,137,"Smith, Henry",,1736-01-01,13.45306,-16.5775
+1737,16850,Brice Gally,"West Central Africa and St. Helena, port unspecified",Bristol,York River,409,"Saunders, Abraham",,1737-01-01,-8.83833,13.23444
+1737,16858,Greyhound,"Africa, port unspecified",Bristol,Rappahannock,232,"Hallden, Edward",,1737-01-01,#N/A,#N/A
+1737,16859,Hobhouse,"Africa, port unspecified",Bristol,York River,310,"Bartlett, John",,1737-01-01,#N/A,#N/A
+1737,92335,Stannage,Gambia,Liverpool,Upper James River,183,"Hill, Thomas",,1737-01-01,13.45306,-16.5775
+1737,92336,Thomas,Gambia,Liverpool,South Potomac,97,"Smith, Henry",,1737-01-01,13.45306,-16.5775
+1737,92337,Liverpool Merchant,Gambia,Liverpool,South Potomac,190,"Goulding, Matthew<br/> Bootle, James",,1737-01-01,13.45306,-16.5775
+1737,94636,Alice,Gambia,Liverpool,Rappahannock,124,"Cutler, Egerton",,1737-01-01,13.45306,-16.5775
+1737,94637,Prince William,Gambia,Liverpool,"Virginia, port unspecified",,"Gildart, Geo",,1737-01-01,13.45306,-16.5775
+1738,16884,Bridget,"Africa, port unspecified",Bristol,York River,190,"Quircke, Robert",,1738-01-01,#N/A,#N/A
+1738,16957,Murdock,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Williams, David",,1738-01-01,#N/A,#N/A
+1738,92332,Liverpool Merchant,"West Central Africa and St. Helena, port unspecified",Liverpool,South Potomac,70,"Hassall, Thomas",,1738-01-01,-8.83833,13.23444
+1738,92333,Alice,Gambia,Liverpool,Rappahannock,121,"Cutler, Egerton",,1738-01-01,13.45306,-16.5775
+1738,92334,Walpole,"West Central Africa and St. Helena, port unspecified",Liverpool,Upper James River,,"Johnson, Richard",,1738-01-01,-8.83833,13.23444
+1738,75478,Falcon,"West Central Africa and St. Helena, port unspecified",London,York River,348,"Young, Hasden",,1738-01-01,-8.83833,13.23444
+1739,16936,Cross,"Africa, port unspecified",Bristol,York River,266,"Pittman, Joseph",,1739-01-01,#N/A,#N/A
+1739,16937,Diana,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Campbell, Patrick",,1739-01-01,#N/A,#N/A
+1739,16967,Prince of Orange,"Africa, port unspecified",Bristol,York River,200,"Bird, Japhet",,1739-01-01,#N/A,#N/A
+1739,92329,Liverpool Merchant,"Africa, port unspecified",Liverpool,South Potomac,130,"Lyon, John<br/> Goulding, Alexander",,1739-01-01,#N/A,#N/A
+1739,92330,Vine,Gambia,Liverpool,Rappahannock,156,"Cutler, Egerton",,1739-01-01,13.45306,-16.5775
+1739,92331,Dove,"Africa, port unspecified",Liverpool,Upper James River,106,"Corrin, William",,1739-01-01,#N/A,#N/A
+1739,75070,Anna,"Whydah, Ouidah",London,Upper James River,380,"Strachan, James",,1739-01-01,#N/A,#N/A
+1739,75171,Black Prince,"Gold Coast, port unspecified",London,York River,167,"Sibson, John",,1739-01-01,5.19077,-1.0992
+1739,76893,Betty Gally,Malembo,London,Rappahannock,273,"Winster, John",,1739-01-01,-5.33333,12.18333
+1740,25181,Mary Anne,"Africa, port unspecified",Boston,Upper James River,70,"Cutler, John",,1740-01-01,#N/A,#N/A
+1740,16984,Chesterfield,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,York River,,"Woods, William",,1740-01-01,4.43333,7.16667
+1740,16987,Cornwall,"Africa, port unspecified",Bristol,York River,,"Rickards, Joseph",,1740-01-01,#N/A,#N/A
+1740,16996,Marlborough,Calabar,Bristol,York River,260,"Blanning, John",,1740-01-01,4.95,8.31667
+1740,17000,Palmtree,Bonny,Bristol,York River,120,"Culme, Richard<br/> Rice, William",,1740-01-01,4.43333,7.16667
+1740,17009,Williamsburgh,Bonny,Bristol,York River,230,"Lambert, Jonathan",,1740-01-01,4.43333,7.16667
+1740,92328,Bridgett,"Africa, port unspecified",Liverpool,South Potomac,53,"Rosson, Henry<br/> Plume<br/> Carrel, James",,1740-01-01,#N/A,#N/A
+1740,94736,Gambia Merchant,Gambia,Liverpool,Rappahannock,139,"Cutler, Egerton",,1740-01-01,13.45306,-16.5775
+1740,94738,Dove,"Africa, port unspecified",Liverpool,Upper James River,62,"Lee, John<br/> Corrin, William",,1740-01-01,#N/A,#N/A
+1741,17023,Molly,"Africa, port unspecified",Bristol,Upper James River,206,"Perry, George",,1741-01-01,#N/A,#N/A
+1741,17024,Nancy,Calabar,Bristol,Upper James River,182,"Malcolme, John<br/> Crawley",,1741-01-01,4.95,8.31667
+1741,17034,Seaflower,Calabar,Bristol,York River,169,"Elsworthy, John<br/> Edwards, John",,1741-01-01,4.95,8.31667
+1741,94744,Cape Coast,"Africa, port unspecified",Liverpool,South Potomac,130,"Smith, William",,1741-01-01,#N/A,#N/A
+1741,94759,Walpole,Gambia,Liverpool,"Virginia, port unspecified",,"Carrey, Ellis",,1741-01-01,13.45306,-16.5775
+1742,17037,Amoretta,Bonny,Bristol,York River,195,"Crode, John",,1742-01-01,4.43333,7.16667
+1742,17047,George,Calabar,Bristol,Upper James River,310,"Tovey, Edward",,1742-01-01,4.95,8.31667
+1742,17059,Shepherd,"Africa, port unspecified",Bristol,Rappahannock,320,"Power, Maurice",,1742-01-01,#N/A,#N/A
+1742,17062,Vernon,"Africa, port unspecified",Bristol,York River,140,"Forrest, Henry",,1742-01-01,#N/A,#N/A
+1742,75670,James Gally,"Africa, port unspecified",London,York River,450,"Young, Hasden",,1742-01-01,#N/A,#N/A
+1743,17068,Broomfield,Bonny,Bristol,York River,164,"Sharp, Joseph",,1743-01-01,4.43333,7.16667
+1743,17070,Goldfinch,"Africa, port unspecified",Bristol,York River,200,"Quircke, Robert<br/> Spurrier, Walter",,1743-01-01,#N/A,#N/A
+1743,17072,Henry's,"Africa, port unspecified",Bristol,York River,298,"Little, Joseph",,1743-01-01,#N/A,#N/A
+1743,17079,Nancy,Calabar,Bristol,Upper James River,213,"Malcolme, John",,1743-01-01,4.95,8.31667
+1743,17088,Vernon,Bonny,Bristol,York River,145,"Forrest, Henry",,1743-01-01,4.43333,7.16667
+1743,17089,Williamsburgh,Bonny,Bristol,Upper James River,300,"Lambert, Jonathan<br/> Tate, John",,1743-01-01,4.43333,7.16667
+1744,17091,Amoretta,Calabar,Bristol,Upper James River,,"Crode, John<br/> Revel, Isaac<br/> Russell",,1744-01-01,4.95,8.31667
+1744,17123,Shepherd,Calabar,Bristol,York River,,"Brown, John",,1744-01-01,4.95,8.31667
+1744,92324,Thomas,Gambia,Liverpool,Rappahannock,114,"Wilson, Daniel",,1744-01-01,13.45306,-16.5775
+1744,90416,Gildart,Gambia,Liverpool,"Virginia, port unspecified",,"Holme, Richard",,1744-01-01,13.45306,-16.5775
+1745,17139,Broomfield,"Africa, port unspecified",Bristol,York River,187,"Sharp, Joseph",,1745-01-01,#N/A,#N/A
+1745,17147,Ranger,Gambia,Bristol,York River,185,"Ebsworthy, Thomas",,1745-01-01,13.45306,-16.5775
+1745,90019,Mercury,Gambia,Liverpool,Rappahannock,140,"Bacon, William",,1745-01-01,13.45306,-16.5775
+1745,90054,Saint George,"Africa, port unspecified",Liverpool,York River,,"Grayson, John",,1745-01-01,#N/A,#N/A
+1746,17145,Nancy,"Africa, port unspecified",Bristol,Upper James River,209,"Baber, John",,1746-01-01,#N/A,#N/A
+1746,92505,Planter,"Gold Coast, port unspecified",Liverpool,York River,226,"Foulkes, Thomas",,1746-01-01,5.19077,-1.0992
+1746,92506,Gildart,Gambia,Liverpool,Rappahannock,250,"Holme, Richard",,1746-01-01,13.45306,-16.5775
+1746,17149,Two Brothers,Bonny,Bristol,York River,254,"Jones, William",,1746-01-01,4.43333,7.16667
+1746,17150,Williamsburgh,"Africa, port unspecified",Bristol,Upper James River,360,"Tate, John",,1746-01-01,#N/A,#N/A
+1748,17182,Louisa,Bonny,Bristol,"Virginia, port unspecified",,"Seires, John",,1748-01-01,4.43333,7.16667
+1749,17197,Amoretta,Calabar,Bristol,Upper James River,185,"Timberman, Samuel",,1749-01-01,4.95,8.31667
+1749,17208,Levant,Bonny,Bristol,York River,252,"Miller, William",,1749-01-01,4.43333,7.16667
+1749,17217,Southwell,Malembo,Bristol,Upper James River,284,"Brackenridge, John",,1749-01-01,-5.33333,12.18333
+1749,17224,Tryall,Malembo,Bristol,Upper James River,356,"Saunders, Abraham",,1749-01-01,-5.33333,12.18333
+1749,17226,Williamsburgh,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,335,"Tate, John",,1749-01-01,4.43333,7.16667
+1749,90040,William,Calabar,Liverpool,York River,350,"Simmons, John",,1749-01-01,4.95,8.31667
+1749,90427,Susanna,"Africa, port unspecified",,York River,200,"Fryer, Edward",,1749-01-01,#N/A,#N/A
+1750,25211,Brithe Betty,"Africa, port unspecified",,Rappahannock,136,"Moore, Hugh",,1750-01-01,#N/A,#N/A
+1750,17227,Africa,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,280,"Miller, William<br/> Miller, Alexander",,1750-01-01,4.43333,7.16667
+1750,17238,Hope,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,153,"Clayton, John",,1750-01-01,4.43333,7.16667
+1751,25799,Anne and Susanna,"Africa, port unspecified",,Hampton,48,"Boyes, Michael",,1751-01-01,#N/A,#N/A
+1751,24934,Mary,"Africa, port unspecified",,"Virginia, port unspecified",,"Stainforth, John",,1751-01-01,#N/A,#N/A
+1751,17276,Tryal,"West Central Africa and St. Helena, port unspecified",Bristol,York River,402,"Saunders, Abraham",,1751-01-01,-8.83833,13.23444
+1751,17277,Williamsburgh,Bonny,Bristol,Upper James River,295,"Tate, John<br/> Sword, James",,1751-01-01,4.43333,7.16667
+1751,90357,Penelope,Gambia,Liverpool,Upper James River,208,"Gother, Anthony",,1751-01-01,13.45306,-16.5775
+1752,27091,Happy,Ambriz,Whitehaven,Rappahannock,114,"Lyndon, Roger<br/> Harrison, Henry",,1752-01-01,-7.85,13.11667
+1752,24997,Whittington,"Africa, port unspecified",,Rappahannock,,,,1752-01-01,#N/A,#N/A
+1752,25212,Potomack Merchant,Bonny,Montrose,South Potomac,197,"Gibson, Thomas<br/> Hartley, Richard",,1752-01-01,4.43333,7.16667
+1752,17278,Africa,New Calabar,Bristol,Upper James River,260,"Miller, Alexander",,1752-01-01,4.5742,6.9758
+1752,17279,Ann Gally,Calabar,Bristol,Upper James River,240,"Robe, Alexander",,1752-01-01,4.95,8.31667
+1752,17280,Black Prince,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,York River,214,"Miller, William",,1752-01-01,4.43333,7.16667
+1752,17287,Greyhound,"West Central Africa and St. Helena, port unspecified",Bristol,York River,336,"Davies, John",,1752-01-01,-8.83833,13.23444
+1752,17288,Hampton,Bonny,Bristol,Bermuda Hundred,273,"Skinner, John<br/> Whiltshire, Edward",,1752-01-01,4.43333,7.16667
+1752,17293,Levant,Calabar,Bristol,York River,184,"McMurdo, James",,1752-01-01,4.95,8.31667
+1752,17297,Penelope,"West Central Africa and St. Helena, port unspecified",Bristol,Rappahannock,223,"Clark, John",,1752-01-01,-8.83833,13.23444
+1752,17301,Susanna,Bonny,Bristol,Upper James River,233,"Cowie, Robert",,1752-01-01,4.43333,7.16667
+1752,17304,Tryall,"Africa, port unspecified",Bristol,York River,182,"Little, Joseph",,1752-01-01,#N/A,#N/A
+1752,75242,Castleton,Gambia,Lancaster,Upper James River,70,"Tindale, Henry",,1752-01-01,13.45306,-16.5775
+1752,75889,Molly,"West Central Africa and St. Helena, port unspecified",London,York River,205,"Lane, Joseph",,1752-01-01,-8.83833,13.23444
+1752,76204,Saint Paul,Gambia,London,Hampton,124,"James, Tubley",,1752-01-01,13.45306,-16.5775
+1752,90187,Cumberland,Gambia,Liverpool,York River,103,"Griffin, John",,1752-01-01,13.45306,-16.5775
+1752,90270,Betty (a) Lovely Betty,"Windward Coast, place unspecified",Liverpool,"Virginia, port unspecified",,"Jackson, George",,1752-01-01,#N/A,#N/A
+1752,90278,Boyne,Bonny,Liverpool,York River,203,"Wilkinson, William",,1752-01-01,4.43333,7.16667
+1752,90297,Orrell,Gambia,Liverpool,York River,81,"Lacer, Samuel<br/> Whitesides, John<br/> Griffin, James",,1752-01-01,13.45306,-16.5775
+1752,90304,Minerva,Gambia,Liverpool,Rappahannock,160,"Jordan, Thomas",,1752-01-01,13.45306,-16.5775
+1752,90359,George,"West Central Africa and St. Helena, port unspecified",,Lower James River,54,"Cooke, Charles",,1752-01-01,-8.83833,13.23444
+1752,90404,Alice Gally,"Gold Coast, port unspecified",,York River,260,"Jackson, Richard",,1752-01-01,5.19077,-1.0992
+1752,90413,Elizabeth,Gambia,Liverpool,"Virginia, port unspecified",130,"Hayes, William",,1752-01-01,13.45306,-16.5775
+1753,26100,Delight,Gambia,Montrose,"Virginia, port unspecified",125,"Elphinstone, J",,1753-01-01,13.45306,-16.5775
+1753,24990,Whittington,"Africa, port unspecified",Whitehaven,"Virginia, port unspecified",,"Troughear, Thos",,1753-01-01,#N/A,#N/A
+1753,17305,Africa,"Africa, port unspecified",Bristol,Upper James River,,"Miller, Alexander",,1753-01-01,#N/A,#N/A
+1753,17306,Black Prince,Bonny,Bristol,York River,,"Miller, William",,1753-01-01,4.43333,7.16667
+1753,17316,Hope,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Owens, William<br/> Richardson, James",,1753-01-01,#N/A,#N/A
+1753,90166,Lintot,Calabar,Liverpool,"Virginia, port unspecified",,"Lowe, Ralph",,1753-01-01,4.95,8.31667
+1753,90188,Cumberland,Gambia,Liverpool,"Virginia, port unspecified",,"Allen, Patrick",,1753-01-01,13.45306,-16.5775
+1753,90343,True Blue,Benin,Liverpool,"Virginia, port unspecified",72,"Wade, Benjamin",,1753-01-01,6.3176,5.6145
+1753,90361,Nancy,Gambia,Liverpool,"Virginia, port unspecified",,"Midgley, Thomas",,1753-01-01,13.45306,-16.5775
+1754,17329,Africa,"Africa, port unspecified",Bristol,Upper James River,240,"Miller, Alexander",,1754-01-01,#N/A,#N/A
+1755,17388,Duke of Cumberland,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,301,"Knowles, Henry",,1755-01-01,4.43333,7.16667
+1758,90746,Ann and Betty,"Windward Coast, place unspecified",Liverpool,"Virginia, port unspecified",123,"Nichols, Timothy",Vessel attacked from shore,1758-01-01,#N/A,#N/A
+1758,17431,Betsey,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Rait, Robert",,1758-01-01,#N/A,#N/A
+1759,25800,Petersburg,Gambia,"Virginia, port unspecified",Lower James River,21,"Saunders, Francis",,1759-01-01,13.45306,-16.5775
+1759,26094,Agnes,"Africa, port unspecified",Greenock,"Virginia, port unspecified",,"Duthie, Robert",,1759-01-01,#N/A,#N/A
+1759,27057,Lowther,"Africa, port unspecified",Lancaster,Hampton,,,,1759-01-01,#N/A,#N/A
+1759,90738,Willy,Gambia,Liverpool,"Virginia, port unspecified",,"Clarke, William",,1759-01-01,13.45306,-16.5775
+1759,17432,Black Prince,Malembo,Bristol,Upper James River,500,"Miller, William",,1759-01-01,-5.33333,12.18333
+1759,17441,Molly,Bonny,Bristol,"Virginia, port unspecified",238,"Jenkins, William",,1759-01-01,4.43333,7.16667
+1759,75878,Mildred,Saint-Louis,London,"Virginia, port unspecified",,"Miller, Joseph",,1759-01-01,16.12,-16.5
+1760,25213,Salisbury,"Africa, port unspecified",,Upper James River,76,"Martin, Thomas",,1760-01-01,#N/A,#N/A
+1760,25214,Agnes,Bance/Bunce Island,Greenock,Upper James River,202,"Duthie, Robert",,1760-01-01,#N/A,#N/A
+1760,75026,Africa Packet,Saint-Louis,London,Hampton,60,"Manson, Robert<br/> Morris",,1760-01-01,16.12,-16.5
+1760,90670,Mary,Bonny,Liverpool,Rappahannock,128,"Kelly, John<br/> Cottyman, Thomas<br/> Kerr, Daniel",,1760-01-01,4.43333,7.16667
+1760,90799,Juba,Iles de Los,Liverpool,Upper James River,225,"Tallon, John",,1760-01-01,9.48039,-13.79534
+1760,17455,Eugene,"Windward Coast, place unspecified",Bristol,Upper James River,359,"Strange, William<br/> Engledue, William",,1760-01-01,#N/A,#N/A
+1760,76153,Sarah,Saint-Louis,London,South Potomac,80,"Coverdale, Norrison",,1760-01-01,16.12,-16.5
+1760,77725,Woodford,"Africa, port unspecified",London,Potomac river,,"Hall, Jno",,1760-01-01,#N/A,#N/A
+1760,90338,Marques of Rockingham,Sierra Leone estuary,Liverpool,Rappahannock,200,"Evans, George",,1760-01-01,6.49613,-13.17066
+1761,24838,Richardson,Saint-Louis,Whitehaven,"Virginia, port unspecified",,"Miller, Jos",,1761-01-01,16.12,-16.5
+1761,90760,Alice,Loango,Liverpool,Rappahannock,122,"Murdock, Samuel",,1761-01-01,-4.65194,11.8125
+1761,90783,Hare,Banana Islands,Liverpool,Rappahannock,258,"Colley, George",,1761-01-01,8.10473,-13.22867
+1761,90822,Dove,"Senegambia and offshore Atlantic, port unspecified",Liverpool,Rappahannock,140,"Williams, Hugh",,1761-01-01,15.38333,-16.78333
+1761,90856,Peggy,Iles de Los,Liverpool,Rappahannock,147,"Davies, Cuthbert",,1761-01-01,9.48039,-13.79534
+1761,90873,Eadith,Bassa,Liverpool,York River,154,"Jordan, Thomas",,1761-01-01,5.98,-10.14983
+1761,90880,Bassa,"Windward Coast, place unspecified",Liverpool,Rappahannock,170,"Lowe, William",,1761-01-01,#N/A,#N/A
+1761,90888,William and Edward,"Windward Coast, place unspecified",Liverpool,Rappahannock,117,"Foster, William",,1761-01-01,#N/A,#N/A
+1761,90920,Nanny,Saint-Louis,Liverpool,Upper James River,110,"McDougal, James",,1761-01-01,16.12,-16.5
+1761,17483,Greyhound,"Africa, port unspecified",Bristol,Upper James River,215,"Robe, Alexander",,1761-01-01,#N/A,#N/A
+1761,75563,Granby,Gorée,London,York River,37,"Furlong, William",,1761-01-01,#N/A,#N/A
+1762,21911,Agnes,Gambia,Greenock,"Virginia, port unspecified",118,"Duthie, Robert",,1762-01-01,13.45306,-16.5775
+1762,36251,Little Betsey,"Africa, port unspecified","Rhode Island, port unspecified",York River,64,"Hicks, Benj",,1762-01-01,#N/A,#N/A
+1762,36255,Nancy,Cape Coast Castle,"Rhode Island, port unspecified","Virginia, port unspecified",170,"Rodman, William",,1762-01-01,5.18251,-1.11662
+1762,90921,Nanny,Saint-Louis,Liverpool,"Virginia, port unspecified",103,"McDougal, James",,1762-01-01,16.12,-16.5
+1762,90946,Lancashire Witch,"Windward Coast, place unspecified",Liverpool,Rappahannock,186,"Ross, Henry",,1762-01-01,#N/A,#N/A
+1762,90949,Panther,"Gold Coast, port unspecified",Liverpool,Rappahannock,106,"Davis, Thomas<br/> Kempstead, Benjamin",,1762-01-01,5.19077,-1.0992
+1762,90963,Polly,"Senegambia and offshore Atlantic, port unspecified",Liverpool,Rappahannock,222,"Boyd, Robert<br/> Carrol, Hugh",,1762-01-01,15.38333,-16.78333
+1762,90983,Briton,"Whydah, Ouidah",Liverpool,Rappahannock,180,"Bagshaw, William<br/> Wilson, David",,1762-01-01,#N/A,#N/A
+1762,17506,Hector,"West Central Africa and St. Helena, port unspecified",Bristol,Upper James River,512,"Chilcott, John",,1762-01-01,-8.83833,13.23444
+1762,17741,Roebuck,Bonny,Bristol,Upper James River,383,"Gullan, Thomas",,1762-01-01,4.43333,7.16667
+1762,75976,Phoenix,Cape Coast Castle,London,"Virginia, port unspecified",,"McGachen, Wm",Slave insurrection,1762-01-01,5.18251,-1.11662
+1762,77757,Hawke,"Africa, port unspecified",London,Rappahannock,93,"Watson, John",,1762-01-01,#N/A,#N/A
+1763,25224,Durnell,"Africa, port unspecified",Boston,Upper James River,80,"Spear, Gresham",,1763-01-01,#N/A,#N/A
+1763,25305,Elizabeth and Mary,"Africa, port unspecified",Philadelphia,Rappahannock,80,"Taylor, William",,1763-01-01,#N/A,#N/A
+1763,25306,Thomas,"Africa, port unspecified","Virginia, port unspecified",Hampton,60,"Thomas, Charles",,1763-01-01,#N/A,#N/A
+1763,25307,Pompey,"Windward Coast, place unspecified",,Bermuda Hundred,81,"Easton, John",,1763-01-01,#N/A,#N/A
+1763,36269,Little Sally,"Africa, port unspecified","Rhode Island, port unspecified",Upper James River,62,"Taylor, William",,1763-01-01,#N/A,#N/A
+1763,91010,Renown,"Windward Coast, place unspecified",Liverpool,Upper James River,170,"Pemberton, Samuel",,1763-01-01,#N/A,#N/A
+1763,17518,Africa,Bonny,Bristol,Upper James River,270,"Watkins, William",,1763-01-01,4.43333,7.16667
+1763,17549,Greyhound,Bonny,Bristol,Upper James River,421,"Robe, Alexander",,1763-01-01,4.43333,7.16667
+1764,91085,True Blue,Benin,Liverpool,Upper James River,361,"Hutton, Joshua",,1764-01-01,6.3176,5.6145
+1764,17550,Hector,Malembo,Bristol,Upper James River,480,"Chilcott, John",,1764-01-01,-5.33333,12.18333
+1764,75173,Black Prince,Saint-Louis,London,Rappahannock,81,"Watson, John",,1764-01-01,16.12,-16.5
+1764,75527,Friendship,Saint-Louis,London,"Virginia, port unspecified",,Webster,,1764-01-01,16.12,-16.5
+1765,25308,Alice,Saint-Louis,"Virginia, port unspecified",South Potomac,71,"Sinclair, Arthur",,1765-01-01,16.12,-16.5
+1765,25309,Black Prince,"Africa, port unspecified",,Bermuda Hundred,120,"Thomas, Charles",,1765-01-01,#N/A,#N/A
+1766,91059,Apollo,"Africa, port unspecified",Liverpool,Bermuda Hundred,197,"Glover, Elias",,1766-01-01,#N/A,#N/A
+1766,91118,Bassa,"Africa, port unspecified",Liverpool,Upper James River,108,"Arney, John<br/> Emery<br/> Clegg, Richard",,1766-01-01,#N/A,#N/A
+1767,36345,Othello,"Africa, port unspecified","Rhode Island, port unspecified","Virginia, port unspecified",87,"Duncan, John",,1767-01-01,#N/A,#N/A
+1768,70016,Othello,"Africa, port unspecified",,"Virginia, port unspecified",90,"Duncan, John",,1768-01-01,#N/A,#N/A
+1768,91253,Delight,Mano,Liverpool,"Virginia, port unspecified",,"Millroy, William",,1768-01-01,6.98333,-11.28333
+1768,17650,Juba,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,207,"White, Joseph",,1768-01-01,-8.83833,13.23444
+1769,36371,Othello,Anomabu,"Rhode Island, port unspecified",Upper James River,76,"Duncan, John<br/> Goodman<br/> Halvorson",,1769-01-01,5.1667,-1.1167
+1769,17687,Amelia,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,234,"Duncombe, Thomas",,1769-01-01,-8.83833,13.23444
+1770,91580,Martha,Bassa,Liverpool,Bermuda Hundred,148,"Bisbrown, John",,1770-01-01,5.98,-10.14983
+1770,91592,Aston,Gambia,Liverpool,Upper James River,143,"Clifton, John",,1770-01-01,13.45306,-16.5775
+1770,91463,Peggy,"Windward Coast, place unspecified",Liverpool,Georgetown,144,"Sharp, William",,1770-01-01,#N/A,#N/A
+1770,91540,Yanimarew,Gambia,Liverpool,Bermuda Hundred,240,"Atkinson, Thomas",,1770-01-01,13.45306,-16.5775
+1770,17730,Industry,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,160,"Wright, Mungo",,1770-01-01,-8.83833,13.23444
+1771,24688,Cambridge,Cameroons,,"Virginia, port unspecified",,Hatton,,1771-01-01,3.91309,9.58062
+1771,36404,Othello,Anomabu,Newport,Rappahannock,87,"Duncan, John<br/> Stanton, John",,1771-01-01,5.1667,-1.1167
+1771,91678,Friendship,Gambia,Liverpool,Hampton,13,"Field, Stephen",,1771-01-01,13.45306,-16.5775
+1772,91789,Union,Anomabu,Liverpool,Osborne's Landing,280,"Pole, Charles",,1772-01-01,5.1667,-1.1167
+1772,91803,Fox,Cameroons,Liverpool,"Virginia, port unspecified",250,"Peers, John",,1772-01-01,3.91309,9.58062
+1772,70017,Othello,"Africa, port unspecified",,"Virginia, port unspecified",,"Duncan, John",,1772-01-01,#N/A,#N/A
+1772,91402,Nancy,"Sierra Leone, port unspecified",Liverpool,Osborne's Landing,250,"Colley, James Eckley",,1772-01-01,8.3,-13.23
+1772,17792,Polly,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,450,"Duncomb, Thomas",,1772-01-01,-8.83833,13.23444
+1772,17794,Thomas,,Bristol,Osborne's Landing,200,"Lewis, Thomas",,1772-01-01,#N/A,#N/A
+1772,17821,Prince of Wales,Calabar,Bristol,Bermuda Hundred,280,"Bivins, James",,1772-01-01,4.95,8.31667
+1773,36443,Othello,Anomabu,Newport,Rappahannock,63,"Duncan, John",,1773-01-01,5.1667,-1.1167
+1774,24744,Trident,"Africa, port unspecified",,"Virginia, port unspecified",,"Mitchell, James",,1774-01-01,#N/A,#N/A

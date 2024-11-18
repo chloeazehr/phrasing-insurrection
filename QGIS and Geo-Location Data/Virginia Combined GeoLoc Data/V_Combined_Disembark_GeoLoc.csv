@@ -1,0 +1,712 @@
+Year of arrival at port of disembarkation,Voyage ID,Vessel name,,Voyage itinerary imputed principal place of slave purchase (mjbyptimp) ,Voyage itinerary imputed principal port of slave disembarkation (mjslptimp) place,Captives arrived at 1st port,Captain's name,,Date,latitude,longitude
+1736,101033,Bermuda Merchant,,"St. Kitts, port unspecified",Lower James River,6,"Corbusier, Giles",,1736-01-01,36.95002,-76.38292
+1736,101034,Neptune,,Bermuda,Lower James River,1,"Harvey, Seth",,1736-01-01,36.95002,-76.38292
+1736,101035,Domingo,,"St. Kitts, port unspecified",Lower James River,2,"Williams, William",,1736-01-01,36.95002,-76.38292
+1736,101036,Saunders,,"Barbados, place unspecified",Lower James River,3,"Calvert, Cornelius",,1736-01-01,36.95002,-76.38292
+1736,101037,Saunders,,"Antigua, place unspecified",Lower James River,1,"Archer, Edward",,1736-01-01,36.95002,-76.38292
+1736,101038,Rebecca and Batchelor,,Bermuda,York River,1,"Robinson, William",,1736-01-01,37.2268,-76.45376
+1736,101039,Hampton,,"Barbados, place unspecified",Lower James River,3,"Tucker, John",,1736-01-01,36.95002,-76.38292
+1736,101040,Providence,,"Jamaica, place unspecified",Lower James River,2,"Ivy, Joseph",,1736-01-01,36.95002,-76.38292
+1736,101041,Saint George,,"Barbados, place unspecified",Lower James River,2,"Parke, Julius Caesar",,1736-01-01,36.95002,-76.38292
+1736,101042,Abingdon,,"Barbados, place unspecified",York River,2,"Westcott, John",,1736-01-01,37.2268,-76.45376
+1736,101043,Ann and Frances,,"Barbados, place unspecified",Lower James River,3,"Connor, William",,1736-01-01,36.95002,-76.38292
+1736,101044,Industry,,"Barbados, place unspecified",Hampton,6,"Westcott, John",,1736-01-01,37.0297,-76.3456
+1736,101045,Unity,,Spanish Town,Hampton,1,"White, Charles",,1736-01-01,37.0297,-76.3456
+1736,101046,Tryall,,"Jamaica, place unspecified",Hampton,1,"Dickenson, John",,1736-01-01,37.0297,-76.3456
+1736,101047,Ann,,Bermuda,Upper James River,3,"Dickenson, James",,1736-01-01,37.5184,-77.42742
+1736,101048,Saunders,,Bermuda,Hampton,4,"Thomas, John",,1736-01-01,37.0297,-76.3456
+1736,101049,John and Mary,,"Barbados, place unspecified",York River,1,"Tillidge, Richard",,1736-01-01,37.2268,-76.45376
+1736,101050,John,,"Montserrat, port unspecified",Hampton,2,"Ober, Hezekiah",,1736-01-01,37.0297,-76.3456
+1736,101051,Increase,,"Barbados, place unspecified",Upper James River,1,"Darrell, William",,1736-01-01,37.5184,-77.42742
+1736,101052,Elizabeth,,Bermuda,Hampton,2,"Robinson, Robert",,1736-01-01,37.0297,-76.3456
+1736,101053,Brunswick,,Boston,Upper James River,1,"Shippard, William",,1736-01-01,37.5184,-77.42742
+1736,101054,Henry and Benjamin,,"Jamaica, place unspecified",Upper James River,1,"Friend, Thomas",,1736-01-01,37.5184,-77.42742
+1736,101055,Charming Ann,,"Antigua, place unspecified",Hampton,1,"Browne, John",,1736-01-01,37.0297,-76.3456
+1736,101056,Mary and Elizabeth,,"Antigua, place unspecified",Hampton,2,"Brown, Bristow",,1736-01-01,37.0297,-76.3456
+1737,101057,Clotilda,,"Barbados, place unspecified",Rappahannock,7,"Bouch, Elihu",,1737-01-01,37.59826,-76.38813
+1737,101058,Priscilla,,"Jamaica, place unspecified",Hampton,1,"Sinnot, Charles",,1737-01-01,37.0297,-76.3456
+1737,101059,Phoenix,,"St. Kitts, port unspecified",Hampton,2,"Hutchinson, Joel",,1737-01-01,37.0297,-76.3456
+1737,101060,Saunders,,"Anguilla, port unspecified",Hampton,3,"Thomas, John",,1737-01-01,37.0297,-76.3456
+1737,101061,Mary and Elizabeth,,Bermuda,Hampton,4,"Brown, Bristow",,1737-01-01,37.0297,-76.3456
+1737,101062,Sarah,,"Barbados, place unspecified",Hampton,5,"Tucker, John",,1737-01-01,37.0297,-76.3456
+1737,101063,William,,"Barbados, place unspecified",Rappahannock,2,"Taylor, Joseph",,1737-01-01,37.59826,-76.38813
+1737,101064,Elizabeth,,Bermuda,Hampton,2,"Robinson, Robert",,1737-01-01,37.0297,-76.3456
+1737,101065,Anne,,"Jamaica, place unspecified",Hampton,3,"McNary, William",,1737-01-01,37.0297,-76.3456
+1737,101066,Saunders,,"Barbados, place unspecified",Hampton,1,"Calvert, Cornelius",,1737-01-01,37.0297,-76.3456
+1737,101067,Elizabeth and Margaret,,"Antigua, place unspecified",Hampton,7,"Wishart, William",,1737-01-01,37.0297,-76.3456
+1737,101068,Molly,,"Barbados, place unspecified",Hampton,2,"Moseley, Anthony",,1737-01-01,37.0297,-76.3456
+1737,101069,Neptune,,"Antigua, place unspecified",Rappahannock,20,"Boyd, Thomas",,1737-01-01,37.59826,-76.38813
+1737,101070,Frances,,"St. Kitts, port unspecified",Hampton,36,"Miller, Mason",,1737-01-01,37.0297,-76.3456
+1737,101071,Phoenix,,"Jamaica, place unspecified",Hampton,4,"Savage, Habijah",,1737-01-01,37.0297,-76.3456
+1737,101072,Abingdon,,"Barbados, place unspecified",York River,4,"Westcott, John",,1737-01-01,37.2268,-76.45376
+1737,101073,Antigua Merchant,,Lower James River,Upper James River,11,"Payne, Arthur",,1737-01-01,37.5184,-77.42742
+1737,101074,Rebecca and Freelove,,"Barbados, place unspecified",Hampton,1,"Brett, John",,1737-01-01,37.0297,-76.3456
+1737,101075,Anne,,Bermuda,Hampton,4,"Dickenson, James",,1737-01-01,37.0297,-76.3456
+1737,101076,Pembrooke,,Bermuda,Hampton,1,"Tucker, St. George",,1737-01-01,37.0297,-76.3456
+1737,101077,Tryall,,Boston,Hampton,1,"Lear, Tobias",,1737-01-01,37.0297,-76.3456
+1737,101078,Glasgow,,"St. Kitts, port unspecified",Hampton,24,"Bulkley, James",,1737-01-01,37.0297,-76.3456
+1738,101079,Sarah,,Boston,Hampton,1,"Thomas, Joshua",,1738-01-01,37.0297,-76.3456
+1738,101080,Merrimack,,Boston,Hampton,1,"Robinson, John",,1738-01-01,37.0297,-76.3456
+1738,101081,Susannah,,"Jamaica, place unspecified",Hampton,1,"Nelms, Thomas",,1738-01-01,37.0297,-76.3456
+1738,101082,Frances,,Bermuda,Lower James River,1,"Butterfield, Benjamin",,1738-01-01,36.95002,-76.38292
+1738,101083,Unity,,"St. Kitts, port unspecified",Lower James River,81,"Corbitt, James",,1738-01-01,36.95002,-76.38292
+1738,101084,Phoenix,,"Barbados, place unspecified",Lower James River,33,"Newton, Thomas",,1738-01-01,36.95002,-76.38292
+1738,101085,Amy,,"Barbados, place unspecified",Lower James River,16,"Savage, Habijah",,1738-01-01,36.95002,-76.38292
+1738,101086,Frederica,,"Georgia, port unspecified",Lower James River,67,"Goodwin, John",,1738-01-01,36.95002,-76.38292
+1738,101087,Saint Michael,,"Barbados, place unspecified",Lower James River,1,"Hutchinson, Joel",,1738-01-01,36.95002,-76.38292
+1738,101088,William and Betty,,"Jamaica, place unspecified",Lower James River,1,"Moore, James",,1738-01-01,36.95002,-76.38292
+1738,101089,Industry,,"Barbados, place unspecified",Lower James River,2,"Hancock, William",,1738-01-01,36.95002,-76.38292
+1738,101090,Molly,,"Barbados, place unspecified",York River,3,"Thompson, John",,1738-01-01,37.2268,-76.45376
+1738,101091,Nancy,,"Barbados, place unspecified",Upper James River,1,"Johnston, Samuel",,1738-01-01,37.5184,-77.42742
+1738,101092,Glasgow,,"St. Kitts, port unspecified",Lower James River,21,"Bulkley, John",,1738-01-01,36.95002,-76.38292
+1738,101093,Anne,,Bermuda,Hampton,3,"Dickenson, James",,1738-01-01,37.0297,-76.3456
+1738,101094,Three Friends,,"Antigua, place unspecified",Hampton,9,"Farr, John",,1738-01-01,37.0297,-76.3456
+1738,101095,Grampus,,New England,York River,1,"Brigges, John",,1738-01-01,37.2268,-76.45376
+1738,101096,Ruby,,Bermuda,Hampton,5,"Paynter, Paul",,1738-01-01,37.0297,-76.3456
+1738,101097,Saint Michael,,"Barbados, place unspecified",Hampton,5,"Hutchinson, Joel",,1738-01-01,37.0297,-76.3456
+1738,101098,Thistle,,Philadelphia,Hampton,1,"Wilson, John",,1738-01-01,37.0297,-76.3456
+1738,101099,Exeter,,Charleston,Upper James River,7,"Duncome, Nehemiah",,1738-01-01,37.5184,-77.42742
+1738,101100,Race Horse,,Boston,Hampton,1,"Odiorne, John",,1738-01-01,37.0297,-76.3456
+1738,101101,Nassaw,,Boston,Upper James River,2,"Miller, John",,1738-01-01,37.5184,-77.42742
+1739,101102,Hopewell,,"Rhode Island, port unspecified",York River,1,"Armstrong, John",,1739-01-01,37.2268,-76.45376
+1739,101103,Jane,,"Antigua, place unspecified",Hampton,10,"Rooke, Edward",,1739-01-01,37.0297,-76.3456
+1739,101104,Ruby,,"Barbados, place unspecified",Hampton,2,"Tarrant, William",,1739-01-01,37.0297,-76.3456
+1739,101105,Boyde,,"St. Kitts, port unspecified",Hampton,1,"Lambeth, John",,1739-01-01,37.0297,-76.3456
+1739,101106,Robert,,"Barbados, place unspecified",Hampton,2,"Rogers, Samuel",,1739-01-01,37.0297,-76.3456
+1739,101107,Margaret,,"Barbados, place unspecified",Hampton,1,"Williamson, Thomas",,1739-01-01,37.0297,-76.3456
+1739,101108,Martha and Mary,,"Barbados, place unspecified",Hampton,11,"Cooper, Samuel",,1739-01-01,37.0297,-76.3456
+1739,101109,Eagle,,"Antigua, place unspecified",Hampton,15,"Jennings, Richard",,1739-01-01,37.0297,-76.3456
+1739,101110,Saint Michael,,"Barbados, place unspecified",Hampton,1,"Nicholson, John",,1739-01-01,37.0297,-76.3456
+1739,101111,Anne,,"Jamaica, place unspecified",Hampton,7,"Ivy, William",,1739-01-01,37.0297,-76.3456
+1739,101112,Robert and John,,"Barbados, place unspecified",Hampton,1,"Cooke, John",,1739-01-01,37.0297,-76.3456
+1739,101113,Molly,,"Barbados, place unspecified",Hampton,4,"Northcott, James",,1739-01-01,37.0297,-76.3456
+1739,101114,Sea Nymph,,"Maryland, port unspecified",York River,1,"Ashington, Thomas",,1739-01-01,37.2268,-76.45376
+1739,101116,Rebecca and Freelove,,"Jamaica, place unspecified",Hampton,11,"Brett, John",,1739-01-01,37.0297,-76.3456
+1739,101117,Little Molly,,"Jamaica, place unspecified",Hampton,1,"Miller, Henry",,1739-01-01,37.0297,-76.3456
+1739,101118,Mary,,Bermuda,Hampton,7,"James, Benjamin",,1739-01-01,37.0297,-76.3456
+1739,101119,Mary,,Bermuda,Hampton,8,"Brownlow, Israel",,1739-01-01,37.0297,-76.3456
+1740,101120,Breda,,"South Carolina, place unspecified",Upper James River,4,"Pitman, William",,1740-01-01,37.5184,-77.42742
+1740,101121,Anne and Mary,,"Jamaica, place unspecified",Hampton,3,"Sinnot, Charles",,1740-01-01,37.0297,-76.3456
+1740,101122,Charity,,Bermuda,Hampton,1,"Gibbs, George",,1740-01-01,37.0297,-76.3456
+1740,101123,Saint Michael,,"Barbados, place unspecified",Hampton,1,"Nicholas, Isaiah",,1740-01-01,37.0297,-76.3456
+1740,101125,Little Molly,,"Barbados, place unspecified",Hampton,2,"Miller, Henry",,1740-01-01,37.0297,-76.3456
+1740,101126,Mary,,Bermuda,Hampton,1,"Brownlow, Israel",,1740-01-01,37.0297,-76.3456
+1740,101127,Anne,,"St. Kitts, port unspecified",Hampton,32,"Walker, George",,1740-01-01,37.0297,-76.3456
+1740,101128,Ann and Frances,,"Barbados, place unspecified",Hampton,3,"Nicholas, Andrew",,1740-01-01,37.0297,-76.3456
+1740,101129,Caledonia,,"Antigua, place unspecified",Hampton,20,"Moncrieff, George",,1740-01-01,37.0297,-76.3456
+1740,101130,Catherine,,"Barbados, place unspecified",Hampton,4,"Murray, Alexander",,1740-01-01,37.0297,-76.3456
+1740,101131,Molly,,"Barbados, place unspecified",Hampton,16,"Northcott, John",,1740-01-01,37.0297,-76.3456
+1740,101132,Pugh,,"Barbados, place unspecified",Hampton,8,"Gardener, Christopher",,1740-01-01,37.0297,-76.3456
+1740,101133,Tryall,,"St. Kitts, port unspecified",Hampton,16,"Brown, Hugh",,1740-01-01,37.0297,-76.3456
+1740,101134,Saunders,,"Antigua, place unspecified",Hampton,1,"Calvert, Cornelius",,1740-01-01,37.0297,-76.3456
+1740,101135,Anne,,"St. Kitts, port unspecified",Hampton,31,"Leycroft, Oliver",,1740-01-01,37.0297,-76.3456
+1740,101136,Crusier,,"Barbados, place unspecified",Hampton,2,"Westcott, Wright",,1740-01-01,37.0297,-76.3456
+1740,101137,Boyde,,"Jamaica, place unspecified",Hampton,6,"Lambert, John",,1740-01-01,37.0297,-76.3456
+1740,101138,Charming Sally,,"St. Kitts, port unspecified",Hampton,36,"Maxwell, John",,1740-01-01,37.0297,-76.3456
+1740,101139,Swan,,Boston,Upper James River,1,"Doggett, Joseph",,1740-01-01,37.5184,-77.42742
+1740,101140,Little Molly,,"Barbados, place unspecified",Upper James River,1,"Cabonis, George",,1740-01-01,37.5184,-77.42742
+1740,101141,Vine,,"Antigua, place unspecified",Hampton,4,"Murray, James",,1740-01-01,37.0297,-76.3456
+1740,101142,Anne and Mary,,"Jamaica, place unspecified",Hampton,7,"Sinnot, Charles",,1740-01-01,37.0297,-76.3456
+1740,101143,Fanny,,"St. Kitts, port unspecified",Hampton,2,"Furmidge, William",,1740-01-01,37.0297,-76.3456
+1740,101144,Catherine,,"Barbados, place unspecified",Hampton,15,"Murray, Alexander",,1740-01-01,37.0297,-76.3456
+1740,101145,William,,"Jamaica, place unspecified",Hampton,7,"Connor, William",,1740-01-01,37.0297,-76.3456
+1740,101146,Anne,,"St. Kitts, port unspecified",Hampton,2,"Leycroft, Oliver",,1740-01-01,37.0297,-76.3456
+1740,101147,Lucy,,"Jamaica, place unspecified",Upper James River,3,"Goodman, Thomas",,1740-01-01,37.5184,-77.42742
+1740,101148,Adventure,,"Jamaica, place unspecified",Hampton,6,"Bayne, Alexander",,1740-01-01,37.0297,-76.3456
+1740,101149,Speedwell,,New Providence,Upper James River,2,"Duncome, Nehemiah",,1740-01-01,37.5184,-77.42742
+1741,101150,Endeavour,,"St. Kitts, port unspecified",Hampton,2,"Hawkins, James",,1741-01-01,37.0297,-76.3456
+1741,101151,Anne,,"St. Kitts, port unspecified",Hampton,3,"Newton, Wilson",,1741-01-01,37.0297,-76.3456
+1741,101152,Anne,,"Nevis, port unspecified",Hampton,2,"Hutchinson, Joel",,1741-01-01,37.0297,-76.3456
+1741,101153,Eleanor,,"Antigua, place unspecified",Hampton,10,"Thompson, John",,1741-01-01,37.0297,-76.3456
+1741,101154,Shear Water,,New London,Hampton,1,"Bradick, John",,1741-01-01,37.0297,-76.3456
+1741,101155,Catherine,,"Barbados, place unspecified",Hampton,2,"Murray, Alexander",,1741-01-01,37.0297,-76.3456
+1741,101156,Griffin,,"Barbados, place unspecified",Rappahannock,12,"Dixon, Joshua",,1741-01-01,37.59826,-76.38813
+1741,101157,Royal Ranger,,"Barbados, place unspecified",Hampton,3,"Frith, Solomon",,1741-01-01,37.0297,-76.3456
+1741,101158,Friendly Society,,"Barbados, place unspecified",Hampton,26,"Dickenson, Francis",,1741-01-01,37.0297,-76.3456
+1741,101159,Joseph,,Bermuda,Hampton,1,"Ingham, John",,1741-01-01,37.0297,-76.3456
+1741,101160,Martha and Susanna,,"Antigua, place unspecified",Hampton,15,"Greatbeach, Thomas",,1741-01-01,37.0297,-76.3456
+1741,101161,Pugh,,"Antigua, place unspecified",Hampton,3,"Gardner, Christopher",,1741-01-01,37.0297,-76.3456
+1741,101162,Jane and Elizabeth,,"Barbados, place unspecified",Hampton,2,"Seward, Thomas",,1741-01-01,37.0297,-76.3456
+1741,101163,Polly,,"St. Kitts, port unspecified",Hampton,18,"Ivy, Joseph",,1741-01-01,37.0297,-76.3456
+1741,101164,Grand Master,,"St. Kitts, port unspecified",Hampton,10,"Hall, Thomas",,1741-01-01,37.0297,-76.3456
+1741,101165,Endeavour,,"Barbados, place unspecified",Hampton,18,"Cooke, John",,1741-01-01,37.0297,-76.3456
+1741,101166,Saint Michael,,"Barbados, place unspecified",Hampton,7,"Miller, Henry",,1741-01-01,37.0297,-76.3456
+1741,101167,Oliver,,"Antigua, place unspecified",Hampton,10,"Payne, James",,1741-01-01,37.0297,-76.3456
+1741,101168,Dragon,,Philadelphia,Hampton,1,"Hughs, Constant.",,1741-01-01,37.0297,-76.3456
+1741,101169,Susanna,,"Barbados, place unspecified",Rappahannock,3,"Miller, Mason",,1741-01-01,37.59826,-76.38813
+1741,101170,Fanny,,Bermuda,Upper James River,1,"Darrell, Henry",,1741-01-01,37.5184,-77.42742
+1741,101171,John and Mary,,"Barbados, place unspecified",York River,27,"Tillidge, Richard",,1741-01-01,37.2268,-76.45376
+1741,101172,Saunders,,"Barbados, place unspecified",Lower James River,1,"Calvert, Jonathan",,1741-01-01,36.95002,-76.38292
+1741,101173,Sarah and Hannah,,"Antigua, place unspecified",Upper James River,10,"Friend, Thomas",,1741-01-01,37.5184,-77.42742
+1741,101174,Industry,,"Barbados, place unspecified",Hampton,41,"Malbone, Reo'd",,1741-01-01,37.0297,-76.3456
+1741,101175,Mary,,Bermuda,Hampton,3,"Smith, Samuel",,1741-01-01,37.0297,-76.3456
+1741,101176,Joseph,,Bermuda,Hampton,1,"Pitt, William",,1741-01-01,37.0297,-76.3456
+1741,101177,Sarah and Elizabeth,,Bermuda,York River,1,"Wainwright, William",,1741-01-01,37.2268,-76.45376
+1741,101178,Elizabeth,,Bermuda,Hampton,2,"Higgs, William",,1741-01-01,37.0297,-76.3456
+1741,101179,Margaret and Mary,,Philadelphia,Hampton,1,"Millet, John",,1741-01-01,37.0297,-76.3456
+1741,101180,Mary,,"Antigua, place unspecified",Hampton,2,"Thibou, John",,1741-01-01,37.0297,-76.3456
+1741,101181,Diamond,,Bermuda,Hampton,1,"Sears, John",,1741-01-01,37.0297,-76.3456
+1741,101182,Anne,,Bermuda,Hampton,2,"Griffin, Charles",,1741-01-01,37.0297,-76.3456
+1741,101183,Pugh,,"Barbados, place unspecified",Hampton,1,"Dixon, Adam",,1741-01-01,37.0297,-76.3456
+1741,101184,Elizabeth,,Bermuda,Hampton,4,"Godfrey, William",,1741-01-01,37.0297,-76.3456
+1741,101185,Anne and Mary,,"Barbados, place unspecified",Hampton,10,"Irwin, John",,1741-01-01,37.0297,-76.3456
+1741,101186,Delight,,Bermuda,Upper James River,1,"Wells, Jeremiah",,1741-01-01,37.5184,-77.42742
+1741,101187,Endeavour,,"Barbados, place unspecified",Hampton,1,"Morrice, William",,1741-01-01,37.0297,-76.3456
+1741,101188,Robert and John,,"Barbados, place unspecified",Hampton,2,"Boswell, Benjamin",,1741-01-01,37.0297,-76.3456
+1741,101189,Molly,,Bermuda,Hampton,1,"Darrell, Joseph",,1741-01-01,37.0297,-76.3456
+1741,101190,Industry,,Bermuda,York River,1,"Dill, Joseph",,1741-01-01,37.2268,-76.45376
+1742,101191,Two Brothers,,Boston,Hampton,1,"Collins, Daniel",,1742-01-01,37.0297,-76.3456
+1742,101192,Pugh,,"Barbados, place unspecified",Hampton,6,"Dixon, Adam",,1742-01-01,37.0297,-76.3456
+1742,101193,Two Sisters,,"Barbados, place unspecified",Hampton,34,"Sinnot, Charles<br/> Conyards, Samuel",,1742-01-01,37.0297,-76.3456
+1742,101194,Nonpareil,,Bermuda,Hampton,1,"Watkins, John",,1742-01-01,37.0297,-76.3456
+1742,101195,Dragon,,Philadelphia,Hampton,1,"Stevens, Philip",,1742-01-01,37.0297,-76.3456
+1742,101196,Sea Horse,,"St. Kitts, port unspecified",Hampton,5,"Williams, John",,1742-01-01,37.0297,-76.3456
+1742,101197,Industry,,"Barbados, place unspecified",Hampton,1,"Malbone, Reo'd",,1742-01-01,37.0297,-76.3456
+1742,101198,Mary,,"Antigua, place unspecified",Hampton,3,"Thibou, John",,1742-01-01,37.0297,-76.3456
+1742,101199,Betty,,"Barbados, place unspecified",Hampton,6,"Revel, Isaac",,1742-01-01,37.0297,-76.3456
+1742,101200,Anne and Mary,,"St. Kitts, port unspecified",Hampton,6,"Irwin, John",,1742-01-01,37.0297,-76.3456
+1742,101201,Robert and John,,"Barbados, place unspecified",Hampton,1,"Boswell, Benjamin",,1742-01-01,37.0297,-76.3456
+1742,101202,Sarah and Hannah,,"Barbados, place unspecified",Upper James River,1,"Friend, Thomas",,1742-01-01,37.5184,-77.42742
+1742,101203,Vernon,,"Barbados, place unspecified",Upper James River,17,"Brown, John",,1742-01-01,37.5184,-77.42742
+1742,101204,Clyde,,"Antigua, place unspecified",Upper James River,2,"McCunn, John",,1742-01-01,37.5184,-77.42742
+1742,101205,Breda,,Bermuda,Hampton,1,"Young, William",,1742-01-01,37.0297,-76.3456
+1742,101206,Guy,,"Barbados, place unspecified",Hampton,3,"Shurwin, John",,1742-01-01,37.0297,-76.3456
+1742,101207,Molly,,"Barbados, place unspecified",Hampton,14,"Baker, Joshua",,1742-01-01,37.0297,-76.3456
+1742,101208,Kitty and Nora,,"Barbados, place unspecified",Upper James River,3,"Robertson, William",,1742-01-01,37.5184,-77.42742
+1742,101209,Mary,,"Antigua, place unspecified",Hampton,2,"Thibou, John",,1742-01-01,37.0297,-76.3456
+1742,101210,Deborah,,"Rhode Island, port unspecified",Hampton,1,"Montgomery, Adam",,1742-01-01,37.0297,-76.3456
+1742,101211,Nonpareil,,Bermuda,Hampton,1,"Gilbert, Daniel",,1742-01-01,37.0297,-76.3456
+1742,101212,Friendship,,Bermuda,Hampton,1,"Jennings, Henry",,1742-01-01,37.0297,-76.3456
+1742,101213,Charming Molly,,Bermuda,Hampton,1,"Butterfield, Nathaniel",,1742-01-01,37.0297,-76.3456
+1742,101214,Elizabeth,,Bermuda,Hampton,1,"Gilbert, Benjamin",,1742-01-01,37.0297,-76.3456
+1742,101215,Molly,,Bermuda,Hampton,1,"Darrell, Joseph",,1742-01-01,37.0297,-76.3456
+1742,101216,Endeavour,,Boston,Upper James River,1,"Stilson, James",,1742-01-01,37.5184,-77.42742
+1742,101217,Esther,,Bermuda,Upper James River,2,"Savage, Robert",,1742-01-01,37.5184,-77.42742
+1742,101218,Robert,,Bermuda,Hampton,5,"Wood, Thomas",,1742-01-01,37.0297,-76.3456
+1743,101219,Speedwell,,Philadelphia,Hampton,1,"Miers, John",,1743-01-01,37.0297,-76.3456
+1743,101220,Royal Rangers,,Bermuda,Hampton,2,"Appleby, William",,1743-01-01,37.0297,-76.3456
+1743,101221,Industry,,"Barbados, place unspecified",Hampton,6,"Godfrey, James",,1743-01-01,37.0297,-76.3456
+1743,101222,Sea Flower,,Boston,Hampton,1,"Freeman, Daniel",,1743-01-01,37.0297,-76.3456
+1743,101223,John and William,,Philadelphia,Hampton,1,"Gass, John",,1743-01-01,37.0297,-76.3456
+1743,101224,Sanders,,"Barbados, place unspecified",Hampton,3,"Calvert, Jonathan",,1743-01-01,37.0297,-76.3456
+1743,101225,Kitty and Nora,,"Antigua, place unspecified",Upper James River,3,"Robertson, William",,1743-01-01,37.5184,-77.42742
+1743,101226,Griffin,,"Barbados, place unspecified",Rappahannock,4,"Dixon, Joshua",,1743-01-01,37.59826,-76.38813
+1743,101227,Phoenix,,"Barbados, place unspecified",Hampton,2,"Baker, Richard",,1743-01-01,37.0297,-76.3456
+1743,101228,Sarah and Hannah,,"Barbados, place unspecified",Hampton,2,"Allen, Anthony",,1743-01-01,37.0297,-76.3456
+1743,101229,Windsor Castle,,Bermuda,Hampton,2,"Bell, Thomas",,1743-01-01,37.0297,-76.3456
+1743,101230,Industry,,"Barbados, place unspecified",Hampton,10,"Godfrey, James",,1743-01-01,37.0297,-76.3456
+1743,101231,Molly,,"Barbados, place unspecified",Hampton,7,"Baker, Joshua",,1743-01-01,37.0297,-76.3456
+1743,101232,Little Betty,,"Antigua, place unspecified",York River,13,"Gilbert, Richard",,1743-01-01,37.2268,-76.45376
+1743,101233,Content,,"St. Kitts, port unspecified",Hampton,6,"Moody, William",,1743-01-01,37.0297,-76.3456
+1743,101234,Young David,,"Barbados, place unspecified",York River,13,"Webster, Thomas",,1743-01-01,37.2268,-76.45376
+1743,101235,William,,Bermuda,Hampton,2,"Griffin, Charles",,1743-01-01,37.0297,-76.3456
+1743,101236,Sanders,,"Barbados, place unspecified",Hampton,3,"Calvert, Jonathan",,1743-01-01,37.0297,-76.3456
+1743,101237,Sparrow,,"Barbados, place unspecified",Hampton,2,"Prentis, John",,1743-01-01,37.0297,-76.3456
+1743,101238,Elizabeth,,Spanish Town,Hampton,6,"Ross, Richard",,1743-01-01,37.0297,-76.3456
+1743,101239,Cape May,,Philadelphia,Hampton,1,"Smith, Richard",,1743-01-01,37.0297,-76.3456
+1743,101240,Industry,,"Barbados, place unspecified",Hampton,2,"Malbone, Reo'd",,1743-01-01,37.0297,-76.3456
+1743,101241,Betty,,"Barbados, place unspecified",Hampton,1,"Soper, William",,1743-01-01,37.0297,-76.3456
+1743,101242,Speedwell,,Philadelphia,Hampton,2,"Curle, Samuel",,1743-01-01,37.0297,-76.3456
+1743,101243,Diamond,,"St. Kitts, port unspecified",Hampton,3,"Somersall, Richard",,1743-01-01,37.0297,-76.3456
+1743,101244,Joseph,,Bermuda,Hampton,1,"Wainwright, William",,1743-01-01,37.0297,-76.3456
+1743,101245,Sarah,,"Barbados, place unspecified",York River,2,"Hayles, John",,1743-01-01,37.2268,-76.45376
+1743,101246,Industry,,"Barbados, place unspecified",Hampton,2,"Dill, Joseph",,1743-01-01,37.0297,-76.3456
+1744,101247,James,,"Barbados, place unspecified",Hampton,2,"Mollynox, Thomas",,1744-01-01,37.0297,-76.3456
+1744,101248,Endeavour,,"Rhode Island, port unspecified",Hampton,3,"Gibb, John",,1744-01-01,37.0297,-76.3456
+1744,101249,Nansem'd [Ransomed?],,"Barbados, place unspecified",Hampton,1,"Meredith, David",,1744-01-01,37.0297,-76.3456
+1744,101250,Industry,,"Barbados, place unspecified",Hampton,10,"Malbone, Reo'd",,1744-01-01,37.0297,-76.3456
+1744,101251,Joseph,,"Antigua, place unspecified",Hampton,8,"Wainwright, William",,1744-01-01,37.0297,-76.3456
+1744,101252,Fredericksburgh,,"Barbados, place unspecified",Rappahannock,6,"Monkhouse, James",,1744-01-01,37.59826,-76.38813
+1744,101253,Peggy,,"Barbados, place unspecified",Hampton,9,"Brett, John",,1744-01-01,37.0297,-76.3456
+1744,101254,Barbados Packet,,"Antigua, place unspecified",Hampton,2,"Morris, William",,1744-01-01,37.0297,-76.3456
+1744,101255,Molly,,"Barbados, place unspecified",Hampton,5,"Baker, Joshua",,1744-01-01,37.0297,-76.3456
+1744,101256,Nonpareil,,Spanish Town,Hampton,14,"Payne, Nath.",,1744-01-01,37.0297,-76.3456
+1744,101257,Bold Defiance,,"St. Kitts, port unspecified",Hampton,72,"Nicholls, Robert",,1744-01-01,37.0297,-76.3456
+1744,101258,Industry,,"Barbados, place unspecified",Hampton,1,"Malbone, Reo'd",,1744-01-01,37.0297,-76.3456
+1744,101259,Anne,,"Jamaica, place unspecified",Hampton,2,"Cooke, John",,1744-01-01,37.0297,-76.3456
+1744,101260,Peggy,,"Barbados, place unspecified",Hampton,16,"Brett, John",,1744-01-01,37.0297,-76.3456
+1744,101261,Cambridge,,"St. Kitts, port unspecified",Hampton,3,"Newton, George",,1744-01-01,37.0297,-76.3456
+1744,101262,Nesbitt,,"Antigua, place unspecified",Hampton,4,"Hall, Philip",,1744-01-01,37.0297,-76.3456
+1744,101263,Nansem'd [Ransomed?],,"Barbados, place unspecified",Hampton,1,"Meredith, David",,1744-01-01,37.0297,-76.3456
+1744,101264,Sea Flower,,"Montserrat, port unspecified",Hampton,1,"McKenny, Robert",,1744-01-01,37.0297,-76.3456
+1744,101265,Two Brothers,,"Barbados, place unspecified",Hampton,15,"Orchard, William",,1744-01-01,37.0297,-76.3456
+1744,101266,Molly,,"Antigua, place unspecified",Hampton,2,"Crary, Thomas",,1744-01-01,37.0297,-76.3456
+1744,101267,Bobby,,"Barbados, place unspecified",Hampton,1,"Loyall, Paul",,1744-01-01,37.0297,-76.3456
+1744,101268,Honest Industry,,Philadelphia,Hampton,2,"Landon, Samuel",,1744-01-01,37.0297,-76.3456
+1744,101269,May Flower,,Bermuda,Hampton,3,"Eden, Solomon",,1744-01-01,37.0297,-76.3456
+1744,101270,Deborah,,Bermuda,Hampton,1,"Brown, Samuel",,1744-01-01,37.0297,-76.3456
+1744,101271,Peggy,,St. Eustatius,Hampton,1,"Brett, John",,1744-01-01,37.0297,-76.3456
+1744,101272,Esther,,Bermuda,Hampton,1,"Savage, Robert",,1744-01-01,37.0297,-76.3456
+1745,101273,Endeavour,,"St. Kitts, port unspecified",Hampton,50,"Dickenson, John",,1745-01-01,37.0297,-76.3456
+1745,101274,Peggy,,"Barbados, place unspecified",Hampton,3,"Robertson, William",,1745-01-01,37.0297,-76.3456
+1745,101275,May Flower,,"Barbados, place unspecified",Hampton,2,"Eden, Solomon",,1745-01-01,37.0297,-76.3456
+1745,101276,Polly,,"Antigua, place unspecified",Hampton,2,"Ivy, Joseph",,1745-01-01,37.0297,-76.3456
+1745,101277,Bobby,,"Barbados, place unspecified",Hampton,1,"Loyall, Paul",,1745-01-01,37.0297,-76.3456
+1745,101278,Fanny,,"St. Kitts, port unspecified",Hampton,2,"Calvert, Max",,1745-01-01,37.0297,-76.3456
+1745,101279,Peggy,,"Barbados, place unspecified",Hampton,30,"Robertson, William",,1745-01-01,37.0297,-76.3456
+1745,101280,Elizabeth,,Bermuda,Hampton,2,"Gibbs, John",,1745-01-01,37.0297,-76.3456
+1745,101281,Race Horse,,"Antigua, place unspecified",Hampton,5,"Hawkins, James",,1745-01-01,37.0297,-76.3456
+1745,101282,Orphan of Tehoa,,"Barbados, place unspecified",Hampton,12,"Evarard, John",,1745-01-01,37.0297,-76.3456
+1745,101283,Bobby,,"Barbados, place unspecified",Hampton,3,"Loyall, Paul",,1745-01-01,37.0297,-76.3456
+1745,101284,Betsy,,"Barbados, place unspecified",Hampton,19,"Lynch, Patrick",,1745-01-01,37.0297,-76.3456
+1745,101285,Bobby,,"Barbados, place unspecified",Hampton,11,"Loyall, Paul",,1745-01-01,37.0297,-76.3456
+1746,101286,Betty,,"Barbados, place unspecified",Hampton,16,"Moseley, William",,1746-01-01,37.0297,-76.3456
+1746,101287,Peggy,,"Barbados, place unspecified",Hampton,36,"Robertson, William",,1746-01-01,37.0297,-76.3456
+1746,101288,Bobby,,"Barbados, place unspecified",Hampton,15,"Loyall, Paul",,1746-01-01,37.0297,-76.3456
+1746,101289,Mercury,,"Barbados, place unspecified",Rappahannock,53,"Gaitskill, John",,1746-01-01,37.59826,-76.38813
+1746,101290,Betty,,"Barbados, place unspecified",Rappahannock,5,"Willoughby, Lemuel",,1746-01-01,37.59826,-76.38813
+1746,101291,Industry,,"Barbados, place unspecified",Rappahannock,55,"Tatem, Trim'r",,1746-01-01,37.59826,-76.38813
+1746,101292,Peggy,,"Barbados, place unspecified",Rappahannock,11,"Calvert, Cornelius",,1746-01-01,37.59826,-76.38813
+1746,101293,Elizabeth,,"St. Kitts, port unspecified",Hampton,24,"Loyd, Owen",,1746-01-01,37.0297,-76.3456
+1746,101294,Cunliffe,,"Barbados, place unspecified",York River,90,"Johnson, John",,1746-01-01,37.2268,-76.45376
+1746,101295,Betty,,"Barbados, place unspecified",Hampton,13,"Moseley, William",,1746-01-01,37.0297,-76.3456
+1746,101296,Bobby,,"Barbados, place unspecified",Hampton,11,"Loyall, Paul",,1746-01-01,37.0297,-76.3456
+1746,101297,Jolly Batchellor,,"Barbados, place unspecified",Hampton,3,"Newbold, Joseph",,1746-01-01,37.0297,-76.3456
+1746,101298,Joseph,,"Antigua, place unspecified",Rappahannock,1,"Cox, William",,1746-01-01,37.59826,-76.38813
+1746,101300,Industry,,"Barbados, place unspecified",Hampton,3,"Tatem, Trim'r",,1746-01-01,37.0297,-76.3456
+1746,101301,Peggy,,"Barbados, place unspecified",Hampton,1,"Calvert, Cornelius",,1746-01-01,37.0297,-76.3456
+1746,101302,John and Elizabeth,,"Antigua, place unspecified",Hampton,2,"Adams, Matthew",,1746-01-01,37.0297,-76.3456
+1746,101303,Johnny,,"Barbados, place unspecified",Hampton,8,"Loyall, William",,1746-01-01,37.0297,-76.3456
+1747,101304,Rawleigh,,"Barbados, place unspecified",Hampton,26,"Bishop, Edward",,1747-01-01,37.0297,-76.3456
+1747,101305,Delights Exchange,,"Anguilla, port unspecified",Hampton,2,"Todd, Henry",,1747-01-01,37.0297,-76.3456
+1749,101306,Bobby,,"Jamaica, place unspecified",Hampton,6,"Loyall, John",,1749-01-01,37.0297,-76.3456
+1749,101307,Industry,,"Barbados, place unspecified",Hampton,6,"Miller, Matthew",,1749-01-01,37.0297,-76.3456
+1749,101308,Batchelor,,"Anguilla, port unspecified",Hampton,1,"Hodge, Henry",,1749-01-01,37.0297,-76.3456
+1749,101309,Saint Andrew,,"Antigua, place unspecified",Hampton,31,"McLincock, William",,1749-01-01,37.0297,-76.3456
+1749,101310,Salley,,"Barbados, place unspecified",Hampton,3,"Haire, Parteen",,1749-01-01,37.0297,-76.3456
+1749,101311,Fanny,,"Barbados, place unspecified",Hampton,8,"Haire, James",,1749-01-01,37.0297,-76.3456
+1749,101312,Ann,,"Barbados, place unspecified",Hampton,18,"Miller, Mason",,1749-01-01,37.0297,-76.3456
+1749,101313,Harry,,"Barbados, place unspecified",Upper James River,155,"Tucker, Charles",,1749-01-01,37.5184,-77.42742
+1749,101314,John and Mary,,"Barbados, place unspecified",York River,16,"Allen, Anthony",,1749-01-01,37.2268,-76.45376
+1749,101315,Industry,,"Barbados, place unspecified",Hampton,1,"Miller, Matthew",,1749-01-01,37.0297,-76.3456
+1749,101316,Elizabeth and Mary,,"St. Kitts, port unspecified",Hampton,1,"Minors, Benjamin",,1749-01-01,37.0297,-76.3456
+1749,101317,Providence,,"Barbados, place unspecified",Hampton,3,"Langley, Thomas",,1749-01-01,37.0297,-76.3456
+1749,101318,Ann,,"Barbados, place unspecified",Hampton,3,"Miller, Mason",,1749-01-01,37.0297,-76.3456
+1750,101319,Scarbrough,,"Montserrat, port unspecified",Hampton,1,"Tucker, Benjamin",,1750-01-01,37.0297,-76.3456
+1750,101320,Kingston,,"Barbados, place unspecified",York River,1,"Allen, Anthony",,1750-01-01,37.2268,-76.45376
+1750,101321,Olive,,"Barbados, place unspecified",South Potomac,50,"West, John",,1750-01-01,38.10394,-76.52077
+1750,101322,Bobby,,"Barbados, place unspecified",Hampton,19,"Willoughby, Samuel",,1750-01-01,37.0297,-76.3456
+1750,101323,Joanna,,"Barbados, place unspecified",Hampton,48,"Calvert, Cornelius",,1750-01-01,37.0297,-76.3456
+1750,101324,Antigua Packet,,"Antigua, place unspecified",Hampton,8,"Young, David",,1750-01-01,37.0297,-76.3456
+1750,101325,Johnson,,"Antigua, place unspecified",Hampton,16,"Orr, John",,1750-01-01,37.0297,-76.3456
+1750,101326,Success,,"Barbados, place unspecified",South Potomac,25,"Cranston, Jeremiah",,1750-01-01,38.10394,-76.52077
+1751,101327,Joseph,,"St. Kitts, port unspecified",Hampton,31,"Jones, Henry",,1751-01-01,37.0297,-76.3456
+1751,101328,James Town,,"Barbados, place unspecified",Hampton,2,"Mallory, John",,1751-01-01,37.0297,-76.3456
+1751,101329,Relief,,"Barbados, place unspecified",Hampton,1,"Bayne, John",,1751-01-01,37.0297,-76.3456
+1751,101330,Providence,,"Barbados, place unspecified",Hampton,1,"Langley, Thomas",,1751-01-01,37.0297,-76.3456
+1751,101331,Antigua Packet,,"Antigua, place unspecified",Hampton,2,"Young, David",,1751-01-01,37.0297,-76.3456
+1751,101332,Industry,,"Barbados, place unspecified",Hampton,18,"Miller, Matthew",,1751-01-01,37.0297,-76.3456
+1751,101333,George,,"Montserrat, port unspecified",Hampton,1,"Geran, John",,1751-01-01,37.0297,-76.3456
+1751,101334,Success,,"Barbados, place unspecified",Hampton,16,"Cranston, Jeremiah",,1751-01-01,37.0297,-76.3456
+1751,101335,Richard,,"Antigua, place unspecified",Hampton,4,"Defoy, Jeremiah",,1751-01-01,37.0297,-76.3456
+1751,101336,Anne and Susanna,,"Barbados, place unspecified",Hampton,48,"Boyes, Michael",,1751-01-01,37.0297,-76.3456
+1751,101337,Diamond,,"St. Kitts, port unspecified",Hampton,13,"Wilson, Adam",,1751-01-01,37.0297,-76.3456
+1751,101338,Jubilee,,"Barbados, place unspecified",Hampton,10,"Snow, George",,1751-01-01,37.0297,-76.3456
+1751,101339,Frances,,"Barbados, place unspecified",Hampton,4,"Dunn, Joel",,1751-01-01,37.0297,-76.3456
+1751,101340,Providence,,"Barbados, place unspecified",Hampton,3,"Calvert, Saunders",,1751-01-01,37.0297,-76.3456
+1751,101341,Phoenix,,"Barbados, place unspecified",Hampton,3,"Kelly, Samuel",,1751-01-01,37.0297,-76.3456
+1751,101342,Hopewell,,"Barbados, place unspecified",South Potomac,36,"McDonald, Angus",,1751-01-01,38.10394,-76.52077
+1751,101343,Norfolk,,"Antigua, place unspecified",Hampton,1,"Boyd, Robert",,1751-01-01,37.0297,-76.3456
+1751,101344,Caesar,,"St. Kitts, port unspecified",Hampton,5,"Sword, James",,1751-01-01,37.0297,-76.3456
+1751,101345,Fanny,,"Barbados, place unspecified",York River,1,"Whitterong, William",,1751-01-01,37.2268,-76.45376
+1751,101346,Saint George,,"St. Kitts, port unspecified",York River,6,"Baker, Richard",,1751-01-01,37.2268,-76.45376
+1752,101347,Lilly,,"St. Kitts, port unspecified",York River,19,"Thomas, John",,1752-01-01,37.2268,-76.45376
+1752,101348,Phoenix,,"Barbados, place unspecified",Upper James River,11,"Kelly, Samuel",,1752-01-01,37.5184,-77.42742
+1752,101349,Bonaccord,,"Antigua, place unspecified",Rappahannock,5,"Nisbet, Joseph",,1752-01-01,37.59826,-76.38813
+1753,101350,Expedition,,"Barbados, place unspecified",Rappahannock,19,"Littledale, John",,1753-01-01,37.59826,-76.38813
+1753,101351,Hannah,,"Anguilla, port unspecified",Hampton,2,"White, Jesse",,1753-01-01,37.0297,-76.3456
+1754,101352,Lucky Gally,,Providence,Hampton,3,"Joell, William",,1754-01-01,37.0297,-76.3456
+1754,101353,Rebecca,,"Antigua, place unspecified",Hampton,4,"Young, David",,1754-01-01,37.0297,-76.3456
+1754,101354,Providence,,"Barbados, place unspecified",Hampton,8,"McCall, Archibald",,1754-01-01,37.0297,-76.3456
+1754,101355,Fanny,,"Antigua, place unspecified",Hampton,8,"Haynes, William",,1754-01-01,37.0297,-76.3456
+1754,101356,Pride,,"Barbados, place unspecified",York River,6,"Bedford, Thomas",,1754-01-01,37.2268,-76.45376
+1754,101357,Charming Ann,,Bermuda,York River,4,"Baker, Richard",,1754-01-01,37.2268,-76.45376
+1754,101358,Nancy,,"Barbados, place unspecified",York River,31,"Wallis, Richard",,1754-01-01,37.2268,-76.45376
+1754,101359,Betsey,,"Montserrat, port unspecified",Hampton,6,"Calvert, William",,1754-01-01,37.0297,-76.3456
+1754,101360,Rebecca,,"Antigua, place unspecified",Hampton,15,"Young, David",,1754-01-01,37.0297,-76.3456
+1754,101361,Judith,,"Barbados, place unspecified",York River,3,"Power, Jeffrey",,1754-01-01,37.2268,-76.45376
+1754,101362,Rose,,"Barbados, place unspecified",Hampton,40,"Cuthbert, William",,1754-01-01,37.0297,-76.3456
+1754,101363,Catherine and Mary,,"Montserrat, port unspecified",Hampton,3,"Righton, Stephen",,1754-01-01,37.0297,-76.3456
+1754,101364,Lucky Gally,,Turk's Island,Hampton,2,"Joell, Solomon",,1754-01-01,37.0297,-76.3456
+1746,101366,Ann,,Turk's Island,Hampton,1,"Darrell, Samuel",,1746-01-01,37.0297,-76.3456
+1754,101367,Industry,,"Barbados, place unspecified",Hampton,2,"Calvert, Saunders",,1754-01-01,37.0297,-76.3456
+1754,101368,Charming Ann,,Bermuda,Upper James River,4,"Godfrey, Edward",,1754-01-01,37.5184,-77.42742
+1755,101369,Caple,,"Jamaica, place unspecified",Hampton,1,"Mullins, William",,1755-01-01,37.0297,-76.3456
+1755,101370,Betsey,,Bermuda,Upper James River,2,"Cocke, James",,1755-01-01,37.5184,-77.42742
+1755,101371,Charming Susanna,,"Jamaica, place unspecified",Hampton,54,"Wake, John",,1755-01-01,37.0297,-76.3456
+1755,101372,Fanny,,"Antigua, place unspecified",Hampton,3,"Peart, Francis",,1755-01-01,37.0297,-76.3456
+1755,101373,Frances,,"Barbados, place unspecified",Hampton,37,"Loyall, John",,1755-01-01,37.0297,-76.3456
+1755,101374,Kingston,,"Barbados, place unspecified",York River,1,"Thompkins, Robert",,1755-01-01,37.2268,-76.45376
+1756,101375,Charming Ann,,Bermuda,Upper James River,2,"Baker, Richard",,1756-01-01,37.5184,-77.42742
+1757,101376,Sarah,,New England,Hampton,4,"Caldwell, John",,1757-01-01,37.0297,-76.3456
+1758,101377,Polly and Hellen,,"Barbados, place unspecified",Hampton,8,"Calvert, John",,1758-01-01,37.0297,-76.3456
+1758,101378,Jamestown,,"Barbados, place unspecified",Hampton,1,"Peart, Francis",,1758-01-01,37.0297,-76.3456
+1758,101379,Frances,,"Antigua, place unspecified",Hampton,26,"Loyall, John",,1758-01-01,37.0297,-76.3456
+1759,101380,Nancy,,"St. Kitts, port unspecified",Accomac,10,"Lamont, Ardis",,1759-01-01,37.719574,-75.665484
+1760,101381,Industry,,"Barbados, place unspecified",Hampton,6,"Smallwood, Charles",,1760-01-01,37.0297,-76.3456
+1761,101382,Industry,,"Barbados, place unspecified",York River,5,"Smallwood, Charles",,1761-01-01,37.2268,-76.45376
+1762,101383,Molly,,Bermuda,Accomac,5,"Peniston, Samuel",,1762-01-01,37.719574,-75.665484
+1762,101384,Rising Sun,,Nantucket,Accomac,10,"Easterbrook, John",,1762-01-01,37.719574,-75.665484
+1762,101385,William,,Boston,Upper James River,5,"Cox, Joseph",,1762-01-01,37.5184,-77.42742
+1762,101386,Duck,,Piscataqua,Upper James River,3,"Vicker, William",,1762-01-01,37.5184,-77.42742
+1762,101387,Africa,,Perth Amboy,Upper James River,15,"Hammond, Stephen",,1762-01-01,37.5184,-77.42742
+1763,101388,Pope's Head,,"Antigua, place unspecified",Hampton,18,"Adams, William",,1763-01-01,37.0297,-76.3456
+1763,101389,Duke of York,,"St. Kitts, port unspecified",Hampton,10,"Cooper, Benjamin",,1763-01-01,37.0297,-76.3456
+1763,101390,Greyhound,,"Grenada, place unspecified",Hampton,8,"Shaw, Alexander",,1763-01-01,37.0297,-76.3456
+1763,101391,John and Susanna,,"Antigua, place unspecified",York River,4,"Mudie, James",,1763-01-01,37.2268,-76.45376
+1764,101392,Batchelor,,"Barbados, place unspecified",Hampton,4,"Eastment, James",,1764-01-01,37.0297,-76.3456
+1764,101393,John,,"Barbados, place unspecified",Hampton,4,"Seymour, Stephen",,1764-01-01,37.0297,-76.3456
+1764,101394,Speedwell,,"Barbados, place unspecified",Hampton,1,"Mason, Nathaniel N.",,1764-01-01,37.0297,-76.3456
+1764,101395,Hoope,,"Barbados, place unspecified",Hampton,9,"Peart, Francis",,1764-01-01,37.0297,-76.3456
+1764,101396,Peggy,,"Antigua, place unspecified",Hampton,5,"Calvert, John",,1764-01-01,37.0297,-76.3456
+1765,101397,Susanna,,"Antigua, place unspecified",Hampton,10,"Westcott, John",,1765-01-01,37.0297,-76.3456
+1765,101398,Mary,,"Barbados, place unspecified",Hampton,2,"Caron, Daniel",,1765-01-01,37.0297,-76.3456
+1765,101399,Little Archey,,"Grenada, place unspecified",Hampton,8,"Consaull, Charles",,1765-01-01,37.0297,-76.3456
+1765,101400,Prince of Wales,,"Barbados, place unspecified",Hampton,32,"Edey, Solomon",,1765-01-01,37.0297,-76.3456
+1765,101401,Esther,,"Nevis, port unspecified",Hampton,11,"Harvey, Seth",,1765-01-01,37.0297,-76.3456
+1765,101402,Sally,,"Barbados, place unspecified",Hampton,3,"Hutchins, Thomas",,1765-01-01,37.0297,-76.3456
+1767,101404,Hawke,,"St. Kitts, port unspecified",Hampton,7,"Bayley, Wilson B.",,1767-01-01,37.0297,-76.3456
+1767,101405,Black Prince,,"Antigua, place unspecified",Hampton,40,"Thomas, Charles",,1767-01-01,37.0297,-76.3456
+1768,101406,Two Friends,,"Antigua, place unspecified",Hampton,9,"Keeble, Humphrey",,1768-01-01,37.0297,-76.3456
+1768,101407,Defyance,,"Antigua, place unspecified",Hampton,10,"Stewart, Roger",,1768-01-01,37.0297,-76.3456
+1768,101408,Content,,"St. Kitts, port unspecified",Hampton,4,"Martin, David",,1768-01-01,37.0297,-76.3456
+1769,101409,Clyde,,"Antigua, place unspecified",Upper James River,2,"Buchanan, Matthew",,1769-01-01,37.5184,-77.42742
+1769,101410,Darby,,Salem,Upper James River,1,"Allen, John",,1769-01-01,37.5184,-77.42742
+1772,102276,Dunmore,,"Antigua, place unspecified","Virginia, port unspecified",,"Marnex, John",,1772-01-01,37.2268,-76.45376
+1772,102296,Hansford,,"Antigua, place unspecified","Virginia, port unspecified",,"Wilson, Christopher",,1772-01-01,37.2268,-76.45376
+1772,102297,Assistance,,"Antigua, place unspecified","Virginia, port unspecified",,"Loudon, David",,1772-01-01,37.2268,-76.45376
+1772,102299,Black Prince,,"Antigua, place unspecified","Virginia, port unspecified",,"Elliott, Robert",,1772-01-01,37.2268,-76.45376
+1772,102302,Jenet,,"Antigua, place unspecified","Virginia, port unspecified",,"Poole, William",,1772-01-01,37.2268,-76.45376
+1772,102303,Nosborn,,"Antigua, place unspecified","Virginia, port unspecified",,"Maxwell, Robert",,1772-01-01,37.2268,-76.45376
+1772,102304,William,,"Antigua, place unspecified","Virginia, port unspecified",,"Keeble, George",,1772-01-01,37.2268,-76.45376
+1773,102309,Joseph and Betsey,,"Nevis, port unspecified","Virginia, port unspecified",,"Pray, Job",,1773-01-01,37.2268,-76.45376
+1772,102314,Smithfield,,"Antigua, place unspecified",Hampton,12,"Cochrane, Alexander",,1772-01-01,37.0297,-76.3456
+1774,102365,Mary,,"Antigua, place unspecified","Virginia, port unspecified",,"Burch, D.",,1774-01-01,37.2268,-76.45376
+1755,102679,Polly,,Kingston,"Virginia, port unspecified",,"Almy, Benjamin",,1755-01-01,37.2268,-76.45376
+1766,102731,Providence,,Kingston,"Virginia, port unspecified",,"Watworth, Joseph",,1766-01-01,37.2268,-76.45376
+1771,103874,Nelly,,"Barbados, place unspecified",Rappahannock,90,"Orr, Hugh",,1771-01-01,37.59826,-76.38813
+1770,103875,Speirs,,"Barbados, place unspecified","Virginia, port unspecified",15,"Lusk, James",,1770-01-01,37.2268,-76.45376
+1767,103880,Peggy,,"Antigua, place unspecified","Virginia, port unspecified",5,"Webb, George",,1767-01-01,37.2268,-76.45376
+1771,103883,John and Willis,,"Grenada, place unspecified","Virginia, port unspecified",22,"Wilson, Willis",,1771-01-01,37.2268,-76.45376
+1771,103884,Corlet,,"St. Vincent, port unspecified",Hampton,12,"Harris, John",,1771-01-01,37.0297,-76.3456
+1771,103885,Liberty,,"Nevis, port unspecified",Hampton,24,"Parrott, James",,1771-01-01,37.0297,-76.3456
+1772,103886,Peggy,,"Grenada, place unspecified",Hampton,4,"Calvert, John",,1772-01-01,37.0297,-76.3456
+1772,103887,Fanny,,"Grenada, place unspecified",Hampton,21,"Westcott, William",,1772-01-01,37.0297,-76.3456
+1772,103888,Smithfield,,"St. Vincent, port unspecified",Hampton,20,"Cochrane, Alexander",,1772-01-01,37.0297,-76.3456
+1772,103890,John and Willis,,"Tobago, port unspecified",Hampton,8,"Wilson, Samuel",,1772-01-01,37.0297,-76.3456
+1773,103891,Hope,,"Tobago, port unspecified",Hampton,4,"Campbell, Duncan",,1773-01-01,37.0297,-76.3456
+1774,103892,Live Oak,,"Grenada, place unspecified","Virginia, port unspecified",5,"Eve, John",,1774-01-01,37.2268,-76.45376
+1774,103893,Hope,,"Tobago, port unspecified","Virginia, port unspecified",4,"Campbell, Duncan",,1774-01-01,37.2268,-76.45376
+1745,104022,Sarah,,"Barbados, place unspecified",York River,4,"Tenant, Samuel",,1745-01-01,37.2268,-76.45376
+1752,104028,Little Harry,,"Barbados, place unspecified","Virginia, port unspecified",5,"Mudie, James",,1752-01-01,37.2268,-76.45376
+1752,104029,Betsie,,"Nevis, port unspecified","Virginia, port unspecified",2,"O'Neal, Corn.",,1752-01-01,37.2268,-76.45376
+1752,104030,Samuel and James,,"St. Kitts, port unspecified","Virginia, port unspecified",8,"Smith, John",,1752-01-01,37.2268,-76.45376
+1755,104034,Fanny,,"Barbados, place unspecified","Virginia, port unspecified",11,"Henderson, Thomas",,1755-01-01,37.2268,-76.45376
+1771,104038,Hope,,"Grenada, place unspecified","Virginia, port unspecified",16,"Wilson, Stephen",,1771-01-01,37.2268,-76.45376
+1752,104071,Fredericksburg,,"Barbados, place unspecified",Rappahannock,35,"Holmes, William",,1752-01-01,37.59826,-76.38813
+1772,104074,Fredericksburg,,"Grenada, place unspecified",Rappahannock,3,"Sinclair, John",,1772-01-01,37.59826,-76.38813
+1749,104085,Success,,"Barbados, place unspecified",South Potomac,20,"Cranston, Jeremiah",,1749-01-01,38.10394,-76.52077
+1749,104086,William and Thomas,,"Antigua, place unspecified",South Potomac,10,"Crosby, George",,1749-01-01,38.10394,-76.52077
+1752,104091,Success,,"Barbados, place unspecified","Virginia, port unspecified",2,"Cranston, Jeremiah",,1752-01-01,37.2268,-76.45376
+1752,104092,Molly,,"Barbados, place unspecified","Virginia, port unspecified",10,"Chamberline, Roger",,1752-01-01,37.2268,-76.45376
+1752,104093,Africa,,"Barbados, place unspecified",South Potomac,16,"Lundin, James",,1752-01-01,38.10394,-76.52077
+1754,104094,Two Friends,,"Antigua, place unspecified","Virginia, port unspecified",18,"Higgins, Jacob",,1754-01-01,37.2268,-76.45376
+1763,104095,Industry,,"St. Kitts, port unspecified","Virginia, port unspecified",14,"Thompson, John",,1763-01-01,37.2268,-76.45376
+1764,104096,Betsey,,"St. Kitts, port unspecified","Virginia, port unspecified",7,"Heffington, William",,1764-01-01,37.2268,-76.45376
+1765,104097,Nancy,,"Barbados, place unspecified","Virginia, port unspecified",19,"Hilton, Henry",,1765-01-01,37.2268,-76.45376
+1765,104098,Priscilla,,"Barbados, place unspecified","Virginia, port unspecified",24,"Conway, Rich",,1765-01-01,37.2268,-76.45376
+1771,104099,Swift,,"Jamaica, place unspecified","Virginia, port unspecified",7,"Sanford, Lawrence",,1771-01-01,37.2268,-76.45376
+1769,104101,Peggy,,"Antigua, place unspecified","Virginia, port unspecified",10,"Wise, Samuel",,1769-01-01,37.2268,-76.45376
+1767,104144,Defiance,,"Dominica, place unspecified",Upper James River,10,"Clarke, John",,1767-01-01,37.5184,-77.42742
+1769,104146,Roe Gally,,"Antigua, place unspecified","Virginia, port unspecified",,"McKinley, Pat",,1769-01-01,37.2268,-76.45376
+1769,104147,Lilly,,"Antigua, place unspecified","Virginia, port unspecified",,?,,1769-01-01,37.2268,-76.45376
+1770,104148,Warwick,,"Barbados, place unspecified","Virginia, port unspecified",26,"Macvey, An.",,1770-01-01,37.2268,-76.45376
+1770,104149,Industry,,"Barbados, place unspecified","Virginia, port unspecified",8,"Sinclair, Art",,1770-01-01,37.2268,-76.45376
+1771,104150,Nancy,,"Antigua, place unspecified",Hampton,29,"Wise, Samuel",,1771-01-01,37.0297,-76.3456
+1771,104151,Jenny,,"Barbados, place unspecified","Virginia, port unspecified",12,"Tullarton, William",,1771-01-01,37.2268,-76.45376
+1771,104152,Nancy,,"Grenada, place unspecified","Virginia, port unspecified",10,"Paterson, Peter",,1771-01-01,37.2268,-76.45376
+1752,104457,Nansemond,,"Barbados, place unspecified",Lower James River,21,"Irwin, James",,1752-01-01,36.95002,-76.38292
+1752,104458,Mermaid,,"Antigua, place unspecified",Lower James River,2,"Blake, Patrick",,1752-01-01,36.95002,-76.38292
+1755,104470,Allethea,,Spanish Town,Lower James River,2,"Laborn, Joseph",,1755-01-01,36.95002,-76.38292
+1755,104471,Warwick,,"Barbados, place unspecified",Lower James River,1,"Darrell, William",,1755-01-01,36.95002,-76.38292
+1764,104484,Ann,,"Barbados, place unspecified",Hampton,16,"Dawson, James",,1764-01-01,37.0297,-76.3456
+1764,104486,Lancaster,,"Jamaica, place unspecified",Hampton,6,"Lewellan, Luke",,1764-01-01,37.0297,-76.3456
+1766,104495,Little Molly,,"Barbados, place unspecified",Hampton,6,"Simms, Rich",,1766-01-01,37.0297,-76.3456
+1766,104496,Two Friends,,"Antigua, place unspecified","Virginia, port unspecified",9,"Keeble, Humphrey",,1766-01-01,37.2268,-76.45376
+1767,104497,Norfolk,,"Jamaica, place unspecified","Virginia, port unspecified",6,"Southerland, John",,1767-01-01,37.2268,-76.45376
+1769,104500,Fanny,,St. Eustatius,"Virginia, port unspecified",25,"Oliffe, John",,1769-01-01,37.2268,-76.45376
+1771,104501,Sally,,"Barbados, place unspecified",Hampton,15,"Hatton, Lewis",,1771-01-01,37.0297,-76.3456
+1771,104502,Rochard,,"Grenada, place unspecified","Virginia, port unspecified",4,"Clausland, William",,1771-01-01,37.2268,-76.45376
+1771,104503,Hansford,,"Antigua, place unspecified",Hampton,47,"Wilson, Chris",,1771-01-01,37.0297,-76.3456
+1771,104504,Smithfield,,"St. Kitts, port unspecified",Hampton,6,"Cochrane, Alexander",,1771-01-01,37.0297,-76.3456
+1771,104505,Diana,,"Antigua, place unspecified",Hampton,4,"McClenahan, William",,1771-01-01,37.0297,-76.3456
+1771,104506,Molly,,"Nevis, port unspecified",Hampton,81,"Edgar, Thomas",,1771-01-01,37.0297,-76.3456
+1771,104507,Grace,,"Antigua, place unspecified",Hampton,3,"Blaws, Robert",,1771-01-01,37.0297,-76.3456
+1771,104508,Botetourt,,"Jamaica, place unspecified",Hampton,12,"Pollock, Thomas",,1771-01-01,37.0297,-76.3456
+1771,104510,Pearle,,"Barbados, place unspecified",Hampton,43,"Brett, William",,1771-01-01,37.0297,-76.3456
+1771,104511,Black Prince,,"Antigua, place unspecified",Hampton,7,"Elliot, Robert",,1771-01-01,37.0297,-76.3456
+1771,104512,Hansford,,"Antigua, place unspecified",Hampton,66,"Wilson, Chris",,1771-01-01,37.0297,-76.3456
+1771,104513,Little Molly,,"Barbados, place unspecified",Hampton,2,"Williamson, Joseph",,1771-01-01,37.0297,-76.3456
+1771,104514,Alice,,"Barbados, place unspecified",Hampton,12,"Carlton, George",,1771-01-01,37.0297,-76.3456
+1771,104515,Young Matthew,,"Antigua, place unspecified",Hampton,10,"Cooper, Abram",,1771-01-01,37.0297,-76.3456
+1771,104516,Fanny,,"Nevis, port unspecified",Hampton,7,"Catlin, Francis",,1771-01-01,37.0297,-76.3456
+1771,104517,Nancy,,"Nevis, port unspecified",Hampton,15,"Mowbray, John",,1771-01-01,37.0297,-76.3456
+1771,104518,Tanner,,"St. Kitts, port unspecified",Hampton,5,"Kelso, John",,1771-01-01,37.0297,-76.3456
+1771,104519,Matty,,"Nevis, port unspecified",Hampton,4,"Mackie, Rich",,1771-01-01,37.0297,-76.3456
+1771,104520,Donald,,"Tobago, port unspecified",Hampton,8,"Roberts, Thomas",,1771-01-01,37.0297,-76.3456
+1771,104521,Philadelphia,,"Barbados, place unspecified",Hampton,8,"Riding, John",,1771-01-01,37.0297,-76.3456
+1771,104522,Liberty,,"Barbados, place unspecified",Hampton,1,"Cowper, John",,1771-01-01,37.0297,-76.3456
+1771,104523,Two Sisters,,"Barbados, place unspecified",Hampton,2,"Maxwell, James",,1771-01-01,37.0297,-76.3456
+1771,104524,Four Sisters,,"St. Vincent, port unspecified","Virginia, port unspecified",10,"Brown, Bristow",,1771-01-01,37.2268,-76.45376
+1771,104525,Douglass,,"St. Kitts, port unspecified",Hampton,30,"Bryson, Peter",,1771-01-01,37.0297,-76.3456
+1771,104526,Hansford,,"Antigua, place unspecified",Hampton,3,"Wilson, Chris",,1771-01-01,37.0297,-76.3456
+1771,104527,Wray Gally,,"Barbados, place unspecified",Hampton,8,"Davis, David",,1771-01-01,37.0297,-76.3456
+1771,104528,Young Matthew,,"Antigua, place unspecified",Hampton,5,"Cooper, Abram",,1771-01-01,37.0297,-76.3456
+1771,104529,Alice,,"Barbados, place unspecified",Hampton,2,"Carlton, George",,1771-01-01,37.0297,-76.3456
+1771,104530,Patty,,St. Maarten,Hampton,2,"Barrott, John",,1771-01-01,37.0297,-76.3456
+1772,104531,Liberty,,"Barbados, place unspecified",Hampton,1,"Cowper, John",,1772-01-01,37.0297,-76.3456
+1772,104532,Nancy,,"Antigua, place unspecified",Hampton,8,"Irwin, Thomas",,1772-01-01,37.0297,-76.3456
+1772,104534,Matty,,"Dominica, place unspecified",Hampton,2,"Latimer, Edward",,1772-01-01,37.0297,-76.3456
+1772,104535,Fanny,,"Grenada, place unspecified",Hampton,7,"Westcott, William",,1772-01-01,37.0297,-76.3456
+1772,104536,Black Prince,,"Grenada, place unspecified",Hampton,7,"Gray, Walter",,1772-01-01,37.0297,-76.3456
+1772,104537,Charlotte,,"Barbados, place unspecified",Hampton,15,"Baily, Wilson",,1772-01-01,37.0297,-76.3456
+1772,104538,Commerce,,"Antigua, place unspecified",Hampton,22,"Wood, John",,1772-01-01,37.0297,-76.3456
+1772,104540,Porter,,"St. Vincent, port unspecified",Hampton,3,"Kelsick, Rich",,1772-01-01,37.0297,-76.3456
+1772,104541,Unity,,"Grenada, place unspecified",Hampton,5,"Knight, John",,1772-01-01,37.0297,-76.3456
+1772,104542,Liberty,,"Barbados, place unspecified",Hampton,27,"Rysam [Johnson?], William",,1772-01-01,37.0297,-76.3456
+1772,104543,Thomas,,"Antigua, place unspecified",Hampton,1,"Buckle [Brickle?], Wright",,1772-01-01,37.0297,-76.3456
+1772,104544,Little Molly,,"Antigua, place unspecified",Hampton,4,"Burrows, Thomas",,1772-01-01,37.0297,-76.3456
+1774,104545,Grace and Sally,,"Antigua, place unspecified",Hampton,1,"Wilson, Chris",,1774-01-01,37.0297,-76.3456
+1774,104546,Phoenix,,"Antigua, place unspecified","Virginia, port unspecified",30,"Westcott, William",,1774-01-01,37.2268,-76.45376
+1772,104567,Betsey,,"Barbados, place unspecified",Hampton,4,"Edey, Solomon",,1772-01-01,37.0297,-76.3456
+1769,104626,Success,,Piscataqua,"Virginia, port unspecified",1,"Stanwood, Joseph",,1769-01-01,37.2268,-76.45376
+1752,104629,Susanna,,"South Carolina, place unspecified",Rappahannock,2,"Lang, William",,1752-01-01,37.59826,-76.38813
+1769,104630,Industry,,"Rhode Island, port unspecified","Virginia, port unspecified",1,"Shepardson, Elijah",,1769-01-01,37.2268,-76.45376
+1762,104634,Calypso,,"Rhode Island, port unspecified","Virginia, port unspecified",5,"Taylor, Edward",,1762-01-01,37.2268,-76.45376
+1766,104635,John and Betsey,,Philadelphia,"Virginia, port unspecified",1,"Bunting, William",,1766-01-01,37.2268,-76.45376
+1741,104644,Ranger,,Boston,"Virginia, port unspecified",1,"Johnson, Isaac",,1741-01-01,37.2268,-76.45376
+1741,104645,Charming Molly,,Boston,Upper James River,1,"Kingston, Elias",,1741-01-01,37.5184,-77.42742
+1762,104649,Eagle,,Piscataqua,"Virginia, port unspecified",4,"Vicker, William",,1762-01-01,37.2268,-76.45376
+1771,104713,Katy,,Bermuda,"Virginia, port unspecified",5,"Ryburn, Art",,1771-01-01,37.2268,-76.45376
+1741,104717,Royal Ranger,,Bermuda,"Virginia, port unspecified",4,"Appleby, William",,1741-01-01,37.2268,-76.45376
+1772,104765,Success,,Bermuda,Hampton,20,"Williams, John",,1772-01-01,37.0297,-76.3456
+1773,104766,Francis,,Bermuda,Hampton,1,"Outerbridge, Joseph",,1773-01-01,37.0297,-76.3456
+1739,104772,John and Mary,,"Barbados, place unspecified","Virginia, port unspecified",1,"Tillidge, Richard",,1739-01-01,37.2268,-76.45376
+1758,104839,Mars,,"Americas, port unspecified","Virginia, port unspecified",8,"Bureton, Thomas",,1758-01-01,37.2268,-76.45376
+1752,107173,Two Brothers,,Piscataqua,"Virginia, port unspecified",,"Ratliffs, Samuel",,1752-01-01,37.2268,-76.45376
+1747,107182,Dolphin,,Piscataqua,"Virginia, port unspecified",,"Holmes, Benjamin",,1747-01-01,37.2268,-76.45376
+1762,107194,Nancy,,Boston,"Virginia, port unspecified",,"Mosely, Anthony",,1762-01-01,37.2268,-76.45376
+1754,107973,Nanny,,"Antigua, place unspecified",Hampton,8,"Haymer, William",,1754-01-01,37.0297,-76.3456
+1771,107974,James,,"Grenada, place unspecified",Hampton,29,"Rock, George",,1771-01-01,37.0297,-76.3456
+1771,107975,Polly,,Bermuda,Rappahannock,5,"Parker, John",,1771-01-01,37.59826,-76.38813
+1771,107976,Nally,,St. Maarten,Hampton,2,"Basset, J.",,1771-01-01,37.0297,-76.3456
+1772,107977,Hansford,,"Antigua, place unspecified","Virginia, port unspecified",7,"Wilson, Christopher",,1772-01-01,37.2268,-76.45376
+1752,107980,Nancy,,"British Caribbean, colony unspecified",Lower James River,1,Carey,,1752-01-01,36.95002,-76.38292
+1754,107981,Freemason,,"Nevis, port unspecified",Lower James River,2,Devereaux,,1754-01-01,36.95002,-76.38292
+1750,107982,Norfolk,,Caribbean (colony unspecified),Rappahannock,8,Steavenson,,1750-01-01,37.59826,-76.38813
+1736,25713,Pretty Betsey,Gambia,London,Lower James River,,"Boys, John",,1736-01-01,36.95002,-76.38292
+1736,16816,Aurora,Bonny,Bristol,Lower James River,160,"Tucker, Timothy",,1736-01-01,36.95002,-76.38292
+1736,16818,Betty Snow,"Africa, port unspecified",Bristol,York River,400,"Phelps, James",,1736-01-01,37.2268,-76.45376
+1736,16819,Bridget,Cabinda,Bristol,South Potomac,150,"Clarke, William",,1736-01-01,38.10394,-76.52077
+1736,16826,Indian Queen,"Africa, port unspecified",Bristol,Rappahannock,201,"Blanning, John",,1736-01-01,37.59826,-76.38813
+1736,16838,Prince of Orange,Calabar,Bristol,York River,251,"Bird, Japhet",,1736-01-01,37.2268,-76.45376
+1736,16843,Swallow,"Africa, port unspecified",Bristol,York River,196,"Colt, John",,1736-01-01,37.2268,-76.45376
+1736,16844,Withers,"Africa, port unspecified",Bristol,York River,275,"Webb, Samuel<br/> Muff, William",,1736-01-01,37.2268,-76.45376
+1736,16846,Ann,Bonny,Bristol,York River,310,"Prothero, Philip",,1736-01-01,37.2268,-76.45376
+1736,92340,Stannage,Gambia,Liverpool,Upper James River,180,"Hill, Thomas",,1736-01-01,37.5184,-77.42742
+1736,92341,Antelope,Anomabu,Liverpool,Rappahannock,279,"Birch<br/> Hurst, James",,1736-01-01,37.59826,-76.38813
+1736,92342,Alice,"Africa, port unspecified",Liverpool,Rappahannock,90,"Hamilton, Thomas",,1736-01-01,37.59826,-76.38813
+1736,92343,Prince William,Gambia,Liverpool,York River,166,"Gildart, Geo<br/> Hayes, William",,1736-01-01,37.2268,-76.45376
+1736,92344,Liverpool Merchant,"Africa, port unspecified",Liverpool,South Potomac,193,"Goulding, Matthew",,1736-01-01,38.10394,-76.52077
+1736,92345,Thomas,Gambia,Liverpool,York River,137,"Smith, Henry",,1736-01-01,37.2268,-76.45376
+1737,16850,Brice Gally,"West Central Africa and St. Helena, port unspecified",Bristol,York River,409,"Saunders, Abraham",,1737-01-01,37.2268,-76.45376
+1737,16858,Greyhound,"Africa, port unspecified",Bristol,Rappahannock,232,"Hallden, Edward",,1737-01-01,37.59826,-76.38813
+1737,16859,Hobhouse,"Africa, port unspecified",Bristol,York River,310,"Bartlett, John",,1737-01-01,37.2268,-76.45376
+1737,92335,Stannage,Gambia,Liverpool,Upper James River,183,"Hill, Thomas",,1737-01-01,37.5184,-77.42742
+1737,92336,Thomas,Gambia,Liverpool,South Potomac,97,"Smith, Henry",,1737-01-01,38.10394,-76.52077
+1737,92337,Liverpool Merchant,Gambia,Liverpool,South Potomac,190,"Goulding, Matthew<br/> Bootle, James",,1737-01-01,38.10394,-76.52077
+1737,94636,Alice,Gambia,Liverpool,Rappahannock,124,"Cutler, Egerton",,1737-01-01,37.59826,-76.38813
+1737,94637,Prince William,Gambia,Liverpool,"Virginia, port unspecified",,"Gildart, Geo",,1737-01-01,37.2268,-76.45376
+1738,16884,Bridget,"Africa, port unspecified",Bristol,York River,190,"Quircke, Robert",,1738-01-01,37.2268,-76.45376
+1738,16957,Murdock,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Williams, David",,1738-01-01,37.2268,-76.45376
+1738,92332,Liverpool Merchant,"West Central Africa and St. Helena, port unspecified",Liverpool,South Potomac,70,"Hassall, Thomas",,1738-01-01,38.10394,-76.52077
+1738,92333,Alice,Gambia,Liverpool,Rappahannock,121,"Cutler, Egerton",,1738-01-01,37.59826,-76.38813
+1738,92334,Walpole,"West Central Africa and St. Helena, port unspecified",Liverpool,Upper James River,,"Johnson, Richard",,1738-01-01,37.5184,-77.42742
+1738,75478,Falcon,"West Central Africa and St. Helena, port unspecified",London,York River,348,"Young, Hasden",,1738-01-01,37.2268,-76.45376
+1739,16936,Cross,"Africa, port unspecified",Bristol,York River,266,"Pittman, Joseph",,1739-01-01,37.2268,-76.45376
+1739,16937,Diana,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Campbell, Patrick",,1739-01-01,37.2268,-76.45376
+1739,16967,Prince of Orange,"Africa, port unspecified",Bristol,York River,200,"Bird, Japhet",,1739-01-01,37.2268,-76.45376
+1739,92329,Liverpool Merchant,"Africa, port unspecified",Liverpool,South Potomac,130,"Lyon, John<br/> Goulding, Alexander",,1739-01-01,38.10394,-76.52077
+1739,92330,Vine,Gambia,Liverpool,Rappahannock,156,"Cutler, Egerton",,1739-01-01,37.59826,-76.38813
+1739,92331,Dove,"Africa, port unspecified",Liverpool,Upper James River,106,"Corrin, William",,1739-01-01,37.5184,-77.42742
+1739,75070,Anna,"Whydah, Ouidah",London,Upper James River,380,"Strachan, James",,1739-01-01,37.5184,-77.42742
+1739,75171,Black Prince,"Gold Coast, port unspecified",London,York River,167,"Sibson, John",,1739-01-01,37.2268,-76.45376
+1739,76893,Betty Gally,Malembo,London,Rappahannock,273,"Winster, John",,1739-01-01,37.59826,-76.38813
+1740,25181,Mary Anne,"Africa, port unspecified",Boston,Upper James River,70,"Cutler, John",,1740-01-01,37.5184,-77.42742
+1740,16984,Chesterfield,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,York River,,"Woods, William",,1740-01-01,37.2268,-76.45376
+1740,16987,Cornwall,"Africa, port unspecified",Bristol,York River,,"Rickards, Joseph",,1740-01-01,37.2268,-76.45376
+1740,16996,Marlborough,Calabar,Bristol,York River,260,"Blanning, John",,1740-01-01,37.2268,-76.45376
+1740,17000,Palmtree,Bonny,Bristol,York River,120,"Culme, Richard<br/> Rice, William",,1740-01-01,37.2268,-76.45376
+1740,17009,Williamsburgh,Bonny,Bristol,York River,230,"Lambert, Jonathan",,1740-01-01,37.2268,-76.45376
+1740,92328,Bridgett,"Africa, port unspecified",Liverpool,South Potomac,53,"Rosson, Henry<br/> Plume<br/> Carrel, James",,1740-01-01,38.10394,-76.52077
+1740,94736,Gambia Merchant,Gambia,Liverpool,Rappahannock,139,"Cutler, Egerton",,1740-01-01,37.59826,-76.38813
+1740,94738,Dove,"Africa, port unspecified",Liverpool,Upper James River,62,"Lee, John<br/> Corrin, William",,1740-01-01,37.5184,-77.42742
+1741,17023,Molly,"Africa, port unspecified",Bristol,Upper James River,206,"Perry, George",,1741-01-01,37.5184,-77.42742
+1741,17024,Nancy,Calabar,Bristol,Upper James River,182,"Malcolme, John<br/> Crawley",,1741-01-01,37.5184,-77.42742
+1741,17034,Seaflower,Calabar,Bristol,York River,169,"Elsworthy, John<br/> Edwards, John",,1741-01-01,37.2268,-76.45376
+1741,94744,Cape Coast,"Africa, port unspecified",Liverpool,South Potomac,130,"Smith, William",,1741-01-01,38.10394,-76.52077
+1741,94759,Walpole,Gambia,Liverpool,"Virginia, port unspecified",,"Carrey, Ellis",,1741-01-01,37.2268,-76.45376
+1742,17037,Amoretta,Bonny,Bristol,York River,195,"Crode, John",,1742-01-01,37.2268,-76.45376
+1742,17047,George,Calabar,Bristol,Upper James River,310,"Tovey, Edward",,1742-01-01,37.5184,-77.42742
+1742,17059,Shepherd,"Africa, port unspecified",Bristol,Rappahannock,320,"Power, Maurice",,1742-01-01,37.59826,-76.38813
+1742,17062,Vernon,"Africa, port unspecified",Bristol,York River,140,"Forrest, Henry",,1742-01-01,37.2268,-76.45376
+1742,75670,James Gally,"Africa, port unspecified",London,York River,450,"Young, Hasden",,1742-01-01,37.2268,-76.45376
+1743,17068,Broomfield,Bonny,Bristol,York River,164,"Sharp, Joseph",,1743-01-01,37.2268,-76.45376
+1743,17070,Goldfinch,"Africa, port unspecified",Bristol,York River,200,"Quircke, Robert<br/> Spurrier, Walter",,1743-01-01,37.2268,-76.45376
+1743,17072,Henry's,"Africa, port unspecified",Bristol,York River,298,"Little, Joseph",,1743-01-01,37.2268,-76.45376
+1743,17079,Nancy,Calabar,Bristol,Upper James River,213,"Malcolme, John",,1743-01-01,37.5184,-77.42742
+1743,17088,Vernon,Bonny,Bristol,York River,145,"Forrest, Henry",,1743-01-01,37.2268,-76.45376
+1743,17089,Williamsburgh,Bonny,Bristol,Upper James River,300,"Lambert, Jonathan<br/> Tate, John",,1743-01-01,37.5184,-77.42742
+1744,17091,Amoretta,Calabar,Bristol,Upper James River,,"Crode, John<br/> Revel, Isaac<br/> Russell",,1744-01-01,37.5184,-77.42742
+1744,17123,Shepherd,Calabar,Bristol,York River,,"Brown, John",,1744-01-01,37.2268,-76.45376
+1744,92324,Thomas,Gambia,Liverpool,Rappahannock,114,"Wilson, Daniel",,1744-01-01,37.59826,-76.38813
+1744,90416,Gildart,Gambia,Liverpool,"Virginia, port unspecified",,"Holme, Richard",,1744-01-01,37.2268,-76.45376
+1745,17139,Broomfield,"Africa, port unspecified",Bristol,York River,187,"Sharp, Joseph",,1745-01-01,37.2268,-76.45376
+1745,17147,Ranger,Gambia,Bristol,York River,185,"Ebsworthy, Thomas",,1745-01-01,37.2268,-76.45376
+1745,90019,Mercury,Gambia,Liverpool,Rappahannock,140,"Bacon, William",,1745-01-01,37.59826,-76.38813
+1745,90054,Saint George,"Africa, port unspecified",Liverpool,York River,,"Grayson, John",,1745-01-01,37.2268,-76.45376
+1746,17145,Nancy,"Africa, port unspecified",Bristol,Upper James River,209,"Baber, John",,1746-01-01,37.5184,-77.42742
+1746,92505,Planter,"Gold Coast, port unspecified",Liverpool,York River,226,"Foulkes, Thomas",,1746-01-01,37.2268,-76.45376
+1746,92506,Gildart,Gambia,Liverpool,Rappahannock,250,"Holme, Richard",,1746-01-01,37.59826,-76.38813
+1746,17149,Two Brothers,Bonny,Bristol,York River,254,"Jones, William",,1746-01-01,37.2268,-76.45376
+1746,17150,Williamsburgh,"Africa, port unspecified",Bristol,Upper James River,360,"Tate, John",,1746-01-01,37.5184,-77.42742
+1748,17182,Louisa,Bonny,Bristol,"Virginia, port unspecified",,"Seires, John",,1748-01-01,37.2268,-76.45376
+1749,17197,Amoretta,Calabar,Bristol,Upper James River,185,"Timberman, Samuel",,1749-01-01,37.5184,-77.42742
+1749,17208,Levant,Bonny,Bristol,York River,252,"Miller, William",,1749-01-01,37.2268,-76.45376
+1749,17217,Southwell,Malembo,Bristol,Upper James River,284,"Brackenridge, John",,1749-01-01,37.5184,-77.42742
+1749,17224,Tryall,Malembo,Bristol,Upper James River,356,"Saunders, Abraham",,1749-01-01,37.5184,-77.42742
+1749,17226,Williamsburgh,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,335,"Tate, John",,1749-01-01,37.5184,-77.42742
+1749,90040,William,Calabar,Liverpool,York River,350,"Simmons, John",,1749-01-01,37.2268,-76.45376
+1749,90427,Susanna,"Africa, port unspecified",,York River,200,"Fryer, Edward",,1749-01-01,37.2268,-76.45376
+1750,25211,Brithe Betty,"Africa, port unspecified",,Rappahannock,136,"Moore, Hugh",,1750-01-01,37.59826,-76.38813
+1750,17227,Africa,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,280,"Miller, William<br/> Miller, Alexander",,1750-01-01,37.5184,-77.42742
+1750,17238,Hope,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,153,"Clayton, John",,1750-01-01,37.5184,-77.42742
+1751,25799,Anne and Susanna,"Africa, port unspecified",,Hampton,48,"Boyes, Michael",,1751-01-01,37.0297,-76.3456
+1751,24934,Mary,"Africa, port unspecified",,"Virginia, port unspecified",,"Stainforth, John",,1751-01-01,37.2268,-76.45376
+1751,17276,Tryal,"West Central Africa and St. Helena, port unspecified",Bristol,York River,402,"Saunders, Abraham",,1751-01-01,37.2268,-76.45376
+1751,17277,Williamsburgh,Bonny,Bristol,Upper James River,295,"Tate, John<br/> Sword, James",,1751-01-01,37.5184,-77.42742
+1751,90357,Penelope,Gambia,Liverpool,Upper James River,208,"Gother, Anthony",,1751-01-01,37.5184,-77.42742
+1752,27091,Happy,Ambriz,Whitehaven,Rappahannock,114,"Lyndon, Roger<br/> Harrison, Henry",,1752-01-01,37.59826,-76.38813
+1752,24997,Whittington,"Africa, port unspecified",,Rappahannock,,,,1752-01-01,37.59826,-76.38813
+1752,25212,Potomack Merchant,Bonny,Montrose,South Potomac,197,"Gibson, Thomas<br/> Hartley, Richard",,1752-01-01,38.10394,-76.52077
+1752,17278,Africa,New Calabar,Bristol,Upper James River,260,"Miller, Alexander",,1752-01-01,37.5184,-77.42742
+1752,17279,Ann Gally,Calabar,Bristol,Upper James River,240,"Robe, Alexander",,1752-01-01,37.5184,-77.42742
+1752,17280,Black Prince,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,York River,214,"Miller, William",,1752-01-01,37.2268,-76.45376
+1752,17287,Greyhound,"West Central Africa and St. Helena, port unspecified",Bristol,York River,336,"Davies, John",,1752-01-01,37.2268,-76.45376
+1752,17288,Hampton,Bonny,Bristol,Bermuda Hundred,273,"Skinner, John<br/> Whiltshire, Edward",,1752-01-01,#N/A,#N/A
+1752,17293,Levant,Calabar,Bristol,York River,184,"McMurdo, James",,1752-01-01,37.2268,-76.45376
+1752,17297,Penelope,"West Central Africa and St. Helena, port unspecified",Bristol,Rappahannock,223,"Clark, John",,1752-01-01,37.59826,-76.38813
+1752,17301,Susanna,Bonny,Bristol,Upper James River,233,"Cowie, Robert",,1752-01-01,37.5184,-77.42742
+1752,17304,Tryall,"Africa, port unspecified",Bristol,York River,182,"Little, Joseph",,1752-01-01,37.2268,-76.45376
+1752,75242,Castleton,Gambia,Lancaster,Upper James River,70,"Tindale, Henry",,1752-01-01,37.5184,-77.42742
+1752,75889,Molly,"West Central Africa and St. Helena, port unspecified",London,York River,205,"Lane, Joseph",,1752-01-01,37.2268,-76.45376
+1752,76204,Saint Paul,Gambia,London,Hampton,124,"James, Tubley",,1752-01-01,37.0297,-76.3456
+1752,90187,Cumberland,Gambia,Liverpool,York River,103,"Griffin, John",,1752-01-01,37.2268,-76.45376
+1752,90270,Betty (a) Lovely Betty,"Windward Coast, place unspecified",Liverpool,"Virginia, port unspecified",,"Jackson, George",,1752-01-01,37.2268,-76.45376
+1752,90278,Boyne,Bonny,Liverpool,York River,203,"Wilkinson, William",,1752-01-01,37.2268,-76.45376
+1752,90297,Orrell,Gambia,Liverpool,York River,81,"Lacer, Samuel<br/> Whitesides, John<br/> Griffin, James",,1752-01-01,37.2268,-76.45376
+1752,90304,Minerva,Gambia,Liverpool,Rappahannock,160,"Jordan, Thomas",,1752-01-01,37.59826,-76.38813
+1752,90359,George,"West Central Africa and St. Helena, port unspecified",,Lower James River,54,"Cooke, Charles",,1752-01-01,36.95002,-76.38292
+1752,90404,Alice Gally,"Gold Coast, port unspecified",,York River,260,"Jackson, Richard",,1752-01-01,37.2268,-76.45376
+1752,90413,Elizabeth,Gambia,Liverpool,"Virginia, port unspecified",130,"Hayes, William",,1752-01-01,37.2268,-76.45376
+1753,26100,Delight,Gambia,Montrose,"Virginia, port unspecified",125,"Elphinstone, J",,1753-01-01,37.2268,-76.45376
+1753,24990,Whittington,"Africa, port unspecified",Whitehaven,"Virginia, port unspecified",,"Troughear, Thos",,1753-01-01,37.2268,-76.45376
+1753,17305,Africa,"Africa, port unspecified",Bristol,Upper James River,,"Miller, Alexander",,1753-01-01,37.5184,-77.42742
+1753,17306,Black Prince,Bonny,Bristol,York River,,"Miller, William",,1753-01-01,37.2268,-76.45376
+1753,17316,Hope,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Owens, William<br/> Richardson, James",,1753-01-01,37.2268,-76.45376
+1753,90166,Lintot,Calabar,Liverpool,"Virginia, port unspecified",,"Lowe, Ralph",,1753-01-01,37.2268,-76.45376
+1753,90188,Cumberland,Gambia,Liverpool,"Virginia, port unspecified",,"Allen, Patrick",,1753-01-01,37.2268,-76.45376
+1753,90343,True Blue,Benin,Liverpool,"Virginia, port unspecified",72,"Wade, Benjamin",,1753-01-01,37.2268,-76.45376
+1753,90361,Nancy,Gambia,Liverpool,"Virginia, port unspecified",,"Midgley, Thomas",,1753-01-01,37.2268,-76.45376
+1754,17329,Africa,"Africa, port unspecified",Bristol,Upper James River,240,"Miller, Alexander",,1754-01-01,37.5184,-77.42742
+1755,17388,Duke of Cumberland,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Bristol,Upper James River,301,"Knowles, Henry",,1755-01-01,37.5184,-77.42742
+1758,90746,Ann and Betty,"Windward Coast, place unspecified",Liverpool,"Virginia, port unspecified",123,"Nichols, Timothy",,1758-01-01,37.2268,-76.45376
+1758,17431,Betsey,"Africa, port unspecified",Bristol,"Virginia, port unspecified",,"Rait, Robert",,1758-01-01,37.2268,-76.45376
+1759,25800,Petersburg,Gambia,"Virginia, port unspecified",Lower James River,21,"Saunders, Francis",,1759-01-01,36.95002,-76.38292
+1759,26094,Agnes,"Africa, port unspecified",Greenock,"Virginia, port unspecified",,"Duthie, Robert",,1759-01-01,37.2268,-76.45376
+1759,27057,Lowther,"Africa, port unspecified",Lancaster,Hampton,,,,1759-01-01,37.0297,-76.3456
+1759,90738,Willy,Gambia,Liverpool,"Virginia, port unspecified",,"Clarke, William",,1759-01-01,37.2268,-76.45376
+1759,17432,Black Prince,Malembo,Bristol,Upper James River,500,"Miller, William",,1759-01-01,37.5184,-77.42742
+1759,17441,Molly,Bonny,Bristol,"Virginia, port unspecified",238,"Jenkins, William",,1759-01-01,37.2268,-76.45376
+1759,75878,Mildred,Saint-Louis,London,"Virginia, port unspecified",,"Miller, Joseph",,1759-01-01,37.2268,-76.45376
+1760,25213,Salisbury,"Africa, port unspecified",,Upper James River,76,"Martin, Thomas",,1760-01-01,37.5184,-77.42742
+1760,25214,Agnes,Bance/Bunce Island,Greenock,Upper James River,202,"Duthie, Robert",,1760-01-01,37.5184,-77.42742
+1760,75026,Africa Packet,Saint-Louis,London,Hampton,60,"Manson, Robert<br/> Morris",,1760-01-01,37.0297,-76.3456
+1760,90670,Mary,Bonny,Liverpool,Rappahannock,128,"Kelly, John<br/> Cottyman, Thomas<br/> Kerr, Daniel",,1760-01-01,37.59826,-76.38813
+1760,90799,Juba,Iles de Los,Liverpool,Upper James River,225,"Tallon, John",,1760-01-01,37.5184,-77.42742
+1760,17455,Eugene,"Windward Coast, place unspecified",Bristol,Upper James River,359,"Strange, William<br/> Engledue, William",,1760-01-01,37.5184,-77.42742
+1760,76153,Sarah,Saint-Louis,London,South Potomac,80,"Coverdale, Norrison",,1760-01-01,38.10394,-76.52077
+1760,77725,Woodford,"Africa, port unspecified",London,Potomac river,,"Hall, Jno",,1760-01-01,37.91873,-76.27
+1760,90338,Marques of Rockingham,Sierra Leone estuary,Liverpool,Rappahannock,200,"Evans, George",,1760-01-01,37.59826,-76.38813
+1761,24838,Richardson,Saint-Louis,Whitehaven,"Virginia, port unspecified",,"Miller, Jos",,1761-01-01,37.2268,-76.45376
+1761,90760,Alice,Loango,Liverpool,Rappahannock,122,"Murdock, Samuel",,1761-01-01,37.59826,-76.38813
+1761,90783,Hare,Banana Islands,Liverpool,Rappahannock,258,"Colley, George",,1761-01-01,37.59826,-76.38813
+1761,90822,Dove,"Senegambia and offshore Atlantic, port unspecified",Liverpool,Rappahannock,140,"Williams, Hugh",,1761-01-01,37.59826,-76.38813
+1761,90856,Peggy,Iles de Los,Liverpool,Rappahannock,147,"Davies, Cuthbert",,1761-01-01,37.59826,-76.38813
+1761,90873,Eadith,Bassa,Liverpool,York River,154,"Jordan, Thomas",,1761-01-01,37.2268,-76.45376
+1761,90880,Bassa,"Windward Coast, place unspecified",Liverpool,Rappahannock,170,"Lowe, William",,1761-01-01,37.59826,-76.38813
+1761,90888,William and Edward,"Windward Coast, place unspecified",Liverpool,Rappahannock,117,"Foster, William",,1761-01-01,37.59826,-76.38813
+1761,90920,Nanny,Saint-Louis,Liverpool,Upper James River,110,"McDougal, James",,1761-01-01,37.5184,-77.42742
+1761,17483,Greyhound,"Africa, port unspecified",Bristol,Upper James River,215,"Robe, Alexander",,1761-01-01,37.5184,-77.42742
+1761,75563,Granby,Gorée,London,York River,37,"Furlong, William",,1761-01-01,37.2268,-76.45376
+1762,21911,Agnes,Gambia,Greenock,"Virginia, port unspecified",118,"Duthie, Robert",,1762-01-01,37.2268,-76.45376
+1762,36251,Little Betsey,"Africa, port unspecified","Rhode Island, port unspecified",York River,64,"Hicks, Benj",,1762-01-01,37.2268,-76.45376
+1762,36255,Nancy,Cape Coast Castle,"Rhode Island, port unspecified","Virginia, port unspecified",170,"Rodman, William",,1762-01-01,37.2268,-76.45376
+1762,90921,Nanny,Saint-Louis,Liverpool,"Virginia, port unspecified",103,"McDougal, James",,1762-01-01,37.2268,-76.45376
+1762,90946,Lancashire Witch,"Windward Coast, place unspecified",Liverpool,Rappahannock,186,"Ross, Henry",,1762-01-01,37.59826,-76.38813
+1762,90949,Panther,"Gold Coast, port unspecified",Liverpool,Rappahannock,106,"Davis, Thomas<br/> Kempstead, Benjamin",,1762-01-01,37.59826,-76.38813
+1762,90963,Polly,"Senegambia and offshore Atlantic, port unspecified",Liverpool,Rappahannock,222,"Boyd, Robert<br/> Carrol, Hugh",,1762-01-01,37.59826,-76.38813
+1762,90983,Briton,"Whydah, Ouidah",Liverpool,Rappahannock,180,"Bagshaw, William<br/> Wilson, David",,1762-01-01,37.59826,-76.38813
+1762,17506,Hector,"West Central Africa and St. Helena, port unspecified",Bristol,Upper James River,512,"Chilcott, John",,1762-01-01,37.5184,-77.42742
+1762,17741,Roebuck,Bonny,Bristol,Upper James River,383,"Gullan, Thomas",,1762-01-01,37.5184,-77.42742
+1762,75976,Phoenix,Cape Coast Castle,London,"Virginia, port unspecified",,"McGachen, Wm",,1762-01-01,37.2268,-76.45376
+1762,77757,Hawke,"Africa, port unspecified",London,Rappahannock,93,"Watson, John",,1762-01-01,37.59826,-76.38813
+1763,25224,Durnell,"Africa, port unspecified",Boston,Upper James River,80,"Spear, Gresham",,1763-01-01,37.5184,-77.42742
+1763,25305,Elizabeth and Mary,"Africa, port unspecified",Philadelphia,Rappahannock,80,"Taylor, William",,1763-01-01,37.59826,-76.38813
+1763,25306,Thomas,"Africa, port unspecified","Virginia, port unspecified",Hampton,60,"Thomas, Charles",,1763-01-01,37.0297,-76.3456
+1763,25307,Pompey,"Windward Coast, place unspecified",,Bermuda Hundred,81,"Easton, John",,1763-01-01,#N/A,#N/A
+1763,36269,Little Sally,"Africa, port unspecified","Rhode Island, port unspecified",Upper James River,62,"Taylor, William",,1763-01-01,37.5184,-77.42742
+1763,91010,Renown,"Windward Coast, place unspecified",Liverpool,Upper James River,170,"Pemberton, Samuel",,1763-01-01,37.5184,-77.42742
+1763,17518,Africa,Bonny,Bristol,Upper James River,270,"Watkins, William",,1763-01-01,37.5184,-77.42742
+1763,17549,Greyhound,Bonny,Bristol,Upper James River,421,"Robe, Alexander",,1763-01-01,37.5184,-77.42742
+1764,91085,True Blue,Benin,Liverpool,Upper James River,361,"Hutton, Joshua",,1764-01-01,37.5184,-77.42742
+1764,17550,Hector,Malembo,Bristol,Upper James River,480,"Chilcott, John",,1764-01-01,37.5184,-77.42742
+1764,75173,Black Prince,Saint-Louis,London,Rappahannock,81,"Watson, John",,1764-01-01,37.59826,-76.38813
+1764,75527,Friendship,Saint-Louis,London,"Virginia, port unspecified",,Webster,,1764-01-01,37.2268,-76.45376
+1765,25308,Alice,Saint-Louis,"Virginia, port unspecified",South Potomac,71,"Sinclair, Arthur",,1765-01-01,38.10394,-76.52077
+1765,25309,Black Prince,"Africa, port unspecified",,Bermuda Hundred,120,"Thomas, Charles",,1765-01-01,#N/A,#N/A
+1766,91059,Apollo,"Africa, port unspecified",Liverpool,Bermuda Hundred,197,"Glover, Elias",,1766-01-01,#N/A,#N/A
+1766,91118,Bassa,"Africa, port unspecified",Liverpool,Upper James River,108,"Arney, John<br/> Emery<br/> Clegg, Richard",,1766-01-01,37.5184,-77.42742
+1767,36345,Othello,"Africa, port unspecified","Rhode Island, port unspecified","Virginia, port unspecified",87,"Duncan, John",,1767-01-01,37.2268,-76.45376
+1768,70016,Othello,"Africa, port unspecified",,"Virginia, port unspecified",90,"Duncan, John",,1768-01-01,37.2268,-76.45376
+1768,91253,Delight,Mano,Liverpool,"Virginia, port unspecified",,"Millroy, William",,1768-01-01,37.2268,-76.45376
+1768,17650,Juba,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,207,"White, Joseph",,1768-01-01,#N/A,#N/A
+1769,36371,Othello,Anomabu,"Rhode Island, port unspecified",Upper James River,76,"Duncan, John<br/> Goodman<br/> Halvorson",,1769-01-01,37.5184,-77.42742
+1769,17687,Amelia,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,234,"Duncombe, Thomas",,1769-01-01,#N/A,#N/A
+1770,91580,Martha,Bassa,Liverpool,Bermuda Hundred,148,"Bisbrown, John",,1770-01-01,#N/A,#N/A
+1770,91592,Aston,Gambia,Liverpool,Upper James River,143,"Clifton, John",,1770-01-01,37.5184,-77.42742
+1770,91463,Peggy,"Windward Coast, place unspecified",Liverpool,Georgetown,144,"Sharp, William",,1770-01-01,0,0
+1770,91540,Yanimarew,Gambia,Liverpool,Bermuda Hundred,240,"Atkinson, Thomas",,1770-01-01,#N/A,#N/A
+1770,17730,Industry,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,160,"Wright, Mungo",,1770-01-01,#N/A,#N/A
+1771,24688,Cambridge,Cameroons,,"Virginia, port unspecified",,Hatton,,1771-01-01,37.2268,-76.45376
+1771,36404,Othello,Anomabu,Newport,Rappahannock,87,"Duncan, John<br/> Stanton, John",,1771-01-01,37.59826,-76.38813
+1771,91678,Friendship,Gambia,Liverpool,Hampton,13,"Field, Stephen",,1771-01-01,37.0297,-76.3456
+1772,91789,Union,Anomabu,Liverpool,Osborne's Landing,280,"Pole, Charles",,1772-01-01,#N/A,#N/A
+1772,91803,Fox,Cameroons,Liverpool,"Virginia, port unspecified",250,"Peers, John",,1772-01-01,37.2268,-76.45376
+1772,70017,Othello,"Africa, port unspecified",,"Virginia, port unspecified",,"Duncan, John",,1772-01-01,37.2268,-76.45376
+1772,91402,Nancy,"Sierra Leone, port unspecified",Liverpool,Osborne's Landing,250,"Colley, James Eckley",,1772-01-01,#N/A,#N/A
+1772,17792,Polly,"West Central Africa and St. Helena, port unspecified",Bristol,Bermuda Hundred,450,"Duncomb, Thomas",,1772-01-01,#N/A,#N/A
+1772,17794,Thomas,,Bristol,Osborne's Landing,200,"Lewis, Thomas",,1772-01-01,#N/A,#N/A
+1772,17821,Prince of Wales,Calabar,Bristol,Bermuda Hundred,280,"Bivins, James",,1772-01-01,#N/A,#N/A
+1773,36443,Othello,Anomabu,Newport,Rappahannock,63,"Duncan, John",,1773-01-01,37.59826,-76.38813
+1774,24744,Trident,"Africa, port unspecified",,"Virginia, port unspecified",,"Mitchell, James",,1774-01-01,37.2268,-76.45376
