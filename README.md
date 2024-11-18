@@ -148,9 +148,3 @@ I am beyond grateful for and indebted to the expertise, unwavering support, and 
 - The [Digital Slavery Research Lab](https://www.colorado.edu/lab/dsrl/) at the University of Colorado Boulder
 - The [Center for Research Data & Digital Scholarship](https://www.colorado.edu/crdds/) at the University of Colorado Boulder
 - The faculty and advisors for the [Digital Humanities Certificate](https://www.colorado.edu/crdds/dhgc) program at the University of Colorado Boulder
-
-## Further Reading and Research at Interdisciplinary Intersections
-- 
-
-
-
