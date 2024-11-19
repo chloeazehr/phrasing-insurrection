@@ -148,3 +148,15 @@ I am beyond grateful for and indebted to the expertise, unwavering support, and 
 - The [Digital Slavery Research Lab](https://www.colorado.edu/lab/dsrl/) at the University of Colorado Boulder
 - The [Center for Research Data & Digital Scholarship](https://www.colorado.edu/crdds/) at the University of Colorado Boulder
 - The faculty and advisors for the [Digital Humanities Certificate](https://www.colorado.edu/crdds/dhgc) program at the University of Colorado Boulder
+
+## Additional Scholarship
+- Jo Guldi, *The Dangerous Art of Text Mining: A Methodology for Digital History* (Cambridge University Press, 2023)
+- Jennifer L. Morgan, *Reckoning with Slavery: Gender, Kinship, and Capitalism in the Early Black Atlantic* (Duke University Press, 2021)
+- David Eltis, *The Rise of African Slavery in the Americas* (Cambridge: Cambridge University Press, 1999)
+- Robert G. Parkinson, *The Common Cause: Creating Race and Nation in the American Revolution* (University of North Carolina Press, 2016)
+- Robert Nowatzki, “From Datum to Databases: Digital Humanities, Slavery, and Archival Reparations,” The American Archivist 83, no. 2 (March 8, 2021): 429–48
+- David A. Copeland, Colonial American Newspapers: Character and Content (Newark: University of Delaware Press, 1997)
+- Jason T. Sharples, *The World That Fear Made: Slave Revolts and Conspiracy Scares in Early America* (Philadelphia: University of Pennsylvania Press, 2020)
+- Vincent Brown, *Tacky’s Revolt: The Story of an Atlantic Slave War* (Cambridge, Massachusetts: The Belknap Press of Harvard University Press, 2020)
+- Stephanie Smallwood, *Saltwater Slavery: A Middle Passage from Africa to American Diaspora* (Cambridge, MA: Harvard University Press, 2007)
+- For contemporary scholarship at the intersections of data and slavery see the [Journal of Slavery and Data Preservation](https://jsdp.enslaved.org/)
