@@ -133,6 +133,9 @@ The cited primary sources and data created for this project are derived from the
 #### A Note on Replicating Results and Code
 I have attempted to thoroughly annotate and document my code in the RMD files stored within this repository for each corpus. Each code chunk has an explanatory title and other necessary information regarding the code. However, for more complex coding skills, such as adapting the functions I wrote for tokenizing text or appending year information, please consult outside resources to ensure that any code replicated or adapted meets desired requirements. Keep in mind that this code was designed for working with small amounts of historic text data and thus is a specific use-case. 
 
+## Licenses
+TBD
+
 ## Author
 Chloe A. Zehr (she/they)
 B.A., History, University of California, Santa Barbara, 2021
