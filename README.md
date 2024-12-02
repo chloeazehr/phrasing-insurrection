@@ -134,7 +134,7 @@ The cited primary sources and data created for this project are derived from the
 I have attempted to thoroughly annotate and document my code in the RMD files stored within this repository for each corpus. Each code chunk has an explanatory title and other necessary information regarding the code. However, for more complex coding skills, such as adapting the functions I wrote for tokenizing text or appending year information, please consult outside resources to ensure that any code replicated or adapted meets desired requirements. Keep in mind that this code was designed for working with small amounts of historic text data and thus is a specific use-case. 
 
 ## Licenses
-TBD
+CC0 1.0 Universal
 
 ## Author
 Chloe A. Zehr (she/they)
@@ -164,6 +164,3 @@ I am beyond grateful for and indebted to the expertise, unwavering support, and 
 - Stephanie Smallwood, *Saltwater Slavery: A Middle Passage from Africa to American Diaspora* (Cambridge, MA: Harvard University Press, 2007)
 - For contemporary scholarship at the intersections of data and slavery see the [Journal of Slavery and Data Preservation](https://jsdp.enslaved.org/)
 - For recent conversations regarding redefining African regions the resource [African Regions](https://www.africanregions.org/index.php) offers useful maps as well as historiographical context.
-
-## License
-CC0 1.0 Universal
