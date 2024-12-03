@@ -3,6 +3,8 @@ This respository contains the associated data and code for "Phrasing Insurrectio
 
 > “Language, incontestably, reveals the speaker. Language, also, far more dubiously, is meant to define the other—and, in this case, the other is refusing to be defined by a language that has never been able to recognize him. People evolve a language in order to describe and thus control their circumstances, or in order not to be submerged by a reality that they cannot articulate. (And, if they cannot articulate it, they are submerged.)” - James Baldwin, “If Black English Isn’t a Language, Then Tell Me, What Is?” (1979)
 
+--- 
+
 ## Project Description
 This thesis explores the scopes and limitations of what text mining for historical analysis can reveal about the cognizant work of white settlers, slave traders, merchants, ship captains, planters, and administrators to iteratively make sense of collective enslaved resistance within a social order predicated on the production of racial difference. In turn, computational text analysis brings into view habitual grammatical constructions, such as colonial reports’ reticence to situate enslaved people as syntactic agents in accounts referencing forms of occurred or intended violent black unrest, that white authors mobilized to reinforce and reshape contingent boundaries of white subjecthood, otherness, enslaveability, and property in the eighteenth century. What can re-counting words reveal?
 
@@ -11,6 +13,8 @@ By engaging with such questions, this project employs digital methods to re-exam
 To locate and isolate lexical descriptions of armed or violent black unrest, I define the rhetoric of collective enslaved resistance—a phrase I employ interchangeably with the historian Kellie Carter Jackson’s notion of black “political violence,”—as the language white authors used to describe, lament, and imagine acts of open enslaved insurrection, conspiracy scares, plots, and uprisings. Although the primary focus of this study is on the text published in the colonial press, I employ the term "political violence" in order to reflect the complex reality that resistance to slavery in the Americas was often a continuation of warfare from West Africa. Moreover, this transnational and diasporic framework has afforded historians new insights into how what was happening in West Africa among ethnic groups such as the Mande, Bullom, Temne, Vai, and Kru, shaped the trajectories of men and women's enslavement before arriving to the Carolinas and the Chesapeake regions. The complexity of captives cultural and ethnolinguistic backgrounds is reflected in diasporic communities such as the Gullah Geechee, descendants of enslaved captives from West and Central Africa who still reside in the lower Atlatnic states. Scholarship of historians such as Marcus Rediker and Vincent Brown highlight the centrality of Africa polities to the development of Atlantic warefare, enslaved resistance, and European Atlatic Empires. Witin the colonial North American press, printers also included articles and advertisements that highlighted enslaved people's methods of everyday resistance such as escape, work slowdowns, sabotage, and community cultivation. However, the language used to describe these facets of enslaved resistance are generally excluded from textual data examined in this project—but it is crucial to keep in mind that methods of black political violence and enslaved resistance in the eighteenth century were never mutually exclusive. In addition, I employ the term *black* within this study in the same vein as scholars such as Jennifer Morgan and Katherine Mckittrick, who use the term to refer not only to people from Africa and their descendants, but also to reflect the idea of the Black Atlantic. Both Morgan and Mckittrick's scholarship explore how contested conceptions of historic blackness emerged in the early modern Atlantic, charting new historiographic paths forward for the study of racial slavery and black diasporic experience.
 
 As a case study, this project engages with contemporary discussions at the forefront of interdisciplinary scholarship at the intersections between studies of early modern slavery, enslaved resistance, colonialism, race, and capitalism and digital history, digital humanities (particularly critical black DH), and data science. However, as an experiment it remains hyper-focussed on the possibilities of close historical contextualization of even the smallest patterns that emerge through computational inquiry.
+
+---
 
 ## Why Digital History? What can text data show us?
 #### Co-Occurrence of Nouns and Adjectives in Corpus One 1732-1742
@@ -80,10 +84,14 @@ This map illustrates the violent trafficking of people from Africa and their des
 ### Computational Techniques
 Through methods of text mining for historical analysis, the computational research produced in this project primarily focused on linguistic features such as collocations, context-dependent pairings of words that frequently occur together; concordances, a tool for viewing all instances of a given word or phrase and its surrounding context; part of speech co-occurrence; the frequency of passive voice constructions; and syntactic dependency relationships, which refer to the grammatical relations between words in a sentence. In particular, this study focused continuities and discontinuties in part of speech co-occurrence, such as pronouns and adjectives or nouns, and diachronic rates of passive and active voice constructions. The greatest challenge to employing these methods to explore the rhetoric of collective enslaved resistance published in the *South Carolina Gazette* and *Virginia Gazette* is the fact that both newspapers published relatively few total words on the topic—a product of doing business in Lowcountry and Chesapeake in the eighteenth century. It is for this reason that this study does not employ digital methods such as word embeddings, which enables computers to represent words as numbers that can produce abstract conceptions of word similarity over time, or statistical measurements of significance. Thus, as a case study this project primarily illustrates the fine-grained ways in which historians working with relatively small amounts of historic data can still appropriately and productively enage with digital methods to ask new questions about the past. 
 
+---
+
 ## Data/Corpora
 To transform the rhetoric of collective enslaved resistance published in the *South Carolina Gazette* and *Virginia Gazette* into computationally accessible data, I designed and generated a corpus, meaning a collection of text basic supplemental metadata, for each publication. The first dataset, called Corpus One, contains 18,060 words published across forty-five articles in the *South Carolina Gazette* between the 1730s and the 1770s that reference varying forms of collective enslaved resistance. The second dataset, called Corpus Two, contains 24,044 words and metadata for fifty-six articles related to enslaved resistance published in the *Virginia Gazette* during the same time frame. Notably, beginning in 1766, Corpus Two contains some duplicate reports because there were multiple outlets called the *Virginia Gazette* that were published in Williamsburg.  To include as much text data as possible from Williamsburg’s press, Corpus Two contains text, including the same reprinted accounts, from three of the *Virginia Gazette* newspapers. While I primarily refer to the *Virginia Gazette* in the singular, throughout both chapters I am careful to attend to the differences between these publications.
 To find all extant references to collective enslaved resistance in both publications, I used keyword searches in History Commons digitized and transcribed online collections of the South Carolina Gazette and *Virginia Gazette*.  For both publications I used close readings of both publications to inform Boolean operational searches for permutations of terms and phrases including words such as “insurrection,” “slave,” “negro,” “conspiracy,” “rebel,” “plot,” “wicked,” “attempt,” “massacre,” “discover,” “horrid,” “revolt,” “uprising,” and “instigate.” In addition to keyword searches, I cross-referenced primary sources, such as *Lloyd’s List*, legal codes, and slave trade data, as well as secondary scholarship to validate and supplement my manual collection process. Thus, in generating Corpus One and Corpus Two, I endeavored to capture as much of the colonial rhetoric of collective enslaved resistance as I could within the constraints of what has been digitized. 
 For the purposes of content analysis I created a tertiary dataset called Corpus Three that contains 91,746 words across 320 articles, published in both the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775. Corpus Three contains up to ten articles from every year between 1732 and 1775, meaning that for years where both publications printed less than ten articles combined featuring target words, such as “rebellious,” “rebels,” “conspiracy,” “plot,” “insurrection,” or “revolt,” I included all extant articles from that year. 
+
+---
 
 ## Computational Tools and Data/Archival Resources
 ### R and Rstudio
@@ -102,39 +110,43 @@ The cited primary sources and data created for this project are derived from the
 - Sketch Engine: [Sketch Engine](https://www.sketchengine.eu/) is an online computational corpus linguistics platform that supports a wide variety of tools for examining language. The primary draw back of this platform is that it is subscription based.
   
 #### Basic Utility Libraries in R
-- lubridate: for working with dates and times
-- tidyverse: provides general data and text analysis utility
+- `lubridate`: for working with dates and times
+- `tidyverse`: provides general data and text analysis utility
 
 #### Loading Data Libraries in R
-- readxl: loads excel worksheets into Rstudio environment as object (dataset)
+- `readxl`: loads excel worksheets into Rstudio environment as object (dataset)
 - I also made extensive use of R's base capability for reading csv files into the environment
 
 #### Useful Text Mining (many of these overlap in functionality and dependencies) Libraries in R
-- udpipe: this package provides access to natural language processing techniques such as tokenizing, tagging, lemmatization, and dependency parsing
-- tm: faciliates easier creation and inspection of textual corpora
-- stringr: helps to work with and manipulate strings
-- NLP: a natural language processing library
-- tokenizers: a tool for easily tokenizing text into machine readable components
-- stringi: a useful pattern searching/detection tool that allows for the use of regular expressions
-- quanteda: works with text data and has a built in concordance feature
-- textstem: performs lemmatization and stemming
-- tidytext: facilitates conversion of data into tidy formats
+- `udpipe`: this package provides access to natural language processing techniques such as tokenizing, tagging, lemmatization, and dependency parsing
+- `tm`: faciliates easier creation and inspection of textual corpora
+- `stringr`: helps to work with and manipulate strings
+- `NLP`: a natural language processing library
+- `tokenizers`: a tool for easily tokenizing text into machine readable components
+- `stringi`: a useful pattern searching/detection tool that allows for the use of regular expressions
+- `quanteda`: works with text data and has a built in concordance feature
+- `textstem`: performs lemmatization and stemming
+- `tidytext`: facilitates conversion of data into tidy formats
 
 #### Visualization Libraries in R
-- ggplot2: provides access to versatile graphic visualizations and customization
-- ggraph: an extension of ggplot that enables a more flexible framework for visualizing networks using layers
-- igraph: for network analysis and visualization
+- `ggplot2`: provides access to versatile graphic visualizations and customization
+- `ggraph`: an extension of ggplot that enables a more flexible framework for visualizing networks using layers
+- `igraph`: for network analysis and visualization
 
 #### Visualization Aesthetics Libraries in R
-- extrafont: allows access to large libary of fonts for designing visualizations
-- svglite: enables visualizations to be exported as .svg files to maintain quality when resizing
-- ggrepel: for graphing aesthetics with word
+- `extrafont`: allows access to large libary of fonts for designing visualizations
+- `svglite`: enables visualizations to be exported as .svg files to maintain quality when resizing
+- `ggrepel`: for graphing aesthetics with word
 
 #### A Note on Replicating Results and Code
 I have attempted to thoroughly annotate and document my code in the RMD files stored within this repository for each corpus. Each code chunk has an explanatory title and other necessary information regarding the code. However, for more complex coding skills, such as adapting the functions I wrote for tokenizing text or appending year information, please consult outside resources to ensure that any code replicated or adapted meets desired requirements. Keep in mind that this code was designed for working with small amounts of historic text data and thus is a specific use-case. 
 
+---
+
 ## Licenses
 CC0 1.0 Universal
+
+---
 
 ## Author
 Chloe A. Zehr (she/they)
@@ -144,6 +156,8 @@ B.A., History, University of California, Santa Barbara, 2021
 M.A., History, University of Colorado Boulder, 2024
 
 Contact: Chloe.Zehr@colorado.edu & chloeazehr@gmail.com
+
+---
 
 ## Acknowledgements
 I am beyond grateful for and indebted to the expertise, unwavering support, and feedback from the following scholars and interdisciplinary labs at the University of Colorado Boulder who helped me develop and revise this project: 
@@ -155,6 +169,8 @@ I am beyond grateful for and indebted to the expertise, unwavering support, and 
 - The [Digital Slavery Research Lab](https://www.colorado.edu/lab/dsrl/) at the University of Colorado Boulder
 - The [Center for Research Data & Digital Scholarship](https://www.colorado.edu/crdds/) at the University of Colorado Boulder
 - The faculty and advisors for the [Digital Humanities Certificate](https://www.colorado.edu/crdds/dhgc) program at the University of Colorado Boulder
+
+---
 
 ## Additional Scholarship
 - Jo Guldi, *The Dangerous Art of Text Mining: A Methodology for Digital History* (Cambridge University Press, 2023)
