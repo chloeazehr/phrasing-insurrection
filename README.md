@@ -5,6 +5,8 @@ This respository contains the associated data and code for "Phrasing Insurrectio
 > “Language, incontestably, reveals the speaker. Language, also, far more dubiously, is meant to define the other—and, in this case, the other is refusing to be defined by a language that has never been able to recognize him. People evolve a language in order to describe and thus control their circumstances, or in order not to be submerged by a reality that they cannot articulate. (And, if they cannot articulate it, they are submerged.)” - James Baldwin, “If Black English Isn’t a Language, Then Tell Me, What Is?” (1979)
 
 --- 
+** Explore this project on GitHub Pages: [Phrasing Insurrection](https://chloeazehr.github.io/phrasing-insurrection/)**
+---
 
 ## Project Description
 This thesis explores the scopes and limitations of what text mining for historical analysis can reveal about the cognizant work of white settlers, slave traders, merchants, ship captains, planters, and administrators to iteratively make sense of collective enslaved resistance within a social order predicated on the production of racial difference. In turn, computational text analysis brings into view habitual grammatical constructions, such as colonial reports’ reticence to situate enslaved people as syntactic agents in accounts referencing forms of occurred or intended violent black unrest, that white authors mobilized to reinforce and reshape contingent boundaries of white subjecthood, otherness, enslaveability, and property in the eighteenth century. What can re-counting words reveal?
