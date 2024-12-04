@@ -8,6 +8,21 @@ Explore this project on GitHub Pages: [Phrasing Insurrection](https://chloeazehr
 
 ---
 
+## Table of Contents
+
+1. [Project Description](#project-description)
+2. [Why Digital History? What Can Text Data Show Us?](#why-digital-history-what-can-text-data-show-us)
+3. [Overview of Transatlantic and Intercolonial Slave Trades Alongside News of Enslaved Resistance](#overview-of-the-transatlantic-and-intercolonial-slave-trades-to-south-carolina-and-virginia-alongside-reports-refercing-collective-enslaved-resistance-printed-in-the-south-carolina-gazette-and-virginia-gazette-in-the-eighteenth-century)
+4. [Computational Methods](#computational-techniques)
+5. [Data & Corpora](#datacorpora)
+6. [Computational Tools and Data/Archival Resources](#computational-tools-and-dataarchival-resources)
+7. [Licenses](#licenses)
+8. [Author](#author)
+9. [Acknowledgements](#acknowledgements)
+10. [Additional Scholarship](#additional-scholarship)
+
+---
+
 ## Project Description
 This thesis explores the scopes and limitations of what text mining for historical analysis can reveal about the cognizant work of white settlers, slave traders, merchants, ship captains, planters, and administrators to iteratively make sense of collective enslaved resistance within a social order predicated on the production of racial difference. In turn, computational text analysis brings into view habitual grammatical constructions, such as colonial reports’ reticence to situate enslaved people as syntactic agents in accounts referencing forms of occurred or intended violent black unrest, that white authors mobilized to reinforce and reshape contingent boundaries of white subjecthood, otherness, enslaveability, and property in the eighteenth century. What can re-counting words reveal?
 
@@ -84,12 +99,12 @@ This map illustrates the violent trafficking of people from Africa and their des
 
 This map illustrates the violent trafficking of people from Africa and their descendants to the British North American colony of Virginia between 1736 and 1775. It is important to note that this map currently solely displays data by year because the data for specific dates that voyages began and ended are often incomplete (this is especially true of data regarding the date of enslaved captives purchase and embarkation from Africa and other Atlantic colonies). Using a heatmap, this map displays extant locations of [transatlantic](https://www.slavevoyages.org/voyages/qYCan1Ao) and [intercolonial](https://www.slavevoyages.org/voyages/xMxYCnNz) embarkation regions derived from the Slave Voyages database. This map displays the same variables as the previous.
 
-### Computational Techniques
+### Computational Methods
 Through methods of text mining for historical analysis, the computational research produced in this project primarily focused on linguistic features such as collocations, context-dependent pairings of words that frequently occur together; concordances, a tool for viewing all instances of a given word or phrase and its surrounding context; part of speech co-occurrence; the frequency of passive voice constructions; and syntactic dependency relationships, which refer to the grammatical relations between words in a sentence. In particular, this study focused continuities and discontinuties in part of speech co-occurrence, such as pronouns and adjectives or nouns, and diachronic rates of passive and active voice constructions. The greatest challenge to employing these methods to explore the rhetoric of collective enslaved resistance published in the *South Carolina Gazette* and *Virginia Gazette* is the fact that both newspapers published relatively few total words on the topic—a product of doing business in Lowcountry and Chesapeake in the eighteenth century. It is for this reason that this study does not employ digital methods such as word embeddings, which enables computers to represent words as numbers that can produce abstract conceptions of word similarity over time, or statistical measurements of significance. Thus, as a case study this project primarily illustrates the fine-grained ways in which historians working with relatively small amounts of historic data can still appropriately and productively enage with digital methods to ask new questions about the past. 
 
 ---
 
-## Data/Corpora
+## Data & Corpora
 To transform the rhetoric of collective enslaved resistance published in the *South Carolina Gazette* and *Virginia Gazette* into computationally accessible data, I designed and generated a corpus, meaning a collection of text basic supplemental metadata, for each publication. The first dataset, called Corpus One, contains 18,060 words published across forty-five articles in the *South Carolina Gazette* between the 1730s and the 1770s that reference varying forms of collective enslaved resistance. The second dataset, called Corpus Two, contains 24,044 words and metadata for fifty-six articles related to enslaved resistance published in the *Virginia Gazette* during the same time frame. Notably, beginning in 1766, Corpus Two contains some duplicate reports because there were multiple outlets called the *Virginia Gazette* that were published in Williamsburg.  To include as much text data as possible from Williamsburg’s press, Corpus Two contains text, including the same reprinted accounts, from three of the *Virginia Gazette* newspapers. While I primarily refer to the *Virginia Gazette* in the singular, throughout both chapters I am careful to attend to the differences between these publications.
 To find all extant references to collective enslaved resistance in both publications, I used keyword searches in History Commons digitized and transcribed online collections of the South Carolina Gazette and *Virginia Gazette*.  For both publications I used close readings of both publications to inform Boolean operational searches for permutations of terms and phrases including words such as “insurrection,” “slave,” “negro,” “conspiracy,” “rebel,” “plot,” “wicked,” “attempt,” “massacre,” “discover,” “horrid,” “revolt,” “uprising,” and “instigate.” In addition to keyword searches, I cross-referenced primary sources, such as *Lloyd’s List*, legal codes, and slave trade data, as well as secondary scholarship to validate and supplement my manual collection process. Thus, in generating Corpus One and Corpus Two, I endeavored to capture as much of the colonial rhetoric of collective enslaved resistance as I could within the constraints of what has been digitized. 
 For the purposes of content analysis I created a tertiary dataset called Corpus Three that contains 91,746 words across 320 articles, published in both the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775. Corpus Three contains up to ten articles from every year between 1732 and 1775, meaning that for years where both publications printed less than ten articles combined featuring target words, such as “rebellious,” “rebels,” “conspiracy,” “plot,” “insurrection,” or “revolt,” I included all extant articles from that year. 
