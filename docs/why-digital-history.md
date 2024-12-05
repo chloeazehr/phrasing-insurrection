@@ -2,6 +2,7 @@
 layout: single
 title: "Why Digital History"
 toc: true
+sidebar: true 
 ---
 
 ## Why Digital History? What can text data show us?
