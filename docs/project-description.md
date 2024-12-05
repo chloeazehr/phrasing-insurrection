@@ -2,6 +2,7 @@
 layout: single
 title: "Project Description"
 toc: true
+sidebar: true 
 ---
 
 ## Project Description
