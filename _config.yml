@@ -1,49 +1,48 @@
 # Site Information
-title: "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance"
+title: "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette in the Eighteenth Century"
 description: "A master's thesis completed in the University of Colorado Boulder's history department by Chloe Zehr."
-baseurl: "/phrasing-insurrection"  # Ensure this matches your repository name exactly
+baseurl: "/phrasing-insurrection"  # Matches your repository name
 url: "https://chloeazehr.github.io"  # Your GitHub Pages URL
 
 # Theme
-theme: minimal
-
-# Plugins (optional for extra functionality)
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-  - jekyll-seo-tag    # Improves SEO
-  - jekyll-sitemap    # Generates a sitemap.xml for search engines
-  - jekyll-feed       # Provides an RSS feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
-# Sidebar Navigation (manually implemented in layout)
+# Navigation
 defaults:
   - scope:
-      path: ""  # Applies to all files in the repository
+      path: ""  # Applies to all files
     values:
-      sidebar:
-        - title: "Navigation"
-          links:
-            - name: "Home"
-              href: /index.html
-            - name: "About"
-              href: /about.html
-            - name: "Project Description"
-              href: /project-description.html
-            - name: "Why Digital History?"
-              href: /why-digital-history.html
-            - name: "Methodology and Data"
-              href: /methodology-and-data.html
-            - name: "Tools and Resources"
-              href: /tools-and-resources.html
+      layout: single
+      toc: true  # Enables table of contents on each page
 
-# Markdown rendering
-markdown: kramdown
-kramdown:
-  input: GFM  # GitHub Flavored Markdown for compatibility
+# Minimal Mistakes Configuration
+minimal_mistakes_skin: "default"  # Change skin for different styles
+header:
+  title: "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette in the Eighteenth Century"
+  description: "A master's thesis completed in the University of Colorado Boulder's history department by Chloe Zehr."
 
-# Permalinks
-permalink: pretty  # Removes .html extensions from URLs for cleaner links
+# Navigation Links
+nav_links:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Project Description"
+    url: /project-description/
+  - title: "Why Digital History?"
+    url: /why-digital-history/
+  - title: "Methodology and Data"
+    url: /methodology-and-data/
+  - title: "Tools and Resources"
+    url: /tools-and-resources/
 
-# Custom Stylesheet (optional)
-# Uncomment to add custom styles:
-# include:
-#   - assets/style.css
-
+# Footer Links (Optional)
+footer_links:
+  - title: "GitHub"
+    url: "https://github.com/chloeazehr/phrasing-insurrection"
+  - title: "Contact"
+    url: "mailto:chloeazehr@example.com"  # Replace with your actual email
