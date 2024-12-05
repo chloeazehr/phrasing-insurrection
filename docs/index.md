@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: single
 title: "Home"
-description: "Welcome to Phrasing Insurrection"
-permalink: /
 sidebar: true
+toc: true
+toc_sticky: true
+permalink: /about/
 ---
 
 # Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775
