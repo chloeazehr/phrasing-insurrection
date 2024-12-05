@@ -1,9 +1,6 @@
 ---
-layout: single
+layout: default
 title: "Project Description"
-sidebar: true
-toc: true
-toc_sticky: true
 permalink: /project-description/
 ---
 
