@@ -1,9 +1,6 @@
 ---
-layout: single
+layout: default
 title: "Why Digital History?"
-sidebar: true
-toc: true
-toc_sticky: true
 permalink: /why-digital-history/
 ---
 
