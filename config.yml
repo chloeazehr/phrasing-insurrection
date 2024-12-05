@@ -1,0 +1,67 @@
+# Site Information
+title: "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette in the Eighteenth Century"
+description: "A master's thesis completed in the University of Colorado Boulder's history department by Chloe Zehr."
+baseurl: "/phrasing-insurrection"  # Matches your repository name
+url: "https://chloeazehr.github.io"  # Your GitHub Pages URL
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Defaults for Pages
+defaults:
+  - scope:
+      path: ""  # Applies to all files
+    values:
+      layout: single
+      toc: true         # Enables table of contents on each page
+      toc_sticky: true  # Makes the TOC sticky as you scroll
+      sidebar: true     # Enables the sidebar globally
+
+# Minimal Mistakes Configuration
+minimal_mistakes_skin: "default"  # Change skin for different styles
+header:
+  title: "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette in the Eighteenth Century"
+  description: "A master's thesis completed in the University of Colorado Boulder's history department by Chloe Zehr."
+
+# Sidebar Configuration
+sidebar:
+  - title: "Navigation"
+    nav:
+      - title: "Home"
+        url: /
+      - title: "About"
+        url: /about/
+      - title: "Project Description"
+        url: /project-description/
+      - title: "Why Digital History?"
+        url: /why-digital-history/
+      - title: "Methodology and Data"
+        url: /methodology-and-data/
+      - title: "Tools and Resources"
+        url: /tools-and-resources/
+
+# Navigation Links for Header
+nav_links:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Project Description"
+    url: /project-description/
+  - title: "Why Digital History?"
+    url: /why-digital-history/
+  - title: "Methodology and Data"
+    url: /methodology-and-data/
+  - title: "Tools and Resources"
+    url: /tools-and-resources/
+
+# Footer Links (Optional)
+footer_links:
+  - title: "GitHub"
+    url: "https://github.com/chloeazehr/phrasing-insurrection"
+  - title: "Contact"
+    url: "chloeazehr@gmail.com"
