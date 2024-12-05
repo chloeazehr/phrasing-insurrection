@@ -1,9 +1,6 @@
 ---
-layout: single
+layout: default
 title: "Methodology and Data"
-sidebar: true
-toc: true
-toc_sticky: true
 permalink: /methodology-and-data/
 ---
 
