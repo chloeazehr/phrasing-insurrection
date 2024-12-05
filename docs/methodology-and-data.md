@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "Methodology and Data"
-toc: true
 sidebar: true
+toc: true
 toc_sticky: true
+permalink: /about/
 ---
 
 ## Computational Methods
