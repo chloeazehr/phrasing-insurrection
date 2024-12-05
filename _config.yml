@@ -1,3 +1,49 @@
+# Site Information
+title: "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance"
+description: "A master's thesis completed in the University of Colorado Boulder's history department by Chloe Zehr."
+baseurl: "/phrasing-insurrection"  # Ensure this matches your repository name exactly
+url: "https://chloeazehr.github.io"  # Your GitHub Pages URL
+
+# Theme
 theme: minimal
-title: Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the *South Carolina Gazette* and *Virginia Gazette* in the Eighteenth-Century
-description: A master's thesis completed in the University of Colorado Boulder's history department by Chloe Zehr. 
+
+# Plugins (optional for extra functionality)
+plugins:
+  - jekyll-seo-tag    # Improves SEO
+  - jekyll-sitemap    # Generates a sitemap.xml for search engines
+  - jekyll-feed       # Provides an RSS feed
+
+# Sidebar Navigation (manually implemented in layout)
+defaults:
+  - scope:
+      path: ""  # Applies to all files in the repository
+    values:
+      sidebar:
+        - title: "Navigation"
+          links:
+            - name: "Home"
+              href: /index.html
+            - name: "About"
+              href: /about.html
+            - name: "Project Description"
+              href: /project-description.html
+            - name: "Why Digital History?"
+              href: /why-digital-history.html
+            - name: "Methodology and Data"
+              href: /methodology-and-data.html
+            - name: "Tools and Resources"
+              href: /tools-and-resources.html
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub Flavored Markdown for compatibility
+
+# Permalinks
+permalink: pretty  # Removes .html extensions from URLs for cleaner links
+
+# Custom Stylesheet (optional)
+# Uncomment to add custom styles:
+# include:
+#   - assets/style.css
+
