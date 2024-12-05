@@ -1,9 +1,6 @@
 ---
-layout: home
+layout: default
 title: "Home"
-sidebar: true
-toc: true
-toc_sticky: true
 permalink: /
 ---
 
