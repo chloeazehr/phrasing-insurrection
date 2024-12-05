@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Why Digital History"
+toc: true
+---
+
 ## Why Digital History? What can text data show us?
 #### Co-Occurrence of Nouns and Adjectives in Corpus One 1732-1742
 ![image](https://github.com/user-attachments/assets/6dc422c1-5349-466a-901c-0897810f0df8)
