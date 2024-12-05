@@ -3,6 +3,7 @@ layout: single
 title: "Tools and Resources"
 toc: true
 sidebar: true  
+toc_sticky: true
 ---
 
 ## Computational Tools and Data/Archival Resources
