@@ -164,6 +164,9 @@ I have attempted to thoroughly annotate and document my code in the RMD files st
 ## Licenses
 CC0 1.0 Universal
 
+## AI Contribution Acknowledgment for GitHub Pages Site
+This project includes code and text partially generated with the assistance of OpenAI's ChatGPT for generating Markdown and HTML code in designing the GitHub pages project website. The use of AI-generated content is licensed under the same terms as the rest of the repository.
+
 ---
 
 ## Author
