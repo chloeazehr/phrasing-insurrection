@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "Tools and Resources"
+sidebar: true
 toc: true
-sidebar: true  
 toc_sticky: true
+permalink: /tools-and-resources/
 ---
 
 ## Computational Tools and Data/Archival Resources
