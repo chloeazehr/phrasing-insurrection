@@ -1,11 +1,10 @@
 ---
-layout: single
+layout: home
 title: "Home"
-toc: true  # Enables a table of contents for the page
-sidebar: true  # Ensures the sidebar appears
-toc_sticky: true 
+description: "Welcome to Phrasing Insurrection"
+permalink: /
+sidebar: true
 ---
-
 
 # Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775
 
