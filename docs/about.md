@@ -1,9 +1,6 @@
 ---
-layout: single
+layout: default
 title: "About"
-sidebar: true
-toc: true
-toc_sticky: true
 permalink: /about/
 ---
 
