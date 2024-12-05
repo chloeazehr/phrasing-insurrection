@@ -4,7 +4,7 @@ title: "Methodology and Data"
 sidebar: true
 toc: true
 toc_sticky: true
-permalink: /about/
+permalink: /methodology-and-data/
 ---
 
 ## Computational Methods
