@@ -1,13 +1,4 @@
 # Site Information
 title: Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette between 1732 and 1775
 description: A master's thesis completed in the University of Colorado Boulder's history department by Chloe Zehr.
-baseurl: "/phrasing-insurrection" 
-url: "https://chloeazehr.github.io" 
-
-# Build settings
-remote_theme: pmarsceill/just-the-docs
-# theme: "just-the-docs"
-color_scheme: light
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
