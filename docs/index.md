@@ -4,8 +4,6 @@ This respository contains the associated data and code for "Phrasing Insurrectio
 
 > “Language, incontestably, reveals the speaker. Language, also, far more dubiously, is meant to define the other—and, in this case, the other is refusing to be defined by a language that has never been able to recognize him. People evolve a language in order to describe and thus control their circumstances, or in order not to be submerged by a reality that they cannot articulate. (And, if they cannot articulate it, they are submerged.)” - James Baldwin, “If Black English Isn’t a Language, Then Tell Me, What Is?” (1979)
 
-Explore this project on GitHub Pages: [Phrasing Insurrection](https://chloeazehr.github.io/phrasing-insurrection/)
-
 ---
 
 ## Table of Contents
