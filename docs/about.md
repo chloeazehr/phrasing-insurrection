@@ -2,7 +2,8 @@
 layout: single
 title: "About"
 toc: true
-sidebar: true  # Ensures the sidebar appears
+sidebar: true 
+toc_sticky: true
 ---
 
 
