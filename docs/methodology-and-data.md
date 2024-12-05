@@ -3,6 +3,7 @@ layout: single
 title: "Methodology and Data"
 toc: true
 sidebar: true
+toc_sticky: true
 ---
 
 ## Computational Methods
