@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "Project Description"
+sidebar: true
 toc: true
-sidebar: true 
 toc_sticky: true
+permalink: /project-description/
 ---
 
 ## Project Description
