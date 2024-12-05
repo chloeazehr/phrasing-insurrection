@@ -3,6 +3,7 @@ layout: single
 title: "Project Description"
 toc: true
 sidebar: true 
+toc_sticky: true
 ---
 
 ## Project Description
