@@ -3,6 +3,7 @@ layout: single
 title: "Home"
 toc: true  # Enables a table of contents for the page
 sidebar: true  # Ensures the sidebar appears
+toc_sticky: true 
 ---
 
 
