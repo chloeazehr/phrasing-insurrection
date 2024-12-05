@@ -4,23 +4,39 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
   {{ site.seo_tag }}
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
   <header>
-    <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+    <div class="container">
+      <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+    </div>
   </header>
 
-  <nav>
-    <ul>
-      {% for item in site.defaults[0].values.sidebar[0].links %}
-        <li><a href="{{ item.href }}">{{ item.name }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  <div class="container" style="display: flex;">
+    <!-- Sidebar -->
+    <nav style="width: 250px; padding: 1em; background-color: #f4f4f4;">
+      <h2>Navigation</h2>
+      <ul>
+        {% for item in site.defaults[0].values.sidebar %}
+          {% for link in item.links %}
+            <li><a href="{{ link.href | relative_url }}">{{ link.name }}</a></li>
+          {% endfor %}
+        {% endfor %}
+      </ul>
+    </nav>
 
-  <main>
-    {{ content }}
-  </main>
+    <!-- Main Content -->
+    <main style="flex-grow: 1; padding: 1em;">
+      {{ content }}
+    </main>
+  </div>
+
+  <footer style="text-align: center; margin-top: 2em;">
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+  </footer>
 </body>
 </html>
