@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Methodology and Data"
+toc: true
+---
+
 ## Computational Methods
 Through methods of text mining for historical analysis, the computational research produced in this project primarily focused on linguistic features such as collocations, context-dependent pairings of words that frequently occur together; concordances, a tool for viewing all instances of a given word or phrase and its surrounding context; part of speech co-occurrence; the frequency of passive voice constructions; and syntactic dependency relationships, which refer to the grammatical relations between words in a sentence. In particular, this study focused continuities and discontinuties in part of speech co-occurrence, such as pronouns and adjectives or nouns, and diachronic rates of passive and active voice constructions. The greatest challenge to employing these methods to explore the rhetoric of collective enslaved resistance published in the *South Carolina Gazette* and *Virginia Gazette* is the fact that both newspapers published relatively few total words on the topic—a product of doing business in Lowcountry and Chesapeake in the eighteenth century. It is for this reason that this study does not employ digital methods such as word embeddings, which enables computers to represent words as numbers that can produce abstract conceptions of word similarity over time, or statistical measurements of significance. Thus, as a case study this project primarily illustrates the fine-grained ways in which historians working with relatively small amounts of historic data can still appropriately and productively enage with digital methods to ask new questions about the past. 
 
