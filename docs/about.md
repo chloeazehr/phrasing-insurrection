@@ -1,3 +1,10 @@
+---
+layout: single
+title: "About"
+toc: true
+---
+
+
 ## Author
 Chloe A. Zehr (she/they)
 
