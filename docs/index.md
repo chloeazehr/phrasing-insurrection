@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Home"
 sidebar: true
 toc: true
