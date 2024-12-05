@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "About"
+sidebar: true
 toc: true
-sidebar: true 
 toc_sticky: true
+permalink: /about/
 ---
-
 
 ## Author
 Chloe A. Zehr (she/they)
