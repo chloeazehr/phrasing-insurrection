@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Why Digital History"
+title: "Why Digital History?"
+sidebar: true
 toc: true
-sidebar: true 
 toc_sticky: true
+permalink: /why-digital-history/
 ---
 
 ## Why Digital History? What can text data show us?
