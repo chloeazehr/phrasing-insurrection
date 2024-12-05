@@ -1,9 +1,6 @@
 ---
-layout: single
+layout: default
 title: "Tools and Resources"
-sidebar: true
-toc: true
-toc_sticky: true
 permalink: /tools-and-resources/
 ---
 
