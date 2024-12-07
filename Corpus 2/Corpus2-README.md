@@ -1,5 +1,5 @@
 # Corpus 2 Description
-Corpus 2 is a dataset I generated from [History Commons](https://history-commons.net/) online archives that contains contains 24,044 words and metadata for fifty-six articles published in the *Virginia Gazette* between the 1730s and the 1770s that reference varying forms of collective enslaved resistance.
+Corpus 2 is a dataset I generated from [History Commons](https://history-commons.net/) online archives that contains 24,044 words and metadata for fifty-six articles published in the *Virginia Gazette* between the 1730s and the 1770s that reference varying forms of collective enslaved resistance.
 
 ## Folder Structure
 The folder for Corpus 2 contains three sub-folders: Data, PassivePy Analysis, and UDPIPE Part of Speech Tagging and Analysis.
