@@ -1,14 +1,12 @@
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette between 1732 and 1775
+author: Chloe A. Zehr
+  name: chloeazehr
+  email: chloeazehr@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  This website reflects the work of Chloe Zehr's master's thesis in history at the University of Colorado Boulder, completed in the Fall of 2024.
 
 # Build settings
 
