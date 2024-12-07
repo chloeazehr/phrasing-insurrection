@@ -1,14 +1,11 @@
 # Corpus 1
 
----
 
 ## Corpus 1 Description
 Corpus 1 is a dataset I generated from [History Commons](https://history-commons.net/) online archives that contains 18,060 words published across forty-five articles in the *South Carolina Gazette* between the 1730s and the 1770s that reference varying forms of collective enslaved resistance.
 
 ## Folder Structure
 The folder for Corpus 1 contains three sub-folders: Data, PassivePy Analysis, and UDPIPE Part of Speech Tagging and Analysis.
-
----
 
 ### Data Folder Contents:
 - Corpus1-overview.md: A file that describes the contents of the Corpus 1 dataset - including each variable included
