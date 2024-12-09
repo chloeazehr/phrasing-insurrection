@@ -1,4 +1,4 @@
-# Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775
+# Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance Published in the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775
 
 This respository contains the associated data and code for "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775." This study explores how digital methods, such as text mining and computational corpus linguistics, can inform novel research questions and approaches to what we can know about white colonial conceptions of collective enslaved resistance in the eighteenth century. 
 
