@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Project Description"
-permalink: /project-description/
+nav_order: 3
 ---
 
 ## Project Description
