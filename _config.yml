@@ -1,0 +1,22 @@
+title: "Phrasing Insurrection"
+theme: "just-the-docs"
+just_the_docs:
+  # This enables the sidebar menu
+  nav_order: 1
+  show_toc: true
+  search_enabled: true
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Project Description"
+    url: "/project-description/"
+  - title: "Why Digital History?"
+    url: "/why-digital-history/"
+  - title: "Methodology and Data"
+    url: "/methodology-and-data/"
+ - title: "Tools and Resources"
+    url: "/tools-and-resources/"
