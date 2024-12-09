@@ -1,8 +1,6 @@
 title: "Phrasing Insurrection"
-theme: "just-the-docs"
-
+remote_theme: "just-the-docs/just-the-docs" # Use remote_theme for GitHub Pages
 just_the_docs:
-  # Enables sidebar menu and additional features
   nav_order: 1
   show_toc: true
   search_enabled: true
