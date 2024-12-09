@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Methodology and Data"
-permalink: /methodology-and-data/
+nav_order: 4
 ---
 
 ## Computational Methods
