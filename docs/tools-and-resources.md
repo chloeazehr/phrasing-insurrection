@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tools and Resources"
-permalink: /tools-and-resources/
+nav_order: 6
 ---
 
 ## Computational Tools and Data/Archival Resources
