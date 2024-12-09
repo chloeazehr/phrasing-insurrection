@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Why Digital History?"
-permalink: /why-digital-history/
+nav_order: 5
 ---
 
 ## Why Digital History? What can text data show us?
