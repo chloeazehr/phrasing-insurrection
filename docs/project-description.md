@@ -17,15 +17,11 @@ By engaging with such questions, this project employs digital methods to re-exam
         style="border: none; width: 100%; height: 600px;">
 </iframe>
 
-The blue dots on this map represent the principal place of purchase of enslaved people on voyages that eventually disembarked in South Carolina (1732–1775). 
-The red dots represent locations referenced in reports published in the *South Carolina Gazette* about enslaved resistance (insurrections, conspiracies, plots, uprisings, or revolts).
 
 <iframe src="https://jyg5kn-chloe-zehr.shinyapps.io/app2/" 
         style="border: none; width: 100%; height: 600px;">
 </iframe>
 
-The blue dots on this map represent the principal place of purchase of enslaved people on voyages that eventually disembarked in Virginia (1736–1775). 
-The red dots represent locations referenced in reports published in the *Virginia Gazette* about enslaved resistance (insurrections, conspiracies, plots, uprisings, or revolts).
 
 ---
 
