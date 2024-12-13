@@ -28,7 +28,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ---
 
-## AI Contribution Acknowledgment for GitHub Pages Site
+## AI Contribution Acknowledgment
 This project includes code and text partially generated with the assistance of OpenAI's ChatGPT for generating Markdown and HTML code in designing the GitHub pages project website as well as my interactive maps with [leaflet](https://leafletjs.com/) using R. The use of AI-generated content is licensed under the same terms as the rest of the repository.
 
 ---
