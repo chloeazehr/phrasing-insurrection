@@ -6,6 +6,23 @@ Explore this project on GitHub Pages: [Phrasing Insurrection](https://chloeazehr
 
 ---
 
+## Repository Structure
+This repository contains the data, code, and visualizations developed for this project organized by content type and methodology. 
+
+### Text Mining and Computational Corpus Linguistics
+- Corpus 1: This folder contains the data, code, and visualizations derived from my investigations of the *South Carolina Gazette*'s reports that referenced collective enslaved resistance throughout its entire publication in the eighteenth century. For further documentation of this corpus and folder see the [Corpus 1 README file](https://github.com/chloeazehr/phrasing-insurrection/blob/main/Corpus%201/Corpus1-README.md).
+- Corpus 2: This folder contains the data, code, and visualizations derived from my investigations of the *Virginia Gazette*'s reports that referenced collective enslaved resistance in the eighteenth century - namely between 1736 and 1775. As my research notes, this corpus contains text data from multiple publications of the *Virginia Gazette* that were published in Williamsburg, VA, in the 1700s. For further documentation of this corpus and folder see the [Corpus 2 README file](https://github.com/chloeazehr/phrasing-insurrection/blob/main/Corpus%202/Corpus2-README.md).
+- Corpus 3: This folder contains a tertiary dataset I derived from both the *South Carolina Gazette* and the *Virginia Gazette* regularly featured news, correspondence, and editorials that discussed non-slave-related forms of unrest from across the globe between the 1730s and 1770s. This corpus was primarily designed for content analysis. For further documentation of this corpus and folder see the [Corpus 3 README file](https://github.com/chloeazehr/phrasing-insurrection/edit/main/Corpus%203/Corpus3-README.md).
+
+In the folders for Corpus 1, Corpus 2, and Corpus 3, the Data folder also includes respective corpus overview files that describe the variables/metadata collected for each corpus. I also created a Combined Corpus csv file (located in the main branch of this repository) that includes all the data from Corpus 1, Corpus 2, and Corpus 3. 
+
+### Experimental Spatial Mapping
+- Mapping: this folder contains two sub-folders of data, images, and code for developing interactive maps that highlight data on human trafficking and news of ensalved resistance published in the *South Carolina Gazette* and the *Virginia Gazette.*
+1. QGIS and Geo-Location Data: this folder contains general data from from the [Slave Voyages](https://www.slavevoyages.org/) Trans-Atlantic and Intra-American databases alongside versions of Corpus 1 and Corpus 2 that contain the longitude and latitude for locations that were referenced in reports that mentioned forms of collective enslaved resistance lead by people from Africa and their descendants. 
+2. Leaflet Map: this folder contains the data and scripts used to run both shiny application maps I designed with the help of scholars at CU Boulder's Center for Research Data and Digital Scholarship as well as with debugging assistance from [OpenAI's ChatGPT 4](https://chatgpt.com/). These maps can be explored on the project's [GitHub Pages website](https://chloeazehr.github.io/phrasing-insurrection/). 
+
+---
+
 ## Licenses
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
