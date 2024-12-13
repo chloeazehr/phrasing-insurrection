@@ -39,6 +39,7 @@ Chloe A. Zehr (she/they)
 B.A., History, University of California, Santa Barbara, 2021
 
 M.A., History, University of Colorado Boulder, 2024
+- Certificate in Digital Humanities, 2024
 
 Contact: Chloe.Zehr@colorado.edu & chloeazehr@gmail.com
 
