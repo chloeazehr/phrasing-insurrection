@@ -17,7 +17,7 @@ This repository contains the data, code, and visualizations developed for this p
 In the folders for Corpus 1, Corpus 2, and Corpus 3, the Data folder also includes respective corpus overview files that describe the variables/metadata collected for each corpus. I also created a Combined Corpus csv file (located in the main branch of this repository) that includes all the data from Corpus 1, Corpus 2, and Corpus 3. 
 
 ### Experimental Spatial Mapping
-- Mapping: this folder contains two sub-folders of data, images, and code for developing interactive maps that highlight data on human trafficking and news of ensalved resistance published in the *South Carolina Gazette* and the *Virginia Gazette.*
+Mapping: this folder contains two sub-folders of data, images, and code for developing interactive maps that highlight data on human trafficking and news of ensalved resistance published in the *South Carolina Gazette* and the *Virginia Gazette.*
 1. QGIS and Geo-Location Data: this folder contains general data from from the [Slave Voyages](https://www.slavevoyages.org/) Trans-Atlantic and Intra-American databases alongside versions of Corpus 1 and Corpus 2 that contain the longitude and latitude for locations that were referenced in reports that mentioned forms of collective enslaved resistance lead by people from Africa and their descendants. 
 2. Leaflet Map: this folder contains the data and scripts used to run both shiny application maps I designed with the help of scholars at CU Boulder's Center for Research Data and Digital Scholarship as well as with debugging assistance from [OpenAI's ChatGPT 4](https://chatgpt.com/). These maps can be explored on the project's [GitHub Pages website](https://chloeazehr.github.io/phrasing-insurrection/). 
 
