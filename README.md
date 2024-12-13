@@ -36,10 +36,11 @@ This project includes code and text partially generated with the assistance of O
 ## Author
 Chloe A. Zehr (she/they)
 
-B.A., History, University of California, Santa Barbara, 2021
-
 M.A., History, University of Colorado Boulder, 2024
 - Certificate in Digital Humanities, 2024
+
+B.A., History, University of California, Santa Barbara, 2021
+
 
 Contact: Chloe.Zehr@colorado.edu & chloeazehr@gmail.com
 
