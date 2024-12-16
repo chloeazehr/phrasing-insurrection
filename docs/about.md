@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Author
-<img align="right" width="100" height="100" src="![image](https://github.com/user-attachments/assets/a18a0849-4875-43dc-bfed-dcf002e35fb0)
+<img align="right" width="500" height="500" src="![image](https://github.com/user-attachments/assets/a18a0849-4875-43dc-bfed-dcf002e35fb0)
 ">
 
 ## Chloe A. Zehr (she/they)
