@@ -5,13 +5,16 @@ nav_order: 2
 ---
 
 # Author
-<img align="right" width="500" height="500" src="
+
+<img align="right" width="500" height="500" src="![IMG_7387](https://github.com/user-attachments/assets/449b13b2-395f-46a6-9336-fa1eb1dbef3d)"
+
 
 ">
 
 ## Chloe A. Zehr (she/they)
 M.A., History, University of Colorado Boulder, 2024
 - Graduate Certificate in Digital Humanities, University of Colorado Boulder, 2024
+
 B.A., History, University of California, Santa Barbara, 2021
 
 Chloe started her MA in the Fall of 2022. Their research focused on eighteenth and nineteenth-century enslaved resistance and the reconstruction of those histories in the twentieth century. Pairing traditional archival methodologies with digital methods such as computer programming, digital storytelling, and mapping Chloe's work attempts to address deeper contextualizations of enslaved resistance, especially as early Black intellectuals retold those histories in the early twentieth century. Chloe earned their B.A. in History at the University of California, Santa Barbara, where they primarily studied how enslaved resistance informed gendered constructs of Black femininity in the Caribbean. 
