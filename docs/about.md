@@ -6,10 +6,7 @@ nav_order: 2
 
 # Author
 
-<img align="right" width="500" height="500" src="![IMG_7387](https://github.com/user-attachments/assets/449b13b2-395f-46a6-9336-fa1eb1dbef3d)"
-
-
-">
+<img align="right" width="500" height="500" src="![IMG_7387](https://github.com/user-attachments/assets/449b13b2-395f-46a6-9336-fa1eb1dbef3d)">
 
 ## Chloe A. Zehr (she/they)
 M.A., History, University of Colorado Boulder, 2024
