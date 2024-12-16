@@ -5,6 +5,10 @@ just_the_docs:
   show_toc: true
   search_enabled: true
 
+# Include additional folders/files
+include:
+  - assets
+
 # Navigation menu
 nav:
   - title: "Home"
