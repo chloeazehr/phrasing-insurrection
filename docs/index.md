@@ -46,4 +46,4 @@ While this study focuses on regional representations of enslaved resistance, it 
 The language of colonial newspapers persists today, shaping media portrayals of protest and reinforcing systemic injustices. Nathan Robinson highlights how passive voice remains:  
 > “the favorite rhetorical tool of propagandists worldwide, who ‘regret the mistakes that were made’ without having to admit who made them.”  
 
-This thesis argues that by uncovering the grammars of colonial resistance, we can better understand—and dismantle—the legacies of how black resistance was framed and controlled through language.
+This research acts as a reminder that by engaging with interdisciplinary methods to locate the consolidations and adaptations of the grammars of colonial response, we can chart—and further dismantle—the structural legacies of colonial newspapers’ representations of black political violence. 
