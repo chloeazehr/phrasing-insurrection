@@ -6,9 +6,6 @@ nav_order: 2
 
 # Author
 ## Chloe A. Zehr (she/they) 
-
-<img align="right" width="500" height="500" src="{{ '/assets/images/IMG_7387.jpg' | relative_url }}" alt = "Chloe Zehr Profile Picture">
-
 M.A., History, University of Colorado Boulder, 2024
 - Graduate Certificate in Digital Humanities, University of Colorado Boulder, 2024
 
