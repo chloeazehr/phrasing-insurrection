@@ -36,7 +36,7 @@ This project applies digital history to “count it out differently,” using te
 
 By analyzing the grammar used by white enslavers, ship captains, and planters, this study uncovers how language diminished black agency. Patterns of omission made visible through computational methods reveal how enslaved resistance disrupted colonial narratives.
 
-Jennifer Morgan describes grammar as:  
+Jennifer Morgan describes data as:  
 > “the prisons of meaning enslaved people struggled against.”  
 
 This project shows that computational methods can highlight these patterns, but context remains essential. Small datasets on slavery and resistance require historical interpretation. Historians, skilled in contextual analysis, are uniquely positioned to apply data science to uncover hidden narratives.
