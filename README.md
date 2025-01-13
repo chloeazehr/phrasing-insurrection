@@ -8,7 +8,7 @@ Explore this project on GitHub Pages: [Phrasing Insurrection](https://chloeazehr
 
 ---
 
-## Repository Structure
+## Repository Overview
 This repository contains the data, code, and visualizations developed for this project organized by content type and methodology. 
 
 ### Text Mining and Computational Corpus Linguistics
