@@ -30,16 +30,3 @@ Although the primary focus of this study is on the text published in the colonia
 
 As a case study, this project engages with contemporary discussions at the forefront of interdisciplinary scholarship at the intersections between studies of early modern slavery, enslaved resistance, colonialism, race, and capitalism and digital history, digital humanities (particularly critical black DH), and data science. However, as an experiment it remains hyper-focussed on the possibilities of close historical contextualization of even the smallest patterns that emerge through computational inquiry.
 
---- 
-
-## Interactive Maps
-
-<iframe src="https://jyg5kn-chloe-zehr.shinyapps.io/shiny_app_sc-1/" 
-        style="border: none; width: 100%; height: 600px;">
-</iframe>
-
-
-<iframe src="https://jyg5kn-chloe-zehr.shinyapps.io/app2/" 
-        style="border: none; width: 100%; height: 600px;">
-</iframe>
-
