@@ -16,7 +16,7 @@ Chloe started her MA in the Fall of 2022. Their research focused on eighteenth a
 ### Contact: 
 Email: Chloe.Zehr@colorado.edu & chloeazehr@gmail.com
 [LinkedIn](https://www.linkedin.com/in/chloe-zehr-3a855526b/)
-[GitHub](https://github.com/chloeazehr?tab=repositories)
+[GitHub](https://github.com/chloeazehr)
 
 ### Other Projects
 - Center for Data Research and Digital Scholarship [Data Bootcamp Project](https://github.com/chloeazehr/CRDDS-Data-Bootcamp-Chloe-Zehr)
