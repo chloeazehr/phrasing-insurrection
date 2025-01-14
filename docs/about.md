@@ -3,6 +3,8 @@ layout: default
 title: "About"
 nav_order: 2
 ---
+
+## About the Project
 This website highlights the findings and arguments explored in Chloe Zehr's M.A. thesis, "Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the South Carolina Gazette and Virginia Gazette between 1732 and 1775," completed in Fall, 2024, at the University of Colorado Boulder. This study investigated how digital methods, such as text mining and computational corpus linguistics, can inform novel research questions and approaches to what we can know about white colonial conceptions of collective enslaved resistance in the eighteenth century. Moreover, this research calls into question how the grammars of colonial response were mutually constituted alongside the rise of hereditary racial slavery in colonial North America.
 
 ## Author
