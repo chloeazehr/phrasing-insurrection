@@ -3,9 +3,7 @@ layout: default
 title: "Home"
 nav_order: 1
 ---
-
-# Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775
-
+![Phrasing Insurrection: A Computational Study of the Grammars of Collective Enslaved Resistance in the *South Carolina Gazette* and *Virginia Gazette* between 1732 and 1775](https://github.com/user-attachments/assets/ff10cc8e-819b-45fe-b10a-6a4841783f37)
 
 ## Table of Contents
 - [About the author](about.md)
